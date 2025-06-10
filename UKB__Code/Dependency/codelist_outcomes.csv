@@ -1,0 +1,856 @@
+"icd10","cancer_site","tag"
+"C44","Non cancerous ICD10",0
+"C440","Non cancerous ICD10",0
+"C441","Non cancerous ICD10",0
+"C442","Non cancerous ICD10",0
+"C443","Non cancerous ICD10",0
+"C444","Non cancerous ICD10",0
+"C445","Non cancerous ICD10",0
+"C446","Non cancerous ICD10",0
+"C447","Non cancerous ICD10",0
+"C448","Non cancerous ICD10",0
+"C449","Non cancerous ICD10",0
+"D00","Non cancerous ICD10",0
+"D000","Non cancerous ICD10",0
+"D001","Non cancerous ICD10",0
+"D002","Non cancerous ICD10",0
+"D01","Non cancerous ICD10",0
+"D010","Non cancerous ICD10",0
+"D011","Non cancerous ICD10",0
+"D012","Non cancerous ICD10",0
+"D013","Non cancerous ICD10",0
+"D014","Non cancerous ICD10",0
+"D015","Non cancerous ICD10",0
+"D017","Non cancerous ICD10",0
+"D019","Non cancerous ICD10",0
+"D02","Non cancerous ICD10",0
+"D020","Non cancerous ICD10",0
+"D021","Non cancerous ICD10",0
+"D022","Non cancerous ICD10",0
+"D023","Non cancerous ICD10",0
+"D024","Non cancerous ICD10",0
+"D03","Non cancerous ICD10",0
+"D030","Non cancerous ICD10",0
+"D031","Non cancerous ICD10",0
+"D032","Non cancerous ICD10",0
+"D033","Non cancerous ICD10",0
+"D034","Non cancerous ICD10",0
+"D035","Non cancerous ICD10",0
+"D036","Non cancerous ICD10",0
+"D037","Non cancerous ICD10",0
+"D038","Non cancerous ICD10",0
+"D039","Non cancerous ICD10",0
+"D04","Non cancerous ICD10",0
+"D040","Non cancerous ICD10",0
+"D041","Non cancerous ICD10",0
+"D042","Non cancerous ICD10",0
+"D043","Non cancerous ICD10",0
+"D044","Non cancerous ICD10",0
+"D045","Non cancerous ICD10",0
+"D046","Non cancerous ICD10",0
+"D047","Non cancerous ICD10",0
+"D048","Non cancerous ICD10",0
+"D049","Non cancerous ICD10",0
+"D07","Non cancerous ICD10",0
+"D070","Non cancerous ICD10",0
+"D071","Non cancerous ICD10",0
+"D072","Non cancerous ICD10",0
+"D073","Non cancerous ICD10",0
+"D074","Non cancerous ICD10",0
+"D075","Non cancerous ICD10",0
+"D076","Non cancerous ICD10",0
+"D091","Non cancerous ICD10",0
+"D092","Non cancerous ICD10",0
+"D093","Non cancerous ICD10",0
+"D097","Non cancerous ICD10",0
+"D099","Non cancerous ICD10",0
+"D10","Non cancerous ICD10",0
+"D100","Non cancerous ICD10",0
+"D101","Non cancerous ICD10",0
+"D102","Non cancerous ICD10",0
+"D103","Non cancerous ICD10",0
+"D104","Non cancerous ICD10",0
+"D105","Non cancerous ICD10",0
+"D106","Non cancerous ICD10",0
+"D107","Non cancerous ICD10",0
+"D109","Non cancerous ICD10",0
+"D11","Non cancerous ICD10",0
+"D110","Non cancerous ICD10",0
+"D117","Non cancerous ICD10",0
+"D119","Non cancerous ICD10",0
+"D12","Non cancerous ICD10",0
+"D120","Non cancerous ICD10",0
+"D121","Non cancerous ICD10",0
+"D122","Non cancerous ICD10",0
+"D123","Non cancerous ICD10",0
+"D124","Non cancerous ICD10",0
+"D125","Non cancerous ICD10",0
+"D126","Non cancerous ICD10",0
+"D127","Non cancerous ICD10",0
+"D128","Non cancerous ICD10",0
+"D129","Non cancerous ICD10",0
+"D13","Non cancerous ICD10",0
+"D130","Non cancerous ICD10",0
+"D131","Non cancerous ICD10",0
+"D132","Non cancerous ICD10",0
+"D133","Non cancerous ICD10",0
+"D134","Non cancerous ICD10",0
+"D135","Non cancerous ICD10",0
+"D136","Non cancerous ICD10",0
+"D137","Non cancerous ICD10",0
+"D139","Non cancerous ICD10",0
+"D14","Non cancerous ICD10",0
+"D140","Non cancerous ICD10",0
+"D141","Non cancerous ICD10",0
+"D142","Non cancerous ICD10",0
+"D143","Non cancerous ICD10",0
+"D144","Non cancerous ICD10",0
+"D15","Non cancerous ICD10",0
+"D150","Non cancerous ICD10",0
+"D151","Non cancerous ICD10",0
+"D152","Non cancerous ICD10",0
+"D157","Non cancerous ICD10",0
+"D159","Non cancerous ICD10",0
+"D16","Non cancerous ICD10",0
+"D160","Non cancerous ICD10",0
+"D161","Non cancerous ICD10",0
+"D162","Non cancerous ICD10",0
+"D163","Non cancerous ICD10",0
+"D164","Non cancerous ICD10",0
+"D165","Non cancerous ICD10",0
+"D166","Non cancerous ICD10",0
+"D167","Non cancerous ICD10",0
+"D168","Non cancerous ICD10",0
+"D169","Non cancerous ICD10",0
+"D17","Non cancerous ICD10",0
+"D170","Non cancerous ICD10",0
+"D171","Non cancerous ICD10",0
+"D172","Non cancerous ICD10",0
+"D173","Non cancerous ICD10",0
+"D174","Non cancerous ICD10",0
+"D175","Non cancerous ICD10",0
+"D176","Non cancerous ICD10",0
+"D177","Non cancerous ICD10",0
+"D179","Non cancerous ICD10",0
+"D18","Non cancerous ICD10",0
+"D180","Non cancerous ICD10",0
+"D181","Non cancerous ICD10",0
+"D19","Non cancerous ICD10",0
+"D190","Non cancerous ICD10",0
+"D191","Non cancerous ICD10",0
+"D197","Non cancerous ICD10",0
+"D199","Non cancerous ICD10",0
+"D20","Non cancerous ICD10",0
+"D200","Non cancerous ICD10",0
+"D201","Non cancerous ICD10",0
+"D21","Non cancerous ICD10",0
+"D210","Non cancerous ICD10",0
+"D211","Non cancerous ICD10",0
+"D212","Non cancerous ICD10",0
+"D213","Non cancerous ICD10",0
+"D214","Non cancerous ICD10",0
+"D215","Non cancerous ICD10",0
+"D216","Non cancerous ICD10",0
+"D219","Non cancerous ICD10",0
+"D22","Non cancerous ICD10",0
+"D220","Non cancerous ICD10",0
+"D221","Non cancerous ICD10",0
+"D222","Non cancerous ICD10",0
+"D223","Non cancerous ICD10",0
+"D224","Non cancerous ICD10",0
+"D225","Non cancerous ICD10",0
+"D226","Non cancerous ICD10",0
+"D227","Non cancerous ICD10",0
+"D229","Non cancerous ICD10",0
+"D23","Non cancerous ICD10",0
+"D230","Non cancerous ICD10",0
+"D231","Non cancerous ICD10",0
+"D232","Non cancerous ICD10",0
+"D233","Non cancerous ICD10",0
+"D234","Non cancerous ICD10",0
+"D235","Non cancerous ICD10",0
+"D236","Non cancerous ICD10",0
+"D237","Non cancerous ICD10",0
+"D239","Non cancerous ICD10",0
+"D25","Non cancerous ICD10",0
+"D250","Non cancerous ICD10",0
+"D251","Non cancerous ICD10",0
+"D252","Non cancerous ICD10",0
+"D259","Non cancerous ICD10",0
+"D26","Non cancerous ICD10",0
+"D260","Non cancerous ICD10",0
+"D261","Non cancerous ICD10",0
+"D267","Non cancerous ICD10",0
+"D269","Non cancerous ICD10",0
+"D28","Non cancerous ICD10",0
+"D280","Non cancerous ICD10",0
+"D281","Non cancerous ICD10",0
+"D282","Non cancerous ICD10",0
+"D287","Non cancerous ICD10",0
+"D289","Non cancerous ICD10",0
+"D29","Non cancerous ICD10",0
+"D290","Non cancerous ICD10",0
+"D291","Non cancerous ICD10",0
+"D292","Non cancerous ICD10",0
+"D293","Non cancerous ICD10",0
+"D294","Non cancerous ICD10",0
+"D297","Non cancerous ICD10",0
+"D299","Non cancerous ICD10",0
+"D30","Non cancerous ICD10",0
+"D300","Non cancerous ICD10",0
+"D301","Non cancerous ICD10",0
+"D302","Non cancerous ICD10",0
+"D303","Non cancerous ICD10",0
+"D304","Non cancerous ICD10",0
+"D307","Non cancerous ICD10",0
+"D309","Non cancerous ICD10",0
+"D31","Non cancerous ICD10",0
+"D310","Non cancerous ICD10",0
+"D311","Non cancerous ICD10",0
+"D312","Non cancerous ICD10",0
+"D313","Non cancerous ICD10",0
+"D314","Non cancerous ICD10",0
+"D315","Non cancerous ICD10",0
+"D316","Non cancerous ICD10",0
+"D319","Non cancerous ICD10",0
+"D337","Non cancerous ICD10",0
+"D339","Non cancerous ICD10",0
+"D350","Non cancerous ICD10",0
+"D351","Non cancerous ICD10",0
+"D355","Non cancerous ICD10",0
+"D356","Non cancerous ICD10",0
+"D357","Non cancerous ICD10",0
+"D358","Non cancerous ICD10",0
+"D359","Non cancerous ICD10",0
+"D36","Non cancerous ICD10",0
+"D360","Non cancerous ICD10",0
+"D361","Non cancerous ICD10",0
+"D367","Non cancerous ICD10",0
+"D369","Non cancerous ICD10",0
+"D37","Non cancerous ICD10",0
+"D370","Non cancerous ICD10",0
+"D371","Non cancerous ICD10",0
+"D372","Non cancerous ICD10",0
+"D373","Non cancerous ICD10",0
+"D374","Non cancerous ICD10",0
+"D375","Non cancerous ICD10",0
+"D376","Non cancerous ICD10",0
+"D377","Non cancerous ICD10",0
+"D379","Non cancerous ICD10",0
+"D38","Non cancerous ICD10",0
+"D380","Non cancerous ICD10",0
+"D381","Non cancerous ICD10",0
+"D382","Non cancerous ICD10",0
+"D383","Non cancerous ICD10",0
+"D384","Non cancerous ICD10",0
+"D385","Non cancerous ICD10",0
+"D386","Non cancerous ICD10",0
+"D39","Non cancerous ICD10",0
+"D390","Non cancerous ICD10",0
+"D391","Non cancerous ICD10",0
+"D392","Non cancerous ICD10",0
+"D397","Non cancerous ICD10",0
+"D399","Non cancerous ICD10",0
+"D40","Non cancerous ICD10",0
+"D400","Non cancerous ICD10",0
+"D401","Non cancerous ICD10",0
+"D407","Non cancerous ICD10",0
+"D409","Non cancerous ICD10",0
+"D41","Non cancerous ICD10",0
+"D410","Non cancerous ICD10",0
+"D411","Non cancerous ICD10",0
+"D412","Non cancerous ICD10",0
+"D413","Non cancerous ICD10",0
+"D414","Non cancerous ICD10",0
+"D417","Non cancerous ICD10",0
+"D419","Non cancerous ICD10",0
+"D437","Non cancerous ICD10",0
+"D439","Non cancerous ICD10",0
+"D440","Non cancerous ICD10",0
+"D441","Non cancerous ICD10",0
+"D442","Non cancerous ICD10",0
+"D446","Non cancerous ICD10",0
+"D447","Non cancerous ICD10",0
+"D448","Non cancerous ICD10",0
+"D449","Non cancerous ICD10",0
+"D45","Non cancerous ICD10",0
+"D46","Non cancerous ICD10",0
+"D460","Non cancerous ICD10",0
+"D461","Non cancerous ICD10",0
+"D462","Non cancerous ICD10",0
+"D463","Non cancerous ICD10",0
+"D464","Non cancerous ICD10",0
+"D465","Non cancerous ICD10",0
+"D466","Non cancerous ICD10",0
+"D467","Non cancerous ICD10",0
+"D469","Non cancerous ICD10",0
+"D47","Non cancerous ICD10",0
+"D470","Non cancerous ICD10",0
+"D471","Non cancerous ICD10",0
+"D472","Non cancerous ICD10",0
+"D473","Non cancerous ICD10",0
+"D474","Non cancerous ICD10",0
+"D475","Non cancerous ICD10",0
+"D477","Non cancerous ICD10",0
+"D479","Non cancerous ICD10",0
+"D48","Non cancerous ICD10",0
+"D480","Non cancerous ICD10",0
+"D481","Non cancerous ICD10",0
+"D482","Non cancerous ICD10",0
+"D483","Non cancerous ICD10",0
+"D484","Non cancerous ICD10",0
+"D485","Non cancerous ICD10",0
+"D486","Non cancerous ICD10",0
+"D487","Non cancerous ICD10",0
+"D489","Non cancerous ICD10",0
+"O01","Non cancerous ICD10",0
+"O010","Non cancerous ICD10",0
+"O011","Non cancerous ICD10",0
+"O019","Non cancerous ICD10",0
+"Q85","Non cancerous ICD10",0
+"Q850","Non cancerous ICD10",0
+"Q851","Non cancerous ICD10",0
+"Q858","Non cancerous ICD10",0
+"Q859","Non cancerous ICD10",0
+"Q86","Non cancerous ICD10",0
+"Q87","Non cancerous ICD10",0
+"Q88","Non cancerous ICD10",0
+"C67","Bladder",0
+"C670","Bladder",0
+"C671","Bladder",0
+"C672","Bladder",0
+"C673","Bladder",0
+"C674","Bladder",0
+"C675","Bladder",0
+"C676","Bladder",0
+"C677","Bladder",0
+"C678","Bladder",0
+"C679","Bladder",0
+"D090","Bladder (in-situ)",0
+"C71","Brain",0
+"C710","Brain",0
+"C711","Brain",0
+"C712","Brain",0
+"C713","Brain",0
+"C714","Brain",0
+"C715","Brain",0
+"C716","Brain",0
+"C717","Brain",0
+"C718","Brain",0
+"C719","Brain",0
+"D330","Brain",0
+"D331","Brain",0
+"D332","Brain",0
+"D430","Brain",0
+"D431","Brain",0
+"D432","Brain",0
+"C70","Meninges",0
+"C700","Meninges",0
+"C701","Meninges",0
+"C709","Meninges",0
+"D32","Meninges",0
+"D320","Meninges",0
+"D321","Meninges",0
+"D329","Meninges",0
+"D42","Meninges",0
+"D420","Meninges",0
+"D421","Meninges",0
+"D429","Meninges",0
+"C720","Other CNS and intracranial",0
+"C721","Other CNS and intracranial",0
+"C722","Other CNS and intracranial",0
+"C723","Other CNS and intracranial",0
+"C724","Other CNS and intracranial",0
+"C725","Other CNS and intracranial",0
+"C751","Other CNS and intracranial",0
+"C752","Other CNS and intracranial",0
+"C753","Other CNS and intracranial",0
+"D333","Other CNS and intracranial",0
+"D334","Other CNS and intracranial",0
+"D352","Other CNS and intracranial",0
+"D353","Other CNS and intracranial",0
+"D354","Other CNS and intracranial",0
+"D433","Other CNS and intracranial",0
+"D434","Other CNS and intracranial",0
+"D443","Other CNS and intracranial",0
+"D444","Other CNS and intracranial",0
+"D445","Other CNS and intracranial",0
+"C50","Breast",0
+"C500","Breast",0
+"C501","Breast",0
+"C502","Breast",0
+"C503","Breast",0
+"C504","Breast",0
+"C505","Breast",0
+"C506","Breast",0
+"C508","Breast",0
+"C509","Breast",0
+"D05","Breast (in-situ)",0
+"D050","Breast (in-situ)",0
+"D051","Breast (in-situ)",0
+"D057","Breast (in-situ)",0
+"D059","Breast (in-situ)",0
+"C77","Unknown primary",0
+"C770","Unknown primary",0
+"C771","Unknown primary",0
+"C772","Unknown primary",0
+"C773","Unknown primary",0
+"C774","Unknown primary",0
+"C775","Unknown primary",0
+"C778","Unknown primary",0
+"C779","Unknown primary",0
+"C78","Unknown primary",0
+"C780","Unknown primary",0
+"C781","Unknown primary",0
+"C782","Unknown primary",0
+"C783","Unknown primary",0
+"C784","Unknown primary",0
+"C785","Unknown primary",0
+"C786","Unknown primary",0
+"C787","Unknown primary",0
+"C788","Unknown primary",0
+"C79","Unknown primary",0
+"C790","Unknown primary",0
+"C791","Unknown primary",0
+"C792","Unknown primary",0
+"C793","Unknown primary",0
+"C794","Unknown primary",0
+"C795","Unknown primary",0
+"C796","Unknown primary",0
+"C797","Unknown primary",0
+"C798","Unknown primary",0
+"C80","Unknown primary",0
+"C800","Unknown primary",0
+"C809","Unknown primary",0
+"C53","Cervix",0
+"C530","Cervix",0
+"C531","Cervix",0
+"C538","Cervix",0
+"C539","Cervix",0
+"D06","Cervix (in-situ)",0
+"D060","Cervix (in-situ)",0
+"D061","Cervix (in-situ)",0
+"D067","Cervix (in-situ)",0
+"D069","Cervix (in-situ)",0
+"C18","Colon",0
+"C180","Colon",0
+"C181","Colon",0
+"C182","Colon",0
+"C183","Colon",0
+"C184","Colon",0
+"C185","Colon",0
+"C186","Colon",0
+"C187","Colon",0
+"C188","Colon",0
+"C189","Colon",0
+"C19","Colon",0
+"C20","Rectum",0
+"C32","Larynx",0
+"C320","Larynx",0
+"C321","Larynx",0
+"C322","Larynx",0
+"C323","Larynx",0
+"C328","Larynx",0
+"C329","Larynx",0
+"C02","Oral cavity",0
+"C020","Oral cavity",0
+"C021","Oral cavity",0
+"C022","Oral cavity",0
+"C023","Oral cavity",0
+"C024","Oral cavity",0
+"C028","Oral cavity",0
+"C029","Oral cavity",0
+"C03","Oral cavity",0
+"C030","Oral cavity",0
+"C031","Oral cavity",0
+"C039","Oral cavity",0
+"C04","Oral cavity",0
+"C040","Oral cavity",0
+"C041","Oral cavity",0
+"C048","Oral cavity",0
+"C049","Oral cavity",0
+"C06","Oral cavity",0
+"C060","Oral cavity",0
+"C061","Oral cavity",0
+"C062","Oral cavity",0
+"C068","Oral cavity",0
+"C069","Oral cavity",0
+"C01","Oropharynx",0
+"C09","Oropharynx",0
+"C090","Oropharynx",0
+"C091","Oropharynx",0
+"C098","Oropharynx",0
+"C099","Oropharynx",0
+"C10","Oropharynx",0
+"C100","Oropharynx",0
+"C101","Oropharynx",0
+"C102","Oropharynx",0
+"C103","Oropharynx",0
+"C104","Oropharynx",0
+"C108","Oropharynx",0
+"C109","Oropharynx",0
+"C73","Thyroid",0
+"C00","Non-specific head and neck",0
+"C000","Non-specific head and neck",0
+"C001","Non-specific head and neck",0
+"C002","Non-specific head and neck",0
+"C003","Non-specific head and neck",0
+"C004","Non-specific head and neck",0
+"C005","Non-specific head and neck",0
+"C006","Non-specific head and neck",0
+"C008","Non-specific head and neck",0
+"C009","Non-specific head and neck",0
+"C14","Non-specific head and neck",0
+"C140","Non-specific head and neck",0
+"C142","Non-specific head and neck",0
+"C148","Non-specific head and neck",0
+"C31","Non-specific head and neck",0
+"C310","Non-specific head and neck",0
+"C311","Non-specific head and neck",0
+"C312","Non-specific head and neck",0
+"C313","Non-specific head and neck",0
+"C318","Non-specific head and neck",0
+"C319","Non-specific head and neck",0
+"C05","Other head and neck",0
+"C050","Other head and neck",0
+"C051","Other head and neck",0
+"C052","Other head and neck",0
+"C058","Other head and neck",0
+"C059","Other head and neck",0
+"C07","Other head and neck",0
+"C08","Other head and neck",0
+"C080","Other head and neck",0
+"C081","Other head and neck",0
+"C088","Other head and neck",0
+"C089","Other head and neck",0
+"C11","Other head and neck",0
+"C110","Other head and neck",0
+"C111","Other head and neck",0
+"C112","Other head and neck",0
+"C113","Other head and neck",0
+"C118","Other head and neck",0
+"C119","Other head and neck",0
+"C12","Other head and neck",0
+"C13","Other head and neck",0
+"C130","Other head and neck",0
+"C131","Other head and neck",0
+"C132","Other head and neck",0
+"C138","Other head and neck",0
+"C139","Other head and neck",0
+"C81","Hodgkin lymphoma",0
+"C810","Hodgkin lymphoma",0
+"C811","Hodgkin lymphoma",0
+"C812","Hodgkin lymphoma",0
+"C813","Hodgkin lymphoma",0
+"C817","Hodgkin lymphoma",0
+"C819","Hodgkin lymphoma",0
+"C82","Non-hodgkin lymphoma",0
+"C820","Non-hodgkin lymphoma",0
+"C821","Non-hodgkin lymphoma",0
+"C822","Non-hodgkin lymphoma",0
+"C827","Non-hodgkin lymphoma",0
+"C829","Non-hodgkin lymphoma",0
+"C83","Non-hodgkin lymphoma",0
+"C830","Non-hodgkin lymphoma",0
+"C831","Non-hodgkin lymphoma",0
+"C832","Non-hodgkin lymphoma",0
+"C833","Non-hodgkin lymphoma",0
+"C834","Non-hodgkin lymphoma",0
+"C835","Non-hodgkin lymphoma",0
+"C836","Non-hodgkin lymphoma",0
+"C837","Non-hodgkin lymphoma",0
+"C838","Non-hodgkin lymphoma",0
+"C839","Non-hodgkin lymphoma",0
+"C84","Non-hodgkin lymphoma",0
+"C840","Non-hodgkin lymphoma",0
+"C841","Non-hodgkin lymphoma",0
+"C842","Non-hodgkin lymphoma",0
+"C843","Non-hodgkin lymphoma",0
+"C844","Non-hodgkin lymphoma",0
+"C845","Non-hodgkin lymphoma",0
+"C85","Non-hodgkin lymphoma",0
+"C850","Non-hodgkin lymphoma",0
+"C851","Non-hodgkin lymphoma",0
+"C857","Non-hodgkin lymphoma",0
+"C859","Non-hodgkin lymphoma",0
+"C64","Kidney",0
+"C65","Other and unspecified urinary",0
+"C66","Other and unspecified urinary",0
+"C68","Other and unspecified urinary",0
+"C680","Other and unspecified urinary",0
+"C681","Other and unspecified urinary",0
+"C688","Other and unspecified urinary",0
+"C689","Other and unspecified urinary",0
+"C920","Acute myeloid leukaemia",0
+"C924","Acute myeloid leukaemia",0
+"C925","Acute myeloid leukaemia",0
+"C930","Acute myeloid leukaemia",0
+"C940","Acute myeloid leukaemia",0
+"C942","Acute myeloid leukaemia",0
+"C911","Chronic lymphocytic leukaemia",0
+"C910","Other leukaemia",0
+"C921","Other leukaemia",0
+"C88","Other haematological",0
+"C880","Other haematological",0
+"C881","Other haematological",0
+"C882","Other haematological",0
+"C883","Other haematological",0
+"C887","Other haematological",0
+"C889","Other haematological",0
+"C912","Other haematological",0
+"C913","Other haematological",0
+"C914","Other haematological",0
+"C915","Other haematological",0
+"C917","Other haematological",0
+"C919","Other haematological",0
+"C922","Other haematological",0
+"C923","Other haematological",0
+"C927","Other haematological",0
+"C929","Other haematological",0
+"C931","Other haematological",0
+"C932","Other haematological",0
+"C937","Other haematological",0
+"C939","Other haematological",0
+"C943","Other haematological",0
+"C944","Other haematological",0
+"C945","Other haematological",0
+"C947","Other haematological",0
+"C95","Other haematological",0
+"C950","Other haematological",0
+"C951","Other haematological",0
+"C952","Other haematological",0
+"C957","Other haematological",0
+"C959","Other haematological",0
+"C96","Other haematological",0
+"C960","Other haematological",0
+"C961","Other haematological",0
+"C962","Other haematological",0
+"C963","Other haematological",0
+"C967","Other haematological",0
+"C969","Other haematological",0
+"C22","Liver",0
+"C220","Liver",0
+"C221","Liver",0
+"C222","Liver",0
+"C223","Liver",0
+"C224","Liver",0
+"C227","Liver",0
+"C229","Liver",0
+"C33","Lung",0
+"C34","Lung",0
+"C340","Lung",0
+"C341","Lung",0
+"C342","Lung",0
+"C343","Lung",0
+"C348","Lung",0
+"C349","Lung",0
+"C43","Melanoma",0
+"C430","Melanoma",0
+"C431","Melanoma",0
+"C432","Melanoma",0
+"C433","Melanoma",0
+"C434","Melanoma",0
+"C435","Melanoma",0
+"C436","Melanoma",0
+"C437","Melanoma",0
+"C438","Melanoma",0
+"C439","Melanoma",0
+"C45","Mesothelioma",0
+"C450","Mesothelioma",0
+"C451","Mesothelioma",0
+"C452","Mesothelioma",0
+"C457","Mesothelioma",0
+"C459","Mesothelioma",0
+"C90","Multiple myeloma",0
+"C900","Multiple myeloma",0
+"C901","Multiple myeloma",0
+"C902","Multiple myeloma",0
+"C15","Oesophagus",0
+"C150","Oesophagus",0
+"C151","Oesophagus",0
+"C152","Oesophagus",0
+"C153","Oesophagus",0
+"C154","Oesophagus",0
+"C155","Oesophagus",0
+"C158","Oesophagus",0
+"C159","Oesophagus",0
+"C17","Other malignant neoplasms",0
+"C170","Other malignant neoplasms",0
+"C171","Other malignant neoplasms",0
+"C172","Other malignant neoplasms",0
+"C173","Other malignant neoplasms",0
+"C178","Other malignant neoplasms",0
+"C179","Other malignant neoplasms",0
+"C21","Other malignant neoplasms",0
+"C210","Other malignant neoplasms",0
+"C211","Other malignant neoplasms",0
+"C212","Other malignant neoplasms",0
+"C218","Other malignant neoplasms",0
+"C23","Other malignant neoplasms",0
+"C24","Other malignant neoplasms",0
+"C240","Other malignant neoplasms",0
+"C241","Other malignant neoplasms",0
+"C248","Other malignant neoplasms",0
+"C249","Other malignant neoplasms",0
+"C26","Other malignant neoplasms",0
+"C260","Other malignant neoplasms",0
+"C261","Other malignant neoplasms",0
+"C268","Other malignant neoplasms",0
+"C269","Other malignant neoplasms",0
+"C30","Other malignant neoplasms",0
+"C300","Other malignant neoplasms",0
+"C301","Other malignant neoplasms",0
+"C37","Other malignant neoplasms",0
+"C38","Other malignant neoplasms",0
+"C380","Other malignant neoplasms",0
+"C381","Other malignant neoplasms",0
+"C382","Other malignant neoplasms",0
+"C383","Other malignant neoplasms",0
+"C384","Other malignant neoplasms",0
+"C388","Other malignant neoplasms",0
+"C39","Other malignant neoplasms",0
+"C390","Other malignant neoplasms",0
+"C398","Other malignant neoplasms",0
+"C399","Other malignant neoplasms",0
+"C46","Other malignant neoplasms",0
+"C460","Other malignant neoplasms",0
+"C461","Other malignant neoplasms",0
+"C462","Other malignant neoplasms",0
+"C463","Other malignant neoplasms",0
+"C467","Other malignant neoplasms",0
+"C468","Other malignant neoplasms",0
+"C469","Other malignant neoplasms",0
+"C47","Other malignant neoplasms",0
+"C470","Other malignant neoplasms",0
+"C471","Other malignant neoplasms",0
+"C472","Other malignant neoplasms",0
+"C473","Other malignant neoplasms",0
+"C474","Other malignant neoplasms",0
+"C475","Other malignant neoplasms",0
+"C476","Other malignant neoplasms",0
+"C478","Other malignant neoplasms",0
+"C479","Other malignant neoplasms",0
+"C52","Other malignant neoplasms",0
+"C58","Other malignant neoplasms",0
+"C60","Other malignant neoplasms",0
+"C600","Other malignant neoplasms",0
+"C601","Other malignant neoplasms",0
+"C602","Other malignant neoplasms",0
+"C608","Other malignant neoplasms",0
+"C609","Other malignant neoplasms",0
+"C63","Other malignant neoplasms",0
+"C630","Other malignant neoplasms",0
+"C631","Other malignant neoplasms",0
+"C632","Other malignant neoplasms",0
+"C637","Other malignant neoplasms",0
+"C638","Other malignant neoplasms",0
+"C639","Other malignant neoplasms",0
+"C69","Other malignant neoplasms",0
+"C690","Other malignant neoplasms",0
+"C691","Other malignant neoplasms",0
+"C692","Other malignant neoplasms",0
+"C693","Other malignant neoplasms",0
+"C694","Other malignant neoplasms",0
+"C695","Other malignant neoplasms",0
+"C696","Other malignant neoplasms",0
+"C698","Other malignant neoplasms",0
+"C699","Other malignant neoplasms",0
+"C728","Other malignant neoplasms",0
+"C729","Other malignant neoplasms",0
+"C74","Other malignant neoplasms",0
+"C740","Other malignant neoplasms",0
+"C741","Other malignant neoplasms",0
+"C749","Other malignant neoplasms",0
+"C750","Other malignant neoplasms",0
+"C754","Other malignant neoplasms",0
+"C755","Other malignant neoplasms",0
+"C758","Other malignant neoplasms",0
+"C759","Other malignant neoplasms",0
+"C76","Other malignant neoplasms",0
+"C760","Other malignant neoplasms",0
+"C761","Other malignant neoplasms",0
+"C762","Other malignant neoplasms",0
+"C763","Other malignant neoplasms",0
+"C764","Other malignant neoplasms",0
+"C765","Other malignant neoplasms",0
+"C767","Other malignant neoplasms",0
+"C768","Other malignant neoplasms",0
+"C97","Other malignant neoplasms",0
+"C56","Ovary",0
+"C57","Ovary",0
+"C570","Ovary",0
+"C571","Ovary",0
+"C572","Ovary",0
+"C573","Ovary",0
+"C574","Ovary",0
+"C577","Ovary",0
+"C578","Ovary",0
+"C579","Ovary",0
+"C25","Pancreas",0
+"C250","Pancreas",0
+"C251","Pancreas",0
+"C252","Pancreas",0
+"C253","Pancreas",0
+"C254","Pancreas",0
+"C257","Pancreas",0
+"C258","Pancreas",0
+"C259","Pancreas",0
+"C61","Prostate",0
+"C40","Bone sarcoma",0
+"C400","Bone sarcoma",0
+"C401","Bone sarcoma",0
+"C402","Bone sarcoma",0
+"C403","Bone sarcoma",0
+"C408","Bone sarcoma",0
+"C409","Bone sarcoma",0
+"C41","Bone sarcoma",0
+"C410","Bone sarcoma",0
+"C411","Bone sarcoma",0
+"C412","Bone sarcoma",0
+"C413","Bone sarcoma",0
+"C414","Bone sarcoma",0
+"C418","Bone sarcoma",0
+"C419","Bone sarcoma",0
+"C48","Connective and soft tissue sarcoma",0
+"C480","Connective and soft tissue sarcoma",0
+"C481","Connective and soft tissue sarcoma",0
+"C482","Connective and soft tissue sarcoma",0
+"C488","Connective and soft tissue sarcoma",0
+"C49","Connective and soft tissue sarcoma",0
+"C490","Connective and soft tissue sarcoma",0
+"C491","Connective and soft tissue sarcoma",0
+"C492","Connective and soft tissue sarcoma",0
+"C493","Connective and soft tissue sarcoma",0
+"C494","Connective and soft tissue sarcoma",0
+"C495","Connective and soft tissue sarcoma",0
+"C496","Connective and soft tissue sarcoma",0
+"C498","Connective and soft tissue sarcoma",0
+"C499","Connective and soft tissue sarcoma",0
+"C16","Stomach",0
+"C160","Stomach",0
+"C161","Stomach",0
+"C162","Stomach",0
+"C163","Stomach",0
+"C164","Stomach",0
+"C165","Stomach",0
+"C166","Stomach",0
+"C168","Stomach",0
+"C169","Stomach",0
+"C62","Testis",0
+"C620","Testis",0
+"C621","Testis",0
+"C629","Testis",0
+"C54","Uterus",0
+"C540","Uterus",0
+"C541","Uterus",0
+"C542","Uterus",0
+"C543","Uterus",0
+"C548","Uterus",0
+"C549","Uterus",0
+"C55","Uterus",0
+"C51","Vulva",0
+"C510","Vulva",0
+"C511","Vulva",0
+"C512","Vulva",0
+"C518","Vulva",0
+"C519","Vulva",0

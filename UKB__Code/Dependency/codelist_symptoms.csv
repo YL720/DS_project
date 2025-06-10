@@ -1,0 +1,1799 @@
+"symptom","version","read","desc","possible","new_code"
+"Abdominal pain",2,"1829.","retrosternal pain",0,0
+"Abdominal pain",2,"196..","type of git pain",0,0
+"Abdominal pain",2,"1962.","colicky abdominal pain",0,0
+"Abdominal pain",2,"1963.","non-colicky abdominal pain",0,0
+"Abdominal pain",2,"1968.","abdominal discomfort",0,0
+"Abdominal pain",2,"1969.","abdominal pain",0,0
+"Abdominal pain",2,"19690","abdominal wall pain",0,0
+"Abdominal pain",2,"196Z.","type of git pain nos",0,0
+"Abdominal pain",2,"197..","flank pain",0,0
+"Abdominal pain",2,"1971.","central abdominal pain",0,0
+"Abdominal pain",2,"1972.","epigastric pain",0,0
+"Abdominal pain",2,"1973.","left subcostal pain",0,0
+"Abdominal pain",2,"1974.","right subcostal pain",1,1
+"Abdominal pain",2,"1975.","left flank pain",0,0
+"Abdominal pain",2,"1976.","right flank pain",0,0
+"Abdominal pain",2,"1977.","right iliac fossa pain",0,0
+"Abdominal pain",2,"1978.","left iliac fossa pain",0,0
+"Abdominal pain",2,"1979.","suprapubic pain",0,0
+"Abdominal pain",2,"197A.","generalised abdominal pain",0,0
+"Abdominal pain",2,"197B.","upper abdominal pain",0,0
+"Abdominal pain",2,"197C.","lower abdominal pain",0,0
+"Abdominal pain",2,"197D.","right upper quadrant pain",0,0
+"Abdominal pain",2,"197Z.","site of git pain nos",0,0
+"Abdominal pain",2,"1A53.","c/o - loin pain",0,0
+"Abdominal pain",2,"1DC5.","griping pain",0,0
+"Abdominal pain",2,"25C..","o/e - umbilical pain on palp.",0,0
+"Abdominal pain",2,"25C2.","o/e - abd.pain-r.hypochondrium",0,0
+"Abdominal pain",2,"25C3.","o/e - abd. pain - epigastrium",0,0
+"Abdominal pain",2,"25C4.","o/e - abd.pain-l.hypochondrium",0,0
+"Abdominal pain",2,"25C5.","o/e - abd. pain - r.lumbar",0,0
+"Abdominal pain",2,"25C6.","o/e - abd. pain - umbilical",0,0
+"Abdominal pain",2,"25C7.","o/e - abd. pain - l.lumbar",0,0
+"Abdominal pain",2,"25C8.","o/e - abd. pain - r.iliac",0,0
+"Abdominal pain",2,"25C9.","o/e - abd. pain - hypogastrium",0,0
+"Abdominal pain",2,"25CA.","o/e - abd. pain - l.iliac",0,0
+"Abdominal pain",2,"25CZ.","o/e -abd.pain on palpation nos",0,0
+"Abdominal pain",2,"25D..","o/e - guarding of abdomen",0,0
+"Abdominal pain",2,"25D2.","o/e - guarding-r.hypochondrium",0,0
+"Abdominal pain",2,"25D3.","o/e - guarding - epigastrium",0,0
+"Abdominal pain",2,"25D4.","o/e - guarding-l.hypochondrium",0,0
+"Abdominal pain",2,"25D6.","o/e - guarding - umbilical",0,0
+"Abdominal pain",2,"25D8.","o/e - guarding - r.iliac",0,0
+"Abdominal pain",2,"25D9.","o/e - guarding - hypogastrium",0,0
+"Abdominal pain",2,"25DA.","o/e - guarding - l.iliac",0,0
+"Abdominal pain",2,"25DZ.","o/e -guarding on palpation nos",0,0
+"Abdominal pain",2,"25E..","o/e - rebound tenderness",0,0
+"Abdominal pain",2,"25EZ.","o/e - rebound tenderness nos",0,0
+"Abdominal pain",2,"25F..","o/e - abdominal rigidity",0,0
+"Abdominal pain",2,"25F2.","o/e - acute abdomen",0,1
+"Abdominal pain",2,"2I18.","O/E - tenderness/pain",0,0
+"Abdominal pain",2,"2I181","tenderness of epigastrium",0,0
+"Abdominal pain",2,"E2780","psychogenic pain unspecified",0,0
+"Abdominal pain",2,"R0732","[d]gas pain (abdominal)",0,0
+"Abdominal pain",2,"R090.","[d]abdominal pain",0,0
+"Abdominal pain",2,"R0900","[d]abdominal tenderness",0,0
+"Abdominal pain",2,"R0901","[d]abdominal colic",0,0
+"Abdominal pain",2,"R0902","[d]colic nos",0,0
+"Abdominal pain",2,"R0903","[d]evening colic",0,1
+"Abdominal pain",2,"R0904","[d]abdominal cramps",0,0
+"Abdominal pain",2,"R0905","[d]epigastric pain",0,0
+"Abdominal pain",2,"R0906","[d]umbilical pain",0,0
+"Abdominal pain",2,"R0907","[d]hypochondrial pain",0,0
+"Abdominal pain",2,"R0908","[d]suprapubic pain",0,0
+"Abdominal pain",2,"R0909","[d]pain in right iliac fossa",0,0
+"Abdominal pain",2,"R090A","[d]pain in left iliac fossa",0,0
+"Abdominal pain",2,"R090C","[d]loin pain",0,0
+"Abdominal pain",2,"R090E","[d]recurrent acute abdominal pain",0,0
+"Abdominal pain",2,"R090F","[d]acute abdomen",0,0
+"Abdominal pain",2,"R090H","[d]upper abdominal pain",0,0
+"Abdominal pain",2,"R090J","[d]right upper quadrant pain",0,0
+"Abdominal pain",2,"R090K","[d]left upper quadrant pain",0,0
+"Abdominal pain",2,"R090L","[d]left lower quadrant pain",0,0
+"Abdominal pain",2,"R090M","[d]right lower quadrant pain",0,0
+"Abdominal pain",2,"R090N","[d]nonspecific abdominal pain",0,0
+"Abdominal pain",2,"R090P","[d]functional abdominal pain syndrome",0,0
+"Abdominal pain",2,"R090y","[d]other specified abdominal pain",0,0
+"Abdominal pain",2,"R090z","[d]abdominal pain nos",0,0
+"Abdominal pain",2,"R094.","[d]abdominal rigidity",0,1
+"Abdominal pain",2,"R096.","[d]acute abdomen",0,0
+"Abdominal pain",2,"Ryu10","[x]pain localized to other parts of lower abdomen",0,0
+"Abdominal pain",2,"Ryu11","[x]other and unspecified abdominal pain",0,0
+"Abdominal pain",3,".1829","Retrosternal pain",0,0
+"Abdominal pain",3,".196.","Type of GIT pain",0,0
+"Abdominal pain",3,".1962","Abdominal colic",0,0
+"Abdominal pain",3,".1963","Non-colicky abdominal pain",0,0
+"Abdominal pain",3,".1968","Abdominal discomfort",0,0
+"Abdominal pain",3,".1969","Abdominal pain",0,0
+"Abdominal pain",3,".196Z","Type of GIT pain NOS",0,0
+"Abdominal pain",3,".197.","flank pain",0,1
+"Abdominal pain",3,".1971","Central abdominal pain",0,0
+"Abdominal pain",3,".1972","Epigastric pain",0,0
+"Abdominal pain",3,".1973","Left subcostal pain",0,0
+"Abdominal pain",3,".1974","right subcostal pain",1,1
+"Abdominal pain",3,".1975","Left flank pain",0,0
+"Abdominal pain",3,".1976","Right flank pain",0,0
+"Abdominal pain",3,".1977","right iliac fossa pain",0,1
+"Abdominal pain",3,".1978","left iliac fossa pain",0,1
+"Abdominal pain",3,".1979","Suprapubic pain",0,0
+"Abdominal pain",3,".197A","Generalised abdominal pain",0,0
+"Abdominal pain",3,".197B","Upper abdominal pain",0,0
+"Abdominal pain",3,".197C","Lower abdominal pain",0,0
+"Abdominal pain",3,".197D","Right upper quadrant pain",0,0
+"Abdominal pain",3,".197Z","Site of GIT pain NOS",0,0
+"Abdominal pain",3,".1A53","loin pain",0,1
+"Abdominal pain",3,".1DC5","Griping pain",0,0
+"Abdominal pain",3,".25C.","o/e - abdominal pain",0,1
+"Abdominal pain",3,".25C1","o/e - no abd.pain on palpation",0,1
+"Abdominal pain",3,".25C2","O/E - abd.pain-R.hypochondrium",0,0
+"Abdominal pain",3,".25C3","O/E - abd. pain - epigastrium",0,0
+"Abdominal pain",3,".25C4","O/E - abd.pain-L.hypochondrium",0,0
+"Abdominal pain",3,".25C5","O/E - abd. pain - R.lumbar",0,0
+"Abdominal pain",3,".25C6","O/E - abd. pain - umbilical",0,0
+"Abdominal pain",3,".25C7","O/E - abd. pain - L.lumbar",0,0
+"Abdominal pain",3,".25C8","o/e - abd. pain - r.iliac",0,1
+"Abdominal pain",3,".25C9","O/E - abd. pain - hypogastrium",0,0
+"Abdominal pain",3,".25CZ","O/E -abd.pain on palpation NOS",0,0
+"Abdominal pain",3,".25D.","O/E - guarding on palpation",0,0
+"Abdominal pain",3,".25D2","O/E - guarding-R.hypochondrium",0,0
+"Abdominal pain",3,".25D3","O/E - guarding - epigastrium",0,0
+"Abdominal pain",3,".25D4","O/E - guarding-L.hypochondrium",0,0
+"Abdominal pain",3,".25D6","O/E - guarding - umbilical",0,0
+"Abdominal pain",3,".25D8","O/E - guarding - R.iliac",0,0
+"Abdominal pain",3,".25D9","O/E - guarding - hypogastrium",0,0
+"Abdominal pain",3,".25DA","O/E - guarding - L.iliac",0,0
+"Abdominal pain",3,".25DZ","O/E -guarding on palpation NOS",0,0
+"Abdominal pain",3,".25E.","O/E - rebound tenderness",0,0
+"Abdominal pain",3,".25EZ","O/E - rebound tenderness NOS",0,0
+"Abdominal pain",3,".25F.","O/E - abdominal rigidity",0,0
+"Abdominal pain",3,".25FZ","o/e - abdominal rigidity nos",0,1
+"Abdominal pain",3,".2I18","O/E - tenderness/pain",0,0
+"Abdominal pain",3,".R90.","[D]Abdominal pain",0,0
+"Abdominal pain",3,".R900","[D]Acute abdomen",0,0
+"Abdominal pain",3,".R901","[D]Abdominal tenderness",0,0
+"Abdominal pain",3,".R902","[D]Abdominal colic",0,0
+"Abdominal pain",3,".R903","colic           [d]",0,1
+"Abdominal pain",3,".R904","[d]evening colic",0,1
+"Abdominal pain",3,".R905","[D]Abdominal cramps",0,0
+"Abdominal pain",3,".R906","[D]Epigastric pain",0,0
+"Abdominal pain",3,".R907","[D]Umbilical pain",0,0
+"Abdominal pain",3,".R908","[D]Hypochondrial pain",0,0
+"Abdominal pain",3,".R909","[D]Suprapubic pain",0,0
+"Abdominal pain",3,".R90A","[D]Pain in right iliac fossa",0,0
+"Abdominal pain",3,".R90B","[D]Pain in left iliac fossa",0,0
+"Abdominal pain",3,".R90C","[D]Loin pain",0,0
+"Abdominal pain",3,".R90Z","[D]Abdominal pain NOS",0,0
+"Abdominal pain",3,".R94.","[d]abdominal rigidity",0,1
+"Abdominal pain",3,"1829.","Retrosternal pain",0,0
+"Abdominal pain",3,"196..","type of git pain",0,0
+"Abdominal pain",3,"1962.","Abdominal colic",0,0
+"Abdominal pain",3,"1963.","Non-colicky abdominal pain",0,0
+"Abdominal pain",3,"1968.","Abdominal discomfort",0,0
+"Abdominal pain",3,"1969.","Abdominal pain",0,0
+"Abdominal pain",3,"19690","abdominal wall pain",1,0
+"Abdominal pain",3,"196Z.","Type of GIT pain NOS",0,0
+"Abdominal pain",3,"197..","flank pain",0,0
+"Abdominal pain",3,"1971.","Central abdominal pain",0,0
+"Abdominal pain",3,"1972.","Epigastric pain",0,0
+"Abdominal pain",3,"1973.","Left subcostal pain",0,0
+"Abdominal pain",3,"1974.","right subcostal pain",1,1
+"Abdominal pain",3,"1975.","Left flank pain",0,0
+"Abdominal pain",3,"1976.","Right flank pain",0,0
+"Abdominal pain",3,"1977.","Right iliac fossa pain",0,0
+"Abdominal pain",3,"1978.","Left iliac fossa pain",0,0
+"Abdominal pain",3,"1979.","Suprapubic pain",0,0
+"Abdominal pain",3,"197A.","Generalised abdominal pain",0,0
+"Abdominal pain",3,"197B.","Upper abdominal pain",0,0
+"Abdominal pain",3,"197C.","Lower abdominal pain",0,0
+"Abdominal pain",3,"197D.","right upper quadrant pain",0,0
+"Abdominal pain",3,"197Z.","Site of GIT pain NOS",0,0
+"Abdominal pain",3,"1A53.","c/o - loin pain",0,0
+"Abdominal pain",3,"1DC5.","Griping pain",0,0
+"Abdominal pain",3,"25C..","o/e - abdo. pain on palpation",0,0
+"Abdominal pain",3,"25C1.","o/e - no abd.pain on palpation",0,1
+"Abdominal pain",3,"25C2.","O/E - abd.pain-R.hypochondrium",0,0
+"Abdominal pain",3,"25C3.","O/E - abd. pain - epigastrium",0,0
+"Abdominal pain",3,"25C4.","O/E - abd.pain-L.hypochondrium",0,0
+"Abdominal pain",3,"25C5.","O/E - abd. pain - R.lumbar",0,0
+"Abdominal pain",3,"25C6.","O/E - abd. pain - umbilical",0,0
+"Abdominal pain",3,"25C7.","O/E - abd. pain - L.lumbar",0,0
+"Abdominal pain",3,"25C8.","o/e - abd. pain - r.iliac",0,0
+"Abdominal pain",3,"25C9.","O/E - abd. pain - hypogastrium",0,0
+"Abdominal pain",3,"25CA.","o/e - abd. pain - l.iliac",0,0
+"Abdominal pain",3,"25CZ.","O/E -abd.pain on palpation NOS",0,0
+"Abdominal pain",3,"25D..","O/E - guarding on palpation",0,0
+"Abdominal pain",3,"25D2.","O/E - guarding-R.hypochondrium",0,0
+"Abdominal pain",3,"25D3.","O/E - guarding - epigastrium",0,0
+"Abdominal pain",3,"25D4.","O/E - guarding-L.hypochondrium",0,0
+"Abdominal pain",3,"25D6.","O/E - guarding - umbilical",0,0
+"Abdominal pain",3,"25D8.","O/E - guarding - R.iliac",0,0
+"Abdominal pain",3,"25D9.","O/E - guarding - hypogastrium",0,0
+"Abdominal pain",3,"25DA.","O/E - guarding - L.iliac",0,0
+"Abdominal pain",3,"25DZ.","O/E -guarding on palpation NOS",0,0
+"Abdominal pain",3,"25E..","O/E - rebound tenderness",0,0
+"Abdominal pain",3,"25EZ.","O/E - rebound tenderness NOS",0,0
+"Abdominal pain",3,"25F..","O/E - abdominal rigidity",0,0
+"Abdominal pain",3,"25F2.","o/e - acute abdomen",0,1
+"Abdominal pain",3,"25FZ.","o/e - abdominal rigidity nos",0,1
+"Abdominal pain",3,"2I18.","O/E - tenderness/pain",0,0
+"Abdominal pain",3,"2I181","tenderness of epigastrium",0,0
+"Abdominal pain",3,"E2780","psychogenic pain unspecified",0,0
+"Abdominal pain",3,"R0732","[d]gas pain (abdominal)",1,0
+"Abdominal pain",3,"R090.","[D]Abdominal pain",0,0
+"Abdominal pain",3,"R0900","[D]Abdominal tenderness",0,0
+"Abdominal pain",3,"R0901","[D]Abdominal colic",0,0
+"Abdominal pain",3,"R0902","[d]colic nos",0,0
+"Abdominal pain",3,"R0903","[d]evening colic",0,1
+"Abdominal pain",3,"R0904","[D]Abdominal cramps",0,0
+"Abdominal pain",3,"R0905","[D]Epigastric pain",0,0
+"Abdominal pain",3,"R0906","[D]Umbilical pain",0,0
+"Abdominal pain",3,"R0907","[D]Hypochondrial pain",0,0
+"Abdominal pain",3,"R0908","[D]Suprapubic pain",0,0
+"Abdominal pain",3,"R0909","[D]Pain in right iliac fossa",0,0
+"Abdominal pain",3,"R090A","[D]Pain in left iliac fossa",0,0
+"Abdominal pain",3,"R090C","[D]Loin pain",0,0
+"Abdominal pain",3,"R090E","[d]recurrent acute abdominal pain",0,0
+"Abdominal pain",3,"R090F","[D]Acute abdomen",0,0
+"Abdominal pain",3,"R090H","[d] upper abdominal pain",0,0
+"Abdominal pain",3,"R090J","[d] right upper quadrant pain",0,0
+"Abdominal pain",3,"R090K","[d] left upper quadrant pain",0,0
+"Abdominal pain",3,"R090L","[d]left lower quadrant pain",0,0
+"Abdominal pain",3,"R090M","[d]right lower quadrant pain",0,0
+"Abdominal pain",3,"R090N","[d]nonspecific abdominal pain",0,0
+"Abdominal pain",3,"R090P","[d]functional abdominal pain syndrome",0,0
+"Abdominal pain",3,"R090y","[d]other specified abdominal pain",0,0
+"Abdominal pain",3,"R090z","[D]Abdominal pain NOS",0,0
+"Abdominal pain",3,"R094.","[d]abdominal rigidity",0,1
+"Abdominal pain",3,"R096.","[d]acute abdomen",0,0
+"Abdominal pain",3,"Ryu10","[x]pain localised to other parts of lower abdomen",0,0
+"Abdominal pain",3,"Ryu11","[x]other and unspecified abdominal pain",0,0
+"Abdominal pain",3,"X3062","chronic nonspecific abdominal pain",0,1
+"Abdominal pain",3,"X75rQ","abdominal tenderness",0,1
+"Abdominal pain",3,"X75rc","Generalised abdominal pain",0,0
+"Abdominal pain",3,"X75rd","Subcostal pain",0,0
+"Abdominal pain",3,"X75re","site of abdominal pain",0,0
+"Abdominal pain",3,"X75rf","iliac fossa pain",0,0
+"Abdominal pain",3,"X75rg","flank pain",0,0
+"Abdominal pain",3,"X75rh","type of git pain - symptom",0,0
+"Abdominal pain",3,"X75ri","abdominal pain type",0,0
+"Abdominal pain",3,"X75rm","evening colic",0,1
+"Abdominal pain",3,"X76dT","abdominal cramps",0,1
+"Abdominal pain",3,"XE0r9","site of git pain",0,0
+"Abdominal pain",3,"XE0uZ","flank pain",0,1
+"Abdominal pain",3,"XE0up","loin pain",0,1
+"Abdominal pain",3,"XE1hU","o/e - abdo. pain on palpation",0,0
+"Abdominal pain",3,"XE1hV","o/e - acute abdomen",0,1
+"Abdominal pain",3,"XE1iM","O/E - tenderness/pain",0,0
+"Abdominal pain",3,"XE1jA","o/e - abdominal pain",0,1
+"Abdominal pain",3,"XE1jC","o/e - abd. pain - r.iliac",0,1
+"Abdominal pain",3,"XE2Pt","Type of GIT pain",0,0
+"Abdominal pain",3,"XE2cT","right iliac fossa pain",0,1
+"Abdominal pain",3,"XE2cV","left iliac fossa pain",0,1
+"Abdominal pain",3,"XM03B","rebound tenderness",0,1
+"Abdominal pain",3,"XM03C","board-like abdominal rigidity",0,1
+"Abdominal pain",3,"XM08K","flatulence, eructation and gas pain",0,1
+"Abdominal pain",3,"XM08N","gas pain - abdominal",0,1
+"Abdominal pain",3,"XM08w","abdominal cramps",0,1
+"Abdominal pain",3,"XM08x","umbilical pain",0,1
+"Abdominal pain",3,"XM08y","hypochondrial pain",0,1
+"Abdominal pain",3,"XM08z","Right iliac fossa pain",0,0
+"Abdominal pain",3,"XM090","Left iliac fossa pain",0,0
+"Abdominal pain",3,"XM092","loin pain",0,1
+"Abdominal pain",3,"XM093","recurrent acute abdominal pain",0,1
+"Abdominal pain",3,"XM094","other specified abdominal pain",0,1
+"Abdominal pain",3,"XM098","abdominal rigidity",0,1
+"Abdominal pain",3,"XM0Cp","c/o - loin pain",0,1
+"Abdominal pain",3,"XM0Cq","C/O - lumbar pain",0,0
+"Abdominal pain",3,"XM0zS","acute abdomen",0,1
+"Abdominal pain",3,"XM0zT","colic           [d]",0,1
+"Abdominal pain",3,"XM10Y","c/o right iliac fossa pain",0,1
+"Abdominal pain",3,"XM10Z","c/o left iliac fossa pain",0,1
+"Abdominal pain",3,"XM118","o/e - abdominal pain",0,1
+"Abdominal pain",3,"XM119","o/e - epigastric pain",0,1
+"Abdominal pain",3,"XM11A","o/e - iliac pain - abd.",0,1
+"Abdominal pain",3,"XM11C","o/e-umbilical pain-abd.",0,1
+"Abdominal pain",3,"XM1B9","pain localised to other parts of lower abdomen",0,1
+"Abdominal pain",3,"XM1NH","o/e - iliac pain on palpation",0,0
+"Abdominal pain",3,"XM1NI","O/E - lumbar pain on palpation",0,0
+"Abdominal pain",3,"XM1XO","O/E - tenderness",0,0
+"Abdominal pain",3,"Xa35t","left sided abdominal pain",0,1
+"Abdominal pain",3,"Xa35u","right sided abdominal pain",0,1
+"Abdominal pain",3,"Xa7Vz","observation of abdominal rigidity",0,1
+"Abdominal pain",3,"Xa7wu","right hypochondrial pain",0,1
+"Abdominal pain",3,"Xa7wv","left hypochondrial pain",0,1
+"Abdominal pain",3,"Xa7xW","tenderness of epigastrium",0,0
+"Abdominal pain",3,"Xa7xf","rebound tenderness of epigastrium",0,1
+"Abdominal pain",3,"Xa7xg","rebound tenderness of right hypochondrium",0,1
+"Abdominal pain",3,"Xa7xh","rebound tenderness of left hypochondrium",0,1
+"Abdominal pain",3,"Xa7xi","rebound tenderness of central region",0,1
+"Abdominal pain",3,"Xa7xl","rebound tenderness of hypogastrium",0,1
+"Abdominal pain",3,"Xa7xm","rebound tenderness of right iliac fossa",0,1
+"Abdominal pain",3,"Xa7xn","rebound tenderness of left iliac fossa",0,1
+"Abdominal pain",3,"Xa83q","left upper quadrant pain",0,1
+"Abdominal pain",3,"Xa83r","left lower quadrant pain",0,1
+"Abdominal pain",3,"Xa83s","Right upper quadrant pain",0,0
+"Abdominal pain",3,"Xa84T","right lower quadrant pain",0,1
+"Abdominal pain",3,"XaA06","nonspecific abdominal pain",0,1
+"Abdominal pain",3,"XaB1I","psychosomatic abdominal pain",0,1
+"Abdominal pain",3,"XaBDO","[d] right upper quadrant pain",0,0
+"Abdominal pain",3,"XaBDQ","[d] left upper quadrant pain",0,0
+"Abdominal pain",3,"XaBDR","[d] upper abdominal pain",0,0
+"Abdominal pain",3,"XaBfE","o/e - epigastric pain on palp.",0,0
+"Abdominal pain",3,"XaD2x","[d]left lower quadrant pain",0,0
+"Abdominal pain",3,"XaD2y","[d]right lower quadrant pain",0,0
+"Abdominal pain",3,"XaD2z","[d]nonspecific abdominal pain",0,0
+"Abdominal pain",3,"XaEW1","abdominal pain in early pregnancy",1,1
+"Abdominal pain",3,"XaEiJ","unexplained abdominal pain",0,1
+"Abdominal pain",3,"XaY2H","[d]functional abdominal pain syndrome",0,0
+"Abdominal bloating",2,"19A..","abdominal distension symptom",0,0
+"Abdominal bloating",2,"19A2.","abdomen feels bloated",0,0
+"Abdominal bloating",2,"19A3.","abdomen feels distended",0,0
+"Abdominal bloating",2,"19AZ.","abd. distension symptom nos",0,0
+"Abdominal bloating",2,"19B..","wind symptom",0,0
+"Abdominal bloating",2,"19B2.","excessive flatulence",0,1
+"Abdominal bloating",2,"19B4.","excessive eructation",0,1
+"Abdominal bloating",2,"R073.","[d]flatulence, eructation and gas pain",0,1
+"Abdominal bloating",2,"R0730","[d]flatulence",0,1
+"Abdominal bloating",2,"R0731","[d]eructation",0,1
+"Abdominal bloating",2,"R0733","[d]abdominal distension, gaseous",0,0
+"Abdominal bloating",2,"R0734","[d]bloating",0,0
+"Abdominal bloating",2,"R073z","[d]flatulence, eructation and gas pain nos",0,1
+"Abdominal bloating",3,".19A.","Abdominal distension symptom",0,0
+"Abdominal bloating",3,".19A2","Abdomen feels bloated",0,0
+"Abdominal bloating",3,".19A3","Abdomen feels distended",0,0
+"Abdominal bloating",3,".19AZ","Abd. distension symptom NOS",0,0
+"Abdominal bloating",3,".19B.","Bloating symptom",0,0
+"Abdominal bloating",3,".19B2","excessive flatulence",0,1
+"Abdominal bloating",3,".19B4","excessive eructation",0,1
+"Abdominal bloating",3,".R73.","[d]flatulence",0,1
+"Abdominal bloating",3,".R730","[d]eructation",0,1
+"Abdominal bloating",3,".R732","[D]Abdominal distension, gaseous",0,0
+"Abdominal bloating",3,".R733","[D]Bloating",0,0
+"Abdominal bloating",3,".R73Z","[d]flatulence",0,1
+"Abdominal bloating",3,"19A..","Abdominal distension symptom",0,0
+"Abdominal bloating",3,"19A2.","Abdomen feels bloated",0,0
+"Abdominal bloating",3,"19A3.","Abdomen feels distended",0,0
+"Abdominal bloating",3,"19AZ.","Abd. distension symptom NOS",0,0
+"Abdominal bloating",3,"19B..","Bloating symptom",0,0
+"Abdominal bloating",3,"19B2.","excessive flatulence",0,1
+"Abdominal bloating",3,"19B4.","excessive eructation",0,1
+"Abdominal bloating",3,"R073.","[d]flatulence, eructation and gas pain",0,1
+"Abdominal bloating",3,"R0730","[d]flatulence",0,1
+"Abdominal bloating",3,"R0731","[d]eructation",0,1
+"Abdominal bloating",3,"R0733","[D]Abdominal distension, gaseous",0,0
+"Abdominal bloating",3,"R0734","[D]Bloating",0,0
+"Abdominal bloating",3,"R073z","[d]flatulence, eructation and gas pain nos",0,1
+"Abdominal bloating",3,"Ub1Sa","belching voice",1,1
+"Abdominal bloating",3,"X76FC","bloating symptom",0,0
+"Abdominal bloating",3,"X76d2","involuntary passage of flatulence",0,1
+"Abdominal bloating",3,"XE0rC","flatulence/wind",0,1
+"Abdominal bloating",3,"XM08M","burping",0,1
+"Abdominal bloating",3,"XM08O","abdominal distension, gaseous",0,1
+"Abdominal bloating",3,"XM1N0","wind symptom",0,1
+"Abdominal bloating",3,"XM1N1","belching symptom",0,1
+"Abdominal bloating",3,"Xa30B","burping in public",0,1
+"Abdominal bloating",3,"Xa7V2","observation of flatulence",0,1
+"Abdominal bloating",3,"Xa7Vf","abdominal distension",0,1
+"Abdominal bloating",3,"XaBYS","flatulence symptom",0,1
+"Abdominal bloating",3,"XaBsc","[d]flatulence nos",0,1
+"Breast lump",2,"1A8..","breast lump symptom",0,0
+"Breast lump",2,"1A82.","breast lump present",0,0
+"Breast lump",2,"1A83.","breast lump detected by clinician examination",0,0
+"Breast lump",2,"1A84.","breast lump detected by mammogram",0,0
+"Breast lump",2,"1A85.","breast lump detected by partner",0,0
+"Breast lump",2,"1A86.","breast lump detected by self-examination",0,0
+"Breast lump",2,"1A8Z.","breast lump symptom nos",0,0
+"Breast lump",2,"26B7.","lumpy breasts",0,0
+"Breast lump",2,"26E..","o/e - breast lump palpated",0,0
+"Breast lump",2,"26E2.","o/e-breast lump-nipple/central",0,0
+"Breast lump",2,"26E3.","o/e-breast lump-upper in-quad",0,0
+"Breast lump",2,"26E4.","o/e -breast lump-lower in-quad",0,0
+"Breast lump",2,"26E5.","o/e-breast lump-upper out-quad",0,0
+"Breast lump",2,"26E6.","o/e-breast lump-lower out-quad",0,0
+"Breast lump",2,"26E7.","o/e-breast lump- axillary tail",0,0
+"Breast lump",2,"26EZ.","o/e - breast lump palpated nos",0,0
+"Breast lump",2,"26F..","o/e - breast lump size",0,0
+"Breast lump",2,"26F1.","o/e - breast lump - pea size",0,0
+"Breast lump",2,"26F2.","o/e - breast lump - plum size",0,0
+"Breast lump",2,"26F3.","o/e-breast lump-tangerine size",0,0
+"Breast lump",2,"26F4.","o/e - breast lump-orange size",0,0
+"Breast lump",2,"26F5.","o/e-breast lump-grapefruit sze",0,1
+"Breast lump",2,"26F6.","o/e - breast lump - melon size",0,1
+"Breast lump",2,"26FZ.","o/e - breast lump size nos",0,0
+"Breast lump",2,"26G..","o/e - breast lump consistency",0,0
+"Breast lump",2,"26G1.","o/e - breast lump soft",0,0
+"Breast lump",2,"26G2.","o/e - breast lump cystic",0,0
+"Breast lump",2,"26G3.","o/e - breast lump hard",0,0
+"Breast lump",2,"26GZ.","o/e - breast lump consist. nos",0,0
+"Breast lump",2,"26H..","o/e - breast lump - outline",0,0
+"Breast lump",2,"26H1.","o/e - breast lump smooth",0,0
+"Breast lump",2,"26H2.","o/e - breast lump irregular",0,0
+"Breast lump",2,"26HZ.","o/e-breast lump regularity nos",0,0
+"Breast lump",2,"26I..","o/e - breast lump tethering",0,0
+"Breast lump",2,"26I1.","o/e - breast lump not tethered",0,0
+"Breast lump",2,"26I2.","o/e -breast lump fixed to skin",0,0
+"Breast lump",2,"26I3.","o/e - breast lump fixed deep",0,0
+"Breast lump",2,"26IZ.","o/e - breast lump tethered nos",0,0
+"Breast lump",2,"K3171","breast mass",0,0
+"Breast lump",3,".1A8.","Breast lump symptom",0,0
+"Breast lump",3,".1A82","Breast lump present",0,0
+"Breast lump",3,".1A83","Breast lump detected by clinician examination",0,0
+"Breast lump",3,".1A84","Breast lump detected by mammogram",0,0
+"Breast lump",3,".1A85","Breast lump detected by partner",0,0
+"Breast lump",3,".1A86","Breast lump detected by self-examination",0,0
+"Breast lump",3,".1A8Z","Breast lump symptom NOS",0,0
+"Breast lump",3,".26E.","O/E - breast lump palpated",0,0
+"Breast lump",3,".26E1","o/e - no breast lump palpable",0,1
+"Breast lump",3,".26E2","O/E-breast lump-nipple/central",0,0
+"Breast lump",3,".26E3","O/E-breast lump-upper in-quad",0,0
+"Breast lump",3,".26E4","O/E -breast lump-lower in-quad",0,0
+"Breast lump",3,".26E5","O/E-breast lump-upper out-quad",0,0
+"Breast lump",3,".26E6","O/E-breast lump-lower out-quad",0,0
+"Breast lump",3,".26E7","O/E-breast lump- axillary tail",0,0
+"Breast lump",3,".26EZ","O/E - breast lump palpated NOS",0,0
+"Breast lump",3,".26F.","O/E - breast lump size",0,0
+"Breast lump",3,".26F1","O/E - breast lump - pea size",0,0
+"Breast lump",3,".26F2","O/E - breast lump - plum size",0,0
+"Breast lump",3,".26F3","O/E-breast lump-tangerine size",0,0
+"Breast lump",3,".26F4","O/E - breast lump-orange size",0,0
+"Breast lump",3,".26F5","o/e-breast lump-grapefruit sze",0,1
+"Breast lump",3,".26F6","o/e - breast lump - melon size",0,1
+"Breast lump",3,".26FZ","O/E - breast lump size NOS",0,0
+"Breast lump",3,".26G.","O/E - breast lump consistency",0,0
+"Breast lump",3,".26G1","O/E - breast lump soft",0,0
+"Breast lump",3,".26G2","O/E - breast lump cystic",0,0
+"Breast lump",3,".26G3","O/E - breast lump hard",0,0
+"Breast lump",3,".26GZ","O/E - breast lump consist. NOS",0,0
+"Breast lump",3,".26H.","O/E - breast lump regularity",0,0
+"Breast lump",3,".26H1","O/E - breast lump smooth",0,0
+"Breast lump",3,".26H2","O/E - breast lump irregular",0,0
+"Breast lump",3,".26HZ","O/E-breast lump regularity NOS",0,0
+"Breast lump",3,".26I.","O/E - breast lump tethering",0,0
+"Breast lump",3,".26I1","O/E - breast lump not tethered",0,0
+"Breast lump",3,".26I2","O/E -breast lump fixed to skin",0,0
+"Breast lump",3,".26I3","O/E - breast lump fixed deep",0,0
+"Breast lump",3,".26IZ","O/E - breast lump tethered NOS",0,0
+"Breast lump",3,".7F11","breast lumpectomy",0,1
+"Breast lump",3,".J41.","benign breast lump",0,1
+"Breast lump",3,"1A8..","Breast lump symptom",0,0
+"Breast lump",3,"1A82.","Breast lump present",0,0
+"Breast lump",3,"1A83.","breast lump detected by clinician examination",0,0
+"Breast lump",3,"1A84.","breast lump detected by mammogram",0,0
+"Breast lump",3,"1A85.","breast lump detected by partner",0,0
+"Breast lump",3,"1A86.","breast lump detected by self-examination",0,0
+"Breast lump",3,"1A8Z.","Breast lump symptom NOS",0,0
+"Breast lump",3,"26B7.","lumpy breasts",0,0
+"Breast lump",3,"26E..","O/E - breast lump palpated",0,0
+"Breast lump",3,"26E1.","o/e - no breast lump palpable",0,1
+"Breast lump",3,"26E2.","O/E-breast lump-nipple/central",0,0
+"Breast lump",3,"26E3.","O/E-breast lump-upper in-quad",0,0
+"Breast lump",3,"26E4.","O/E -breast lump-lower in-quad",0,0
+"Breast lump",3,"26E5.","O/E-breast lump-upper out-quad",0,0
+"Breast lump",3,"26E6.","O/E-breast lump-lower out-quad",0,0
+"Breast lump",3,"26E7.","O/E-breast lump- axillary tail",0,0
+"Breast lump",3,"26EZ.","O/E - breast lump palpated NOS",0,0
+"Breast lump",3,"26F..","O/E - breast lump size",0,0
+"Breast lump",3,"26F1.","O/E - breast lump - pea size",0,0
+"Breast lump",3,"26F2.","O/E - breast lump - plum size",0,0
+"Breast lump",3,"26F3.","O/E-breast lump-tangerine size",0,0
+"Breast lump",3,"26F4.","O/E - breast lump-orange size",0,0
+"Breast lump",3,"26F5.","o/e-breast lump-grapefruit sze",0,1
+"Breast lump",3,"26F6.","o/e - breast lump - melon size",0,1
+"Breast lump",3,"26FZ.","O/E - breast lump size NOS",0,0
+"Breast lump",3,"26G..","O/E - breast lump consistency",0,0
+"Breast lump",3,"26G1.","O/E - breast lump soft",0,0
+"Breast lump",3,"26G2.","O/E - breast lump cystic",0,0
+"Breast lump",3,"26G3.","O/E - breast lump hard",0,0
+"Breast lump",3,"26GZ.","O/E - breast lump consist. NOS",0,0
+"Breast lump",3,"26H..","O/E - breast lump regularity",0,0
+"Breast lump",3,"26H1.","O/E - breast lump smooth",0,0
+"Breast lump",3,"26H2.","O/E - breast lump irregular",0,0
+"Breast lump",3,"26HZ.","O/E-breast lump regularity NOS",0,0
+"Breast lump",3,"26I..","O/E - breast lump tethering",0,0
+"Breast lump",3,"26I1.","O/E - breast lump not tethered",0,0
+"Breast lump",3,"26I2.","O/E -breast lump fixed to skin",0,0
+"Breast lump",3,"26I3.","O/E - breast lump fixed deep",0,0
+"Breast lump",3,"26IZ.","O/E - breast lump tethered NOS",0,0
+"Breast lump",3,"71312","breast lumpectomy",0,1
+"Breast lump",3,"K3171","Breast mass",0,0
+"Breast lump",3,"XE1he","o/e - breast lump palpated",0,0
+"Breast lump",3,"XE2Rd","benign breast lump",0,1
+"Breast lump",3,"XM0AY","Breast mass",0,0
+"Breast lump",3,"XM1YU","o/e - breast lump position",0,0
+"Breast lump",3,"Xa4iQ","lumpy breasts",0,0
+"Breast lump",3,"XaKis","Breast lump detected by clinician examination",0,0
+"Breast lump",3,"XaKit","Breast lump detected by mammogram",0,0
+"Breast lump",3,"XaKiu","Breast lump detected by partner",0,0
+"Breast lump",3,"XaKiv","Breast lump detected by self-examination",0,0
+"Change in bowel habit",2,"19EA.","altered bowel habit",0,0
+"Change in bowel habit",2,"6643.","git symptom changes",0,0
+"Change in bowel habit",2,"R078.","[d]change in bowel habit",0,0
+"Change in bowel habit",3,".19EA","Change in bowel habit",0,0
+"Change in bowel habit",3,".6643","GIT symptom changes",0,0
+"Change in bowel habit",3,"19EA.","Change in bowel habit",0,0
+"Change in bowel habit",3,"6643.","GIT symptom changes",0,0
+"Change in bowel habit",3,"R078.","[d]change in bowel habit",0,0
+"Dyspepsia",2,"195..","indigestion symptoms",0,0
+"Dyspepsia",2,"1954.","indigestion",0,0
+"Dyspepsia",2,"1958.","undiagnosed dyspepsia",0,0
+"Dyspepsia",2,"195Z.","indigestion symptom nos",0,0
+"Dyspepsia",2,"19B3.","excessive belching",0,0
+"Dyspepsia",2,"8Hg5.","discharged from care of dyspepsia specialist nurse",0,1
+"Dyspepsia",2,"8Hl0.","referral to dyspepsia specialist nurse",0,0
+"Dyspepsia",2,"9NNK.","under care of dyspepsia specialist nurse",0,0
+"Dyspepsia",2,"E2644","psychogenic dyspepsia",0,0
+"Dyspepsia",2,"J101.","oesophagitis",0,0
+"Dyspepsia",2,"J1011","acid reflux",0,0
+"Dyspepsia",2,"J1012","chemical oesophagitis",0,0
+"Dyspepsia",2,"J101y","other specified oesophagitis",0,0
+"Dyspepsia",2,"J101z","oesophagitis nos",0,0
+"Dyspepsia",2,"J10y4","acid reflux",0,1
+"Dyspepsia",2,"J16y4","dyspepsia",0,0
+"Dyspepsia",2,"J16yA","non-ulcer dyspepsia",0,1
+"Dyspepsia",3,".195.","Indigestion symptoms",0,0
+"Dyspepsia",3,".1954","Indigestion",0,0
+"Dyspepsia",3,".1955","acid reflux",0,1
+"Dyspepsia",3,".1958","Undiagnosed dyspepsia",0,0
+"Dyspepsia",3,".195Z","Indigestion symptom NOS",0,0
+"Dyspepsia",3,".19B3","Excessive belching",0,0
+"Dyspepsia",3,".8Hg5","discharged from care of dyspepsia specialist nurse",0,1
+"Dyspepsia",3,".8Hl0","Referral to dyspepsia specialist nurse",0,0
+"Dyspepsia",3,".9NNK","Under care of dyspepsia specialist nurse",0,0
+"Dyspepsia",3,".I212","oesophagitis",0,1
+"Dyspepsia",3,".I264","dyspepsia",0,1
+"Dyspepsia",3,"195..","Indigestion symptoms",0,0
+"Dyspepsia",3,"1954.","Indigestion",0,0
+"Dyspepsia",3,"1955.","acid reflux",0,1
+"Dyspepsia",3,"1958.","undiagnosed dyspepsia",0,0
+"Dyspepsia",3,"195Z.","Indigestion symptom NOS",0,0
+"Dyspepsia",3,"19B3.","Excessive belching",0,0
+"Dyspepsia",3,"8Hg5.","discharged from care of dyspepsia specialist nurse",0,1
+"Dyspepsia",3,"8Hl0.","Referral to dyspepsia specialist nurse",0,0
+"Dyspepsia",3,"9NNK.","under care of dyspepsia specialist nurse",0,0
+"Dyspepsia",3,"E2644","psychogenic dyspepsia",0,0
+"Dyspepsia",3,"J101.","oesophagitis",0,0
+"Dyspepsia",3,"J1011","acid reflux",0,0
+"Dyspepsia",3,"J1012","chemical oesophagitis",0,0
+"Dyspepsia",3,"J101y","other specified oesophagitis",0,0
+"Dyspepsia",3,"J101z","oesophagitis nos",0,0
+"Dyspepsia",3,"J1020","ulcerative oesophagitis",0,0
+"Dyspepsia",3,"J10y4","acid reflux",0,1
+"Dyspepsia",3,"J16y4","dyspepsia",0,0
+"Dyspepsia",3,"J16yA","non-ulcer dyspepsia",0,1
+"Dyspepsia",3,"X3003","acid reflux",0,1
+"Dyspepsia",3,"X3004","biliary oesophagitis",0,1
+"Dyspepsia",3,"X3007","barrett's oesophagus with oesophagitis",0,1
+"Dyspepsia",3,"X3008","non-reflux oesophagitis",0,1
+"Dyspepsia",3,"X301d","non-ulcer dyspepsia",0,1
+"Dyspepsia",3,"X76d4","indigestion nos",0,0
+"Dyspepsia",3,"X76d5","flatulent dyspepsia",0,0
+"Dyspepsia",3,"X77H1","acid reflux status",0,1
+"Dyspepsia",3,"X7948","regurgitated food",0,1
+"Dyspepsia",3,"XC0BB","regurgitation",0,1
+"Dyspepsia",3,"XE0aL","reflux oesophagitis",0,0
+"Dyspepsia",3,"XE0bv","oesophagitis",0,1
+"Dyspepsia",3,"XE0cB","dyspepsia",0,1
+"Dyspepsia",3,"XM08H","acid reflux",0,1
+"Dyspepsia",3,"Xa1q7","peptic oesophagitis",0,0
+"Dyspepsia",3,"Xa7MX","drug-induced dyspepsia",0,1
+"Dyspepsia",3,"Xa96h","regurgitation",0,1
+"Dyspepsia",3,"XaKbv","discharged from care of dyspepsia specialist nurse",0,1
+"Dyspepsia",3,"XaKbw","Under care of dyspepsia specialist nurse",0,0
+"Dyspepsia",3,"XaLRu","Undiagnosed dyspepsia",0,0
+"Dyspepsia",3,"XaMDx","Referral to dyspepsia specialist nurse",0,0
+"Dyspepsia",3,"a24x.","pepcidtwo chewable indigestion tablet",1,1
+"Dyspepsia",3,"x02AL","pepcid ac indigestion tablet",1,1
+"Dysphagia",2,"194..","Swallowing symptoms",0,0
+"Dysphagia",2,"1942.","Difficulty swallowing solids",0,0
+"Dysphagia",2,"1943.","Difficulty swallowing liquids",0,0
+"Dysphagia",2,"1944.","Painful swallowing",0,0
+"Dysphagia",2,"194Z.","Swallowing symptom NOS",0,0
+"Dysphagia",2,"1952.","Regurgitates food",0,0
+"Dysphagia",2,"1CB2.","Choking sensation",0,0
+"Dysphagia",2,"8E42.","Swallowing defect amelioration",0,0
+"Dysphagia",2,"9Oq7.","Dysphagia screening completed",0,0
+"Dysphagia",2,"D00y0","Sideropenic dysphagia",0,0
+"Dysphagia",2,"H470.","Pneumonitis due to inhalation of food or vomitus",0,0
+"Dysphagia",2,"H4700","Pneumonitis due to inhalation of regurgitated food",0,0
+"Dysphagia",2,"H5C..","Choking due to airways obstruction",0,0
+"Dysphagia",2,"J100.","Cardiospasm - oesophagus",0,0
+"Dysphagia",2,"Q311.","Massive aspiration syndrome",0,0
+"Dysphagia",2,"Q311z","Massive aspiration syndrome NOS",0,0
+"Dysphagia",2,"R04z0","[D]Choking sensation",0,0
+"Dysphagia",2,"R072.","[D]Dysphagia",0,0
+"Dysphagia",2,"R0720","[D]Difficulty in swallowing",0,0
+"Dysphagia",2,"R072z","[D]Dysphagia NOS",0,0
+"Dysphagia",2,"SG31.","Choked on regurgitated food",0,0
+"Dysphagia",2,"TB14.","Aspiration of fluid as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of procedure",0,0
+"Dysphagia",2,"TB14z","Aspiration of fluid as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of procedure",0,0
+"Dysphagia",2,"TF1..","Inhalation and ingestion of food causing obstruction of respiratory tract or suffocation",0,0
+"Dysphagia",2,"TF10.","Asphyxia by food",0,0
+"Dysphagia",2,"TF102","Asphyxia by regurgitated food",0,0
+"Dysphagia",2,"TF11.","Choked on food",0,0
+"Dysphagia",2,"TF112","Choked on regurgitated food",0,0
+"Dysphagia",2,"TF11z","Choked on food NOS",0,0
+"Dysphagia",2,"TF12.","Suffocation by food",0,0
+"Dysphagia",2,"TF13.","Respiratory obstruction due to food lodged in oesophagus",0,0
+"Dysphagia",2,"TF130","Tracheal compression due to food lodged in oesophagus",0,0
+"Dysphagia",2,"TF131","Interruption of respiration due to food lodged in oesophagus",0,0
+"Dysphagia",2,"TF132","Respiratory obstruction due to food lodged in oesophagus",0,0
+"Dysphagia",2,"TF133","Obstruction of pharynx by food",0,0
+"Dysphagia",2,"TF13z","Respiratory obstruction due to food lodged in oesophagus NOS",0,0
+"Dysphagia",2,"TF1z.","Inhalation and ingestion of food causing respiratory obstruction or suffocation NOS",0,0
+"Dysphagia",2,"U144.","[X]Inhalation and ingestion of food causing obstruction of respiratory tract",0,0
+"Dysphagia",2,"U1441","[X]Inhalation and ingestion of food causing obstruction of respiratory tract, occurrence in residential institution",0,0
+"Dysphagia",2,"U144z","[X]Inhalation and ingestion of food causing obstruction of respiratory tract, occurrence at unspecified place",0,0
+"Dysphagia",2,"ZD34.","",0,0
+"Dysphagia",2,"ZD51.","",0,0
+"Dysphagia",2,"ZD53.","",0,0
+"Dysphagia",2,"ZD541","",0,0
+"Dysphagia",2,"ZV416","[V]Problem with swallowing or mastication",0,0
+"Dysphagia",3,".194.","Swallowing symptoms",0,0
+"Dysphagia",3,".1942","Difficulty swallowing solids",0,0
+"Dysphagia",3,".1943","Difficulty swallowing liquids",0,0
+"Dysphagia",3,".1944","Swallowing painful",0,0
+"Dysphagia",3,".194Z","Swallowing symptom NOS",0,0
+"Dysphagia",3,".1952","Regurgitates food",0,0
+"Dysphagia",3,".8E42","Swallowing defect amelioration",0,0
+"Dysphagia",3,".I211","Achalasia of cardia",0,0
+"Dysphagia",3,".Q4C1","Asphyxia by inhalation of food",0,0
+"Dysphagia",3,".R4Z0","[D]Choking sensation",0,0
+"Dysphagia",3,".R72.","[D]Dysphagia",0,0
+"Dysphagia",3,".R720","[D]Difficulty in swallowing",0,0
+"Dysphagia",3,".R72Z","[D]Dysphagia NOS",0,0
+"Dysphagia",3,"194..","Swallowing symptoms",0,0
+"Dysphagia",3,"1942.","Difficulty swallowing solids",0,0
+"Dysphagia",3,"1943.","Difficulty swallowing liquids",0,0
+"Dysphagia",3,"1944.","Swallowing painful",0,0
+"Dysphagia",3,"194Z.","Swallowing symptom NOS",0,0
+"Dysphagia",3,"1952.","Regurgitates food",0,0
+"Dysphagia",3,"1CB2.","Choking sensation",0,0
+"Dysphagia",3,"8E42.","Swallowing defect amelioration",0,0
+"Dysphagia",3,"9Oq7.","Dysphagia screening completed",0,0
+"Dysphagia",3,"D00y0","Sideropenic dysphagia",0,0
+"Dysphagia",3,"H470.","Pneumonitis due to inhalation of food or vomitus",0,0
+"Dysphagia",3,"H4700","Pneumonitis due to inhalation of regurgitated food",0,0
+"Dysphagia",3,"H5C..","Choking due to airways obstruction",0,0
+"Dysphagia",3,"J100.","Achalasia of cardia",0,0
+"Dysphagia",3,"Q311.","Neonatal massive aspiration syndrome",0,0
+"Dysphagia",3,"Q311z","Massive aspiration syndrome NOS",0,0
+"Dysphagia",3,"R04z0","[D]Choking sensation",0,0
+"Dysphagia",3,"R072.","[D]Dysphagia",0,0
+"Dysphagia",3,"R0720","[D]Difficulty in swallowing",0,0
+"Dysphagia",3,"R072z","[D]Dysphagia NOS",0,0
+"Dysphagia",3,"SG31.","Choked on regurgitated food",0,0
+"Dysphagia",3,"TB14.","Aspiration of fluid as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of procedure",0,0
+"Dysphagia",3,"TB14z","Aspiration of fluid as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of procedure",0,0
+"Dysphagia",3,"TF1..","Inhalation and ingestion of food causing obstruction of respiratory tract or suffocation",0,0
+"Dysphagia",3,"TF10.","Asphyxia by inhalation of food",0,0
+"Dysphagia",3,"TF102","Asphyxia by regurgitated food in air passages",0,0
+"Dysphagia",3,"TF11.","Choked on food",0,0
+"Dysphagia",3,"TF112","Choked on regurgitated food",0,0
+"Dysphagia",3,"TF11z","Choked on food NOS",0,0
+"Dysphagia",3,"TF12.","Choked on food",0,0
+"Dysphagia",3,"TF13.","Respiratory obstruction due to food lodged in oesophagus",0,0
+"Dysphagia",3,"TF130","Tracheal compression due to food lodged in oesophagus",0,0
+"Dysphagia",3,"TF131","Interruption of respiration due to food lodged in oesophagus",0,0
+"Dysphagia",3,"TF132","Respiratory obstruction due to food lodged in oesophagus",0,0
+"Dysphagia",3,"TF133","Obstruction of pharynx by food",0,0
+"Dysphagia",3,"TF13z","Respiratory obstruction due to food lodged in oesophagus NOS",0,0
+"Dysphagia",3,"TF1z.","Inhalation and ingestion of food causing respiratory obstruction or suffocation NOS",0,0
+"Dysphagia",3,"U144.","[X]Inhalation and ingestion of food causing obstruction of respiratory tract",0,0
+"Dysphagia",3,"U1441","[X]Inhalation and ingestion of food causing obstruction of respiratory tract, occurrence in residential institution",0,0
+"Dysphagia",3,"U144z","[X]Inhalation and ingestion of food causing obstruction of respiratory tract, occurrence at unspecified place",0,0
+"Dysphagia",3,"XE0r7","Swallowing symptoms",0,0
+"Dysphagia",3,"XE0r8","Regurgitates food",0,0
+"Dysphagia",3,"XE1eo","Massive aspiration syndrome NOS",0,0
+"Dysphagia",3,"XM08J","Dysphagia",0,0
+"Dysphagia",3,"XaW9A","Dysphagia screening completed",0,0
+"Dysphagia",3,"ZD34.","",0,0
+"Dysphagia",3,"ZD51.","",0,0
+"Dysphagia",3,"ZD53.","",0,0
+"Dysphagia",3,"ZD541","",0,0
+"Dysphagia",3,"ZV416","[V]Problem with swallowing or mastication",0,0
+"Dyspnoea",2,"173..","breathlessness",0,0
+"Dyspnoea",2,"1732.","breathless - moderate exertion",0,0
+"Dyspnoea",2,"1733.","breathless - mild exertion",0,0
+"Dyspnoea",2,"1734.","breathless - at rest",0,0
+"Dyspnoea",2,"1735.","orthopnoea symptom",0,0
+"Dyspnoea",2,"1736.","paroxysmal nocturnal dyspnoea",0,0
+"Dyspnoea",2,"1738.","difficulty breathing",0,0
+"Dyspnoea",2,"1739.","shortness of breath",0,0
+"Dyspnoea",2,"173C.","dyspnoea on exertion",0,0
+"Dyspnoea",2,"173D.","nocturnal dyspnoea",0,0
+"Dyspnoea",2,"173F.","short of breath dressing/undressing",0,0
+"Dyspnoea",2,"173G.","breathless - strenuous exertion",0,0
+"Dyspnoea",2,"173H.","mrc breathlessness scale: grade 1",0,0
+"Dyspnoea",2,"173I.","mrc breathlessness scale: grade 2",0,0
+"Dyspnoea",2,"173J.","mrc breathlessness scale: grade 3",0,0
+"Dyspnoea",2,"173K.","mrc breathlessness scale: grade 4",0,0
+"Dyspnoea",2,"173L.","mrc breathlessness scale: grade 5",0,0
+"Dyspnoea",2,"173N.","borg breathlessness score: 0.5 very, very slight (just noticeable)",0,0
+"Dyspnoea",2,"173P.","borg breathlessness score: 1 very slight",0,0
+"Dyspnoea",2,"173Q.","borg breathlessness score: 2 slight",0,0
+"Dyspnoea",2,"173R.","borg breathlessness score: 3 moderate",0,0
+"Dyspnoea",2,"173S.","borg breathlessness score: 4 somewhat severe",0,0
+"Dyspnoea",2,"173T.","borg breathlessness score: 5 severe",0,0
+"Dyspnoea",2,"173V.","borg breathlessness score: 6 severe (+)",0,0
+"Dyspnoea",2,"173W.","borg breathlessness score: 7 very severe",0,0
+"Dyspnoea",2,"173X.","borg breathlessness score: 8 very severe (+)",0,0
+"Dyspnoea",2,"173Y.","borg breathlessness score: 9 very, very severe (almost maximal)",0,0
+"Dyspnoea",2,"173Z.","breathlessness nos",0,0
+"Dyspnoea",2,"173a.","borg breathlessness score: 10 maximal",0,0
+"Dyspnoea",2,"173g.","breathlessness causing difficulty eating",0,1
+"Dyspnoea",2,"2322.","o/e - dyspnoea",0,0
+"Dyspnoea",2,"2323.","o/e - orthopnoea",0,0
+"Dyspnoea",2,"2324.","o/e - respiratory distress",0,1
+"Dyspnoea",2,"388H.","cardiovascular limitations and symptoms profile shortness of breath score",0,0
+"Dyspnoea",2,"38Gb.","dyspnoea, airflow obstruction, smoking status, exacerbation frequency index",0,1
+"Dyspnoea",2,"R0602","[d]orthopnoea",0,0
+"Dyspnoea",2,"R0605","[d]cheyne-stokes respiration",0,0
+"Dyspnoea",2,"R0606","[d]respiratory distress",0,0
+"Dyspnoea",2,"R0607","[d]respiratory insufficiency",0,0
+"Dyspnoea",2,"R0608","[d]shortness of breath",0,0
+"Dyspnoea",2,"R060A","[d]dyspnoea",0,0
+"Dyspnoea",2,"R060D","[d]breathlessness",0,0
+"Dyspnoea",2,"ZR3Q.","",0,0
+"Dyspnoea",3,".173.","Breathlessness",0,0
+"Dyspnoea",3,".1732","Breathless - moderate exertion",0,0
+"Dyspnoea",3,".1733","Breathless - mild exertion",0,0
+"Dyspnoea",3,".1734","Breathless - at rest",0,0
+"Dyspnoea",3,".1735","Breathless - lying flat",0,0
+"Dyspnoea",3,".1736","Paroxysmal nocturnal dyspnoea",0,0
+"Dyspnoea",3,".1738","Difficulty breathing",0,0
+"Dyspnoea",3,".1739","Dyspnoea",0,0
+"Dyspnoea",3,".173C","Dyspnoea on exertion",0,0
+"Dyspnoea",3,".173D","Nocturnal dyspnoea",0,0
+"Dyspnoea",3,".173F","Short of breath dressing/undressing",0,0
+"Dyspnoea",3,".173G","Breathless - strenuous exertion",0,0
+"Dyspnoea",3,".173H","MRC Breathlessness Scale: grade 1",0,0
+"Dyspnoea",3,".173I","MRC Breathlessness Scale: grade 2",0,0
+"Dyspnoea",3,".173J","MRC Breathlessness Scale: grade 3",0,0
+"Dyspnoea",3,".173K","MRC Breathlessness Scale: grade 4",0,0
+"Dyspnoea",3,".173L","MRC Breathlessness Scale: grade 5",0,0
+"Dyspnoea",3,".173N","Borg Breathlessness Score: 0.5 very, very slight (just noticeable)",0,0
+"Dyspnoea",3,".173P","Borg Breathlessness Score: 1 very slight",0,0
+"Dyspnoea",3,".173Q","Borg Breathlessness Score: 2 slight",0,0
+"Dyspnoea",3,".173R","Borg Breathlessness Score: 3 moderate",0,0
+"Dyspnoea",3,".173S","Borg Breathlessness Score: 4 somewhat severe",0,0
+"Dyspnoea",3,".173T","Borg Breathlessness Score: 5 severe",0,0
+"Dyspnoea",3,".173V","Borg Breathlessness Score: 6 severe (+)",0,0
+"Dyspnoea",3,".173W","Borg Breathlessness Score: 7 very severe",0,0
+"Dyspnoea",3,".173X","Borg Breathlessness Score: 8 very severe (+)",0,0
+"Dyspnoea",3,".173Y","Borg Breathlessness Score: 9 very, very severe (almost maximal)",0,0
+"Dyspnoea",3,".173Z","Breathlessness NOS",0,0
+"Dyspnoea",3,".173a","Borg Breathlessness Score: 10 maximal",0,0
+"Dyspnoea",3,".2322","O/E - dyspnoea",0,0
+"Dyspnoea",3,".2323","O/E - orthopnoea",0,0
+"Dyspnoea",3,".2324","o/e - respiratory distress",0,1
+"Dyspnoea",3,".388H","Cardiovascular Limitations and Symptoms Profile shortness of breath score",0,0
+"Dyspnoea",3,".R600","[D]Dyspnoea",0,0
+"Dyspnoea",3,".R602","[D]Orthopnoea",0,0
+"Dyspnoea",3,".R605","[D]Cheyne-Stokes respiration",0,0
+"Dyspnoea",3,".R606","[D]Respiratory distress",0,0
+"Dyspnoea",3,".R607","respiratory insufficiency [d]",0,1
+"Dyspnoea",3,".R608","[D]Shortness of breath",0,0
+"Dyspnoea",3,"173..","Breathlessness",0,0
+"Dyspnoea",3,"1732.","Breathless - moderate exertion",0,0
+"Dyspnoea",3,"1733.","Breathless - mild exertion",0,0
+"Dyspnoea",3,"1734.","Breathless - at rest",0,0
+"Dyspnoea",3,"1735.","Breathless - lying flat",0,0
+"Dyspnoea",3,"1736.","Paroxysmal nocturnal dyspnoea",0,0
+"Dyspnoea",3,"1738.","Difficulty breathing",0,0
+"Dyspnoea",3,"1739.","dyspnoea",0,0
+"Dyspnoea",3,"173C.","dyspnoea on exertion",0,0
+"Dyspnoea",3,"173D.","nocturnal dyspnoea",0,0
+"Dyspnoea",3,"173F.","short of breath dressing/undressing",0,0
+"Dyspnoea",3,"173G.","breathless - strenuous exertion",0,0
+"Dyspnoea",3,"173H.","mrc breathlessness scale: grade 1",0,0
+"Dyspnoea",3,"173I.","mrc breathlessness scale: grade 2",0,0
+"Dyspnoea",3,"173J.","mrc breathlessness scale: grade 3",0,0
+"Dyspnoea",3,"173K.","mrc breathlessness scale: grade 4",0,0
+"Dyspnoea",3,"173L.","mrc breathlessness scale: grade 5",0,0
+"Dyspnoea",3,"173N.","borg breathlessness score: 0.5 very, very slight (just noticeable)",0,0
+"Dyspnoea",3,"173P.","borg breathlessness score: 1 very slight",0,0
+"Dyspnoea",3,"173Q.","borg breathlessness score: 2 slight",0,0
+"Dyspnoea",3,"173R.","borg breathlessness score: 3 moderate",0,0
+"Dyspnoea",3,"173S.","borg breathlessness score: 4 somewhat severe",0,0
+"Dyspnoea",3,"173T.","borg breathlessness score: 5 severe",0,0
+"Dyspnoea",3,"173V.","borg breathlessness score: 6 severe (+)",0,0
+"Dyspnoea",3,"173W.","borg breathlessness score: 7 very severe",0,0
+"Dyspnoea",3,"173X.","borg breathlessness score: 8 very severe (+)",0,0
+"Dyspnoea",3,"173Y.","borg breathlessness score: 9 very, very severe (almost maximal)",0,0
+"Dyspnoea",3,"173Z.","Breathlessness NOS",0,0
+"Dyspnoea",3,"173a.","borg breathlessness score: 10 maximal",0,0
+"Dyspnoea",3,"173g.","breathlessness causing difficulty eating",0,1
+"Dyspnoea",3,"2322.","O/E - dyspnoea",0,0
+"Dyspnoea",3,"2323.","O/E - orthopnoea",0,0
+"Dyspnoea",3,"2324.","o/e - respiratory distress",0,1
+"Dyspnoea",3,"388H.","cardiovascular limitations and symptoms profile shortness of breath score",0,0
+"Dyspnoea",3,"38Gb.","dyspnoea, airflow obstruction, smoking status, exacerbation frequency index",0,1
+"Dyspnoea",3,"H59..","respiratory insufficiency",0,1
+"Dyspnoea",3,"R0602","[D]Orthopnoea",0,0
+"Dyspnoea",3,"R0605","[D]Cheyne-Stokes respiration",0,0
+"Dyspnoea",3,"R0606","[D]Respiratory distress",0,0
+"Dyspnoea",3,"R0607","[d]respiratory insufficiency",0,0
+"Dyspnoea",3,"R0608","[D]Shortness of breath",0,0
+"Dyspnoea",3,"R060A","[D]Dyspnoea",0,0
+"Dyspnoea",3,"R060D","[d]breathlessness",0,0
+"Dyspnoea",3,"X76Gy","Nocturnal dyspnoea",0,0
+"Dyspnoea",3,"X76Gz","Dyspnoea on exertion",0,0
+"Dyspnoea",3,"X77QT","breathlessness rating",0,1
+"Dyspnoea",3,"XE0qq","Dyspnoea",0,0
+"Dyspnoea",3,"XE0qr","orthopnoea",0,0
+"Dyspnoea",3,"XM07z","respiratory distress",0,1
+"Dyspnoea",3,"XM09V","respiratory insufficiency",0,1
+"Dyspnoea",3,"Xa6Xt","respiratory insufficiency [d]",0,1
+"Dyspnoea",3,"Xa6a8","increasing breathlessness",0,1
+"Dyspnoea",3,"XaBMU","[d]breathlessness",0,0
+"Dyspnoea",3,"XaINB","Cardiovascular Limitations and Symptoms Profile shortness of breath score",0,0
+"Dyspnoea",3,"XaIQ2","Short of breath dressing/undressing",0,0
+"Dyspnoea",3,"XaIQ3","Breathless - strenuous exertion",0,0
+"Dyspnoea",3,"XaIUi","MRC Breathlessness Scale: grade 1",0,0
+"Dyspnoea",3,"XaIUl","MRC Breathlessness Scale: grade 2",0,0
+"Dyspnoea",3,"XaIUm","MRC Breathlessness Scale: grade 3",0,0
+"Dyspnoea",3,"XaIUn","MRC Breathlessness Scale: grade 4",0,0
+"Dyspnoea",3,"XaIUo","MRC Breathlessness Scale: grade 5",0,0
+"Dyspnoea",3,"XaIvo","Borg Breathlessness Score: 0.5 very, very slight (just noticeable)",0,0
+"Dyspnoea",3,"XaIvs","Borg Breathlessness Score: 1 very slight",0,0
+"Dyspnoea",3,"XaIvt","Borg Breathlessness Score: 2 slight",0,0
+"Dyspnoea",3,"XaIvu","Borg Breathlessness Score: 3 moderate",0,0
+"Dyspnoea",3,"XaIvv","Borg Breathlessness Score: 4 somewhat severe",0,0
+"Dyspnoea",3,"XaIvy","Borg Breathlessness Score: 5 severe",0,0
+"Dyspnoea",3,"XaIw0","Borg Breathlessness Score: 6 severe (+)",0,0
+"Dyspnoea",3,"XaIw5","Borg Breathlessness Score: 7 very severe",0,0
+"Dyspnoea",3,"XaIw6","Borg Breathlessness Score: 8 very severe (+)",0,0
+"Dyspnoea",3,"XaIw7","Borg Breathlessness Score: 9 very, very severe (almost maximal)",0,0
+"Dyspnoea",3,"XaIw8","Borg Breathlessness Score: 10 maximal",0,0
+"Dyspnoea",3,"XaX8r","body mass, airflow obstruction, dyspnoea and exercise capacity index",0,1
+"Dyspnoea",3,"XaXfI","chronic respiratory disease questionnaire dyspnoea subscale",0,1
+"Dyspnoea",3,"XaZZr","dyspnoea, airflow obstruction, smoking status, exacerbation frequency index",0,1
+"Dyspnoea",3,"XaagZ","breathlessness causing difficulty eating",0,1
+"Dyspnoea",3,"ZR3Q.","",0,0
+"Fatigue",2,"168..","c/o ""muzzy head""",0,0
+"Fatigue",2,"1682.","fatigue",0,0
+"Fatigue",2,"1683.","tired all the time",0,0
+"Fatigue",2,"1684.","c/o - overwork",0,0
+"Fatigue",2,"1688.","exhaustion",0,0
+"Fatigue",2,"168Z.","tiredness symptom nos",0,0
+"Fatigue",2,"1B3..","motor symptoms",0,0
+"Fatigue",2,"1B32.","weakness present",0,0
+"Fatigue",2,"2832.","o/e - paresis",0,0
+"Fatigue",2,"8HkW.","referral to chronic fatigue syndrome specialist team",0,1
+"Fatigue",2,"8HlL.","referral for chronic fatigue syndrome activity management",0,1
+"Fatigue",2,"8Q1..","activity management for chronic fatigue syndrome",0,1
+"Fatigue",2,"E205.","nervous exhaustion",0,0
+"Fatigue",2,"Eu460","[x]neurasthenia",0,0
+"Fatigue",2,"F286.","chronic fatigue syndrome",0,0
+"Fatigue",2,"F2860","mild chronic fatigue syndrome",0,0
+"Fatigue",2,"F2861","moderate chronic fatigue syndrome",0,0
+"Fatigue",2,"F2862","severe chronic fatigue syndrome",0,0
+"Fatigue",2,"R007.","[d]malaise and fatigue",0,0
+"Fatigue",2,"R0070","[d]malaise",0,0
+"Fatigue",2,"R0071","[d]fatigue",0,0
+"Fatigue",2,"R0072","[d]asthenia nos",0,0
+"Fatigue",2,"R0073","[d]lethargy",0,0
+"Fatigue",2,"R0074","[d]post viral debility",0,0
+"Fatigue",2,"R0075","[d]tiredness",0,0
+"Fatigue",2,"R007z","[d]overwork",0,0
+"Fatigue",2,"R204.","[d]senile exhaustion",0,0
+"Fatigue",2,"R2y3.","[d] self neglect",0,0
+"Fatigue",3,".168.","fatigue - symptom",0,1
+"Fatigue",3,".1682","Fatigue",0,0
+"Fatigue",3,".1683","Tired all the time",0,0
+"Fatigue",3,".1688","Exhaustion",0,0
+"Fatigue",3,".168Z","Tiredness symptom NOS",0,0
+"Fatigue",3,".1B3.","Weakness symptoms",0,0
+"Fatigue",3,".1B32","Weakness present",0,0
+"Fatigue",3,".2832","O/E - weakness",0,0
+"Fatigue",3,".8Q1.","activity management for chronic fatigue syndrome",0,1
+"Fatigue",3,".A871","postviral infection debility",0,1
+"Fatigue",3,".F38.","Chronic fatigue syndrome",0,0
+"Fatigue",3,".P9C5","transient heat fatigue",1,1
+"Fatigue",3,".P9EZ","overexertion exhaustion",1,1
+"Fatigue",3,".R07.","[D]Malaise and fatigue",0,0
+"Fatigue",3,".R070","[D]Malaise",0,0
+"Fatigue",3,".R071","[D]Fatigue",0,0
+"Fatigue",3,".R072","asthenia          [d]",0,1
+"Fatigue",3,".R073","[D]Lethargy",0,0
+"Fatigue",3,".R074","[D]Postviral (asthenic) syndrome",0,0
+"Fatigue",3,".R07Z","[D]Malaise and fatigue NOS",0,0
+"Fatigue",3,".RH4.","[D]Senile exhaustion",0,0
+"Fatigue",3,".RJ3.","[D]Debility, unspecified",0,0
+"Fatigue",3,"168..","c/o ""muzzy head""",0,0
+"Fatigue",3,"1682.","Fatigue",0,0
+"Fatigue",3,"1683.","tired all the time",0,0
+"Fatigue",3,"1684.","c/o - overwork",0,0
+"Fatigue",3,"1688.","exhaustion",0,0
+"Fatigue",3,"168Z.","Tiredness symptom NOS",0,0
+"Fatigue",3,"1B3..","Weakness symptoms",0,0
+"Fatigue",3,"1B32.","Weakness present",0,0
+"Fatigue",3,"2832.","O/E - weakness",0,0
+"Fatigue",3,"8HkW.","referral to chronic fatigue syndrome specialist team",0,1
+"Fatigue",3,"8HlL.","referral for chronic fatigue syndrome activity management",0,1
+"Fatigue",3,"8Q1..","activity management for chronic fatigue syndrome",0,1
+"Fatigue",3,"E205.","tired all the time",0,0
+"Fatigue",3,"Eu460","Neurasthenia",0,0
+"Fatigue",3,"F286.","chronic fatigue syndrome",0,0
+"Fatigue",3,"F2860","mild chronic fatigue syndrome",0,0
+"Fatigue",3,"F2861","moderate chronic fatigue syndrome",0,0
+"Fatigue",3,"F2862","severe chronic fatigue syndrome",0,0
+"Fatigue",3,"R007.","[D]Malaise and fatigue",0,0
+"Fatigue",3,"R0070","[D]Malaise",0,0
+"Fatigue",3,"R0071","[D]Fatigue",0,0
+"Fatigue",3,"R0072","[d]asthenia nos",0,0
+"Fatigue",3,"R0073","[D]Lethargy",0,0
+"Fatigue",3,"R0074","[D]Postviral (asthenic) syndrome",0,0
+"Fatigue",3,"R0075","[d]tiredness",0,0
+"Fatigue",3,"R007z","[D]Malaise and fatigue NOS",0,0
+"Fatigue",3,"R204.","[D]Senile exhaustion",0,0
+"Fatigue",3,"R2y3.","[d] self neglect",0,0
+"Fatigue",3,"SN26.","transient heat fatigue",1,1
+"Fatigue",3,"X75s8","Chronic fatigue syndrome",0,0
+"Fatigue",3,"X76Ac","easily tired",0,1
+"Fatigue",3,"X76Ad","tired on least exertion",0,1
+"Fatigue",3,"X76Ae","Exhaustion",0,0
+"Fatigue",3,"X76Am","weakness - general",0,0
+"Fatigue",3,"X76p0","rapid fatigue of gait",0,1
+"Fatigue",3,"X76qY","muscle fatigue",0,1
+"Fatigue",3,"X77QS","leg fatigue rating",0,1
+"Fatigue",3,"XE0UW","postviral infection debility",0,1
+"Fatigue",3,"XE0qj","tiredness symptom",0,0
+"Fatigue",3,"XE0qk","Tired all the time",0,0
+"Fatigue",3,"XE0ql","malaise/lethargy",0,0
+"Fatigue",3,"XE0uN","fatigue - symptom",0,1
+"Fatigue",3,"XE1YD","Neurasthenia",0,0
+"Fatigue",3,"XE1t7","overexertion exhaustion",1,1
+"Fatigue",3,"XE2y5","[D]Debility, unspecified",0,0
+"Fatigue",3,"XM03n","Muscle weakness",0,0
+"Fatigue",3,"XM06l","malaise and fatigue",0,1
+"Fatigue",3,"XM06m","malaise",0,1
+"Fatigue",3,"XM06o","lethargy",0,0
+"Fatigue",3,"XM06p","Chronic fatigue syndrome",0,0
+"Fatigue",3,"XM0Ce","c/o - debility - malaise",0,0
+"Fatigue",3,"XM0Cg","c/o - postviral syndrome",0,1
+"Fatigue",3,"XM0D3","fatigue - symptom",0,0
+"Fatigue",3,"XM0D4","c/o ""muzzy head""",1,1
+"Fatigue",3,"XM0D5","c/o - ""tired all the time""",0,0
+"Fatigue",3,"XM0yx","asthenia          [d]",0,1
+"Fatigue",3,"XM1AV","weakness",0,1
+"Fatigue",3,"Xa01F","Chronic fatigue syndrome",0,0
+"Fatigue",3,"XaPeC","activity management for chronic fatigue syndrome",0,1
+"Fatigue",3,"XaPom","mild chronic fatigue syndrome",0,0
+"Fatigue",3,"XaPon","moderate chronic fatigue syndrome",0,0
+"Fatigue",3,"XaPoo","severe chronic fatigue syndrome",0,0
+"Fatigue",3,"XaR7C","referral to chronic fatigue syndrome specialist team",0,1
+"Fatigue",3,"XaRAz","referral for chronic fatigue syndrome activity management",0,1
+"Fatigue",3,"XabDw","symptom assessment scale - fatigue score",0,1
+"Haematuria",2,"14D5.","h/o: haematuria",0,1
+"Haematuria",2,"1A45.","haematuria - symptom",0,0
+"Haematuria",2,"4625.","urine: red - blood",0,0
+"Haematuria",2,"469..","urine blood test",0,0
+"Haematuria",2,"4695.","urine blood test = +",0,0
+"Haematuria",2,"4696.","urine blood test = ++",0,0
+"Haematuria",2,"4697.","urine blood test = +++",0,0
+"Haematuria",2,"46G2.","rbcs- red blood cells in urine",0,0
+"Haematuria",2,"8T10.","referral to haematuria clinic",0,1
+"Haematuria",2,"K0321","recurrent benign haematuria syndrome",0,0
+"Haematuria",2,"K0A2.","recurrent and persistent haematuria",0,0
+"Haematuria",2,"K0A26","recurrent and persistent haematuria, dense deposit disease",0,0
+"Haematuria",2,"K197.","haematuria",0,0
+"Haematuria",2,"K1970","painless haematuria",0,0
+"Haematuria",2,"K1971","painful haematuria",0,0
+"Haematuria",2,"K1972","microscopic haematuria",0,1
+"Haematuria",2,"K1973","frank haematuria",0,0
+"Haematuria",2,"K1974","clot haematuria",0,0
+"Haematuria",3,".14D5","h/o: haematuria",0,1
+"Haematuria",3,".1A45","haematuria - symptom",0,1
+"Haematuria",3,".4625","Urine: red - blood",0,0
+"Haematuria",3,".469.","Urine blood test",0,0
+"Haematuria",3,".4695","Urine blood test = +",0,0
+"Haematuria",3,".4696","Urine blood test = ++",0,0
+"Haematuria",3,".4697","Urine blood test = +++",0,0
+"Haematuria",3,".46G2","RBCs- red blood cells in urine",0,0
+"Haematuria",3,".J2A1","Frank haematuria",0,0
+"Haematuria",3,".J2A2","Painless haematuria",0,0
+"Haematuria",3,".J2A3","microscopic haematuria",0,1
+"Haematuria",3,"14D5.","h/o: haematuria",0,1
+"Haematuria",3,"1A45.","haematuria - symptom",0,0
+"Haematuria",3,"4625.","Urine: red - blood",0,0
+"Haematuria",3,"469..","urine blood test",0,0
+"Haematuria",3,"4695.","Urine blood test = +",0,0
+"Haematuria",3,"4696.","Urine blood test = ++",0,0
+"Haematuria",3,"4697.","Urine blood test = +++",0,0
+"Haematuria",3,"46G2.","RBCs- red blood cells in urine",0,0
+"Haematuria",3,"8T10.","referral to haematuria clinic",0,1
+"Haematuria",3,"K0321","recurrent benign haematuria syndrome",0,0
+"Haematuria",3,"K0A2.","recurrent and persistent haematuria",0,0
+"Haematuria",3,"K0A26","recurrent and persistent haematuria, dense deposit disease",0,0
+"Haematuria",3,"K197.","haematuria",0,0
+"Haematuria",3,"K1970","Painless haematuria",0,0
+"Haematuria",3,"K1971","painful haematuria",0,0
+"Haematuria",3,"K1972","microscopic haematuria",0,1
+"Haematuria",3,"K1973","Frank haematuria",0,0
+"Haematuria",3,"K1974","clot haematuria",0,0
+"Haematuria",3,"X30Pw","traumatic haematuria",0,0
+"Haematuria",3,"X30Px","loin pain - haematuria syndrome",0,1
+"Haematuria",3,"X30Pz","upper urinary tract haematuria",0,1
+"Haematuria",3,"X30Q0","dipstix haematuria",0,1
+"Haematuria",3,"XE0e5","haematuria",0,0
+"Haematuria",3,"XE0rU","blood in urine - haematuria",0,0
+"Haematuria",3,"XE0un","haematuria - symptom",0,1
+"Haematuria",3,"XE2sK","urine microscopy:rbc's present",0,1
+"Haematuria",3,"Xa1cp","rbcs- red blood cells in urine",0,0
+"Haematuria",3,"Xa1uI","persistent frank haematuria",0,1
+"Haematuria",3,"Xa1uJ","recurrent frank haematuria",0,1
+"Haematuria",3,"Xa1uK","persistent microscopic haematuria",0,1
+"Haematuria",3,"Xa1uL","recurrent microscopic haematuria",0,1
+"Haematuria",3,"Xa1uM","persistent haematuria",0,1
+"Haematuria",3,"Xa1uN","recurrent haematuria",0,1
+"Haematuria",3,"XaBFN","Urine blood test",0,0
+"Haematuria",3,"Xaafu","referral to haematuria clinic",0,1
+"Haematuria",3,"pujJ.","hemastix urine blood test strip",0,1
+"Haematuria",3,"x00kP","urine blood test strip",0,1
+"Haemoptysis",2,"172..","Blood in sputum - haemoptysis",0,0
+"Haemoptysis",2,"R063.","[D]Haemoptysis",0,0
+"Haemoptysis",2,"R0630","[D]Cough with haemorrhage",0,0
+"Haemoptysis",2,"R0631","[D]Pulmonary haemorrhage NOS",0,0
+"Haemoptysis",2,"R063z","[D]Haemoptysis NOS",0,0
+"Haemoptysis",3,".172.","Blood in sputum - haemoptysis",0,0
+"Haemoptysis",3,".R63.","[D]Haemoptysis",0,0
+"Haemoptysis",3,".R630","[D]Cough with haemorrhage",0,0
+"Haemoptysis",3,".R63Z","[D]Haemoptysis NOS",0,0
+"Haemoptysis",3,"172..","Blood in sputum - haemoptysis",0,0
+"Haemoptysis",3,"4E24.","Blood in sputum - haemoptysis",0,0
+"Haemoptysis",3,"R063.","[D]Haemoptysis",0,0
+"Haemoptysis",3,"R0630","[D]Cough with haemorrhage",0,0
+"Haemoptysis",3,"R0631","[D]Pulmonary haemorrhage NOS",0,0
+"Haemoptysis",3,"R063z","[D]Haemoptysis NOS",0,0
+"Haemoptysis",3,"XE0qp","Blood in sputum - haemoptysis",0,0
+"Jaundice",2,"1675.","Yellow/jaundiced colour",0,0
+"Jaundice",2,"2274.","O/E - jaundiced colour",0,0
+"Jaundice",2,"4223.","O/E: blood looks deep yellow",0,0
+"Jaundice",2,"D100.","Acholuric familial jaundice",0,0
+"Jaundice",2,"J66y6","Obstructive jaundice NOS",0,0
+"Jaundice",2,"R024.","[D]Jaundice (not of newborn)",0,0
+"Jaundice",2,"R0240","[D]Cholaemia NOS",0,0
+"Jaundice",2,"R0241","[D]Icterus NOS",0,0
+"Jaundice",2,"R024z","[D]Jaundice (not of newborn) NOS",0,0
+"Jaundice",3,".1675","Yellow/jaundiced colour",0,0
+"Jaundice",3,".2274","O/E - jaundiced colour",0,0
+"Jaundice",3,".4223","O/E: blood looks deep yellow",0,0
+"Jaundice",3,".D131","Hereditary spherocytosis",0,0
+"Jaundice",3,".R24.","[D]Jaundice (not of newborn)",0,0
+"Jaundice",3,".R24Z","[D]Jaundice (not of newborn) NOS",0,0
+"Jaundice",3,"1675.","Yellow/jaundiced colour",0,0
+"Jaundice",3,"2274.","O/E - jaundiced colour",0,0
+"Jaundice",3,"4223.","O/E: blood looks deep yellow",0,0
+"Jaundice",3,"D100.","Hereditary spherocytosis",0,0
+"Jaundice",3,"J66y6","Obstructive jaundice NOS",0,0
+"Jaundice",3,"R024.","[D]Jaundice (not of newborn)",0,0
+"Jaundice",3,"R0240","[D]Cholaemia NOS",0,0
+"Jaundice",3,"R0241","[D]Icterus NOS",0,0
+"Jaundice",3,"R024z","[D]Jaundice (not of newborn) NOS",0,0
+"Jaundice",3,"X769K","Yellow - symptom",0,0
+"Jaundice",3,"X769z","Jaundice",0,0
+"Jaundice",3,"XC08w","Jaundice",0,0
+"Jaundice",3,"XE0qi","Yellow or jaundiced colour",0,0
+"Night sweats",2,"1662.","Night sweats",0,0
+"Night sweats",2,"R0084","[D]Night sweats",0,0
+"Night sweats",3,".1662","Night sweats",0,0
+"Night sweats",3,"1662.","Night sweats",0,0
+"Night sweats",3,"R0084","Night sweats",0,0
+"Night sweats",3,"X76A5","Night sweats",0,0
+"Post-menopausal bleeding",2,"K5A1.","Postmenopausal bleeding",0,0
+"Post-menopausal bleeding",3,".J772","Postmenopausal bleeding",0,0
+"Post-menopausal bleeding",3,"K5A1.","Postmenopausal bleeding",0,0
+"Rectal bleeding",2,"196B.","Painful rectal bleeding",0,0
+"Rectal bleeding",2,"196C.","Painless rectal bleeding",0,0
+"Rectal bleeding",2,"19E6.","Blood in faeces",0,0
+"Rectal bleeding",2,"19ED.","Blood on toilet paper",0,0
+"Rectal bleeding",2,"19EG.","Blood on pants",0,0
+"Rectal bleeding",2,"4762.","Faeces: fresh blood present",0,0
+"Rectal bleeding",2,"4793.","Faecal occult blood: trace",0,0
+"Rectal bleeding",2,"4794.","Faecal occult blood: positive",0,0
+"Rectal bleeding",2,"8HTE0","Referral to rectal bleeding clinic",0,0
+"Rectal bleeding",2,"G8480","Bleeding haemorrhoids NOS",0,0
+"Rectal bleeding",2,"J573.","Haemorrhage of rectum and anus",0,0
+"Rectal bleeding",2,"J5730","Rectal haemorrhage",0,0
+"Rectal bleeding",2,"J5731","Anal haemorrhage",0,0
+"Rectal bleeding",2,"J573z","Haemorrhage of rectum and anus NOS",0,0
+"Rectal bleeding",2,"J68..","Gastrointestinal haemorrhage",0,0
+"Rectal bleeding",2,"J681.","Blood in stool",0,0
+"Rectal bleeding",2,"J68z.","Gastrointestinal haemorrhage unspecified",0,0
+"Rectal bleeding",2,"J68z1","Intestinal haemorrhage NOS",0,0
+"Rectal bleeding",2,"J68zz","Gastrointestinal tract haemorrhage NOS",0,0
+"Rectal bleeding",2,"Q4142","Perinatal rectal haemorrhage",0,0
+"Rectal bleeding",3,".196B","Painful rectal bleeding",0,0
+"Rectal bleeding",3,".196C","Painless rectal bleeding",0,0
+"Rectal bleeding",3,".19E6","Blood in faeces",0,0
+"Rectal bleeding",3,".19ED","Blood on toilet paper",0,0
+"Rectal bleeding",3,".19EG","Blood on pants",0,0
+"Rectal bleeding",3,".4762","Faeces: fresh blood present",0,0
+"Rectal bleeding",3,".4793","Faecal occult blood: trace",0,0
+"Rectal bleeding",3,".4794","Faecal occult blood: positive",0,0
+"Rectal bleeding",3,".I78.","Gastrointestinal haemorrhage",0,0
+"Rectal bleeding",3,".I782","Melaena",0,0
+"Rectal bleeding",3,".I78Z","Gastrointestinal tract haemorrhage NOS",0,0
+"Rectal bleeding",3,"196B.","Painful rectal bleeding",0,0
+"Rectal bleeding",3,"196C.","Painless rectal bleeding",0,0
+"Rectal bleeding",3,"19E6.","Blood in faeces",0,0
+"Rectal bleeding",3,"19ED.","Blood on toilet paper",0,0
+"Rectal bleeding",3,"19EG.","Blood on pants",0,0
+"Rectal bleeding",3,"4762.","Faeces: fresh blood present",0,0
+"Rectal bleeding",3,"4793.","Faecal occult blood: trace",0,0
+"Rectal bleeding",3,"4794.","Faecal occult blood: positive",0,0
+"Rectal bleeding",3,"8HTE0","Referral to rectal bleeding clinic",0,0
+"Rectal bleeding",3,"G8480","Bleeding haemorrhoids NOS",0,0
+"Rectal bleeding",3,"J573.","Haemorrhage of rectum and anus",0,0
+"Rectal bleeding",3,"J5730","Rectal haemorrhage",0,0
+"Rectal bleeding",3,"J5731","Anal haemorrhage",0,0
+"Rectal bleeding",3,"J573z","Haemorrhage of rectum and anus NOS",0,0
+"Rectal bleeding",3,"J68..","Gastrointestinal haemorrhage",0,0
+"Rectal bleeding",3,"J68z.","Gastrointestinal haemorrhage unspecified",0,0
+"Rectal bleeding",3,"J68z1","Intestinal haemorrhage NOS",0,0
+"Rectal bleeding",3,"J68zz","Gastrointestinal tract haemorrhage NOS",0,0
+"Rectal bleeding",3,"Q4142","Perinatal rectal haemorrhage",0,0
+"Rectal bleeding",3,"X30Bj","Bleeding per rectum",0,0
+"Rectal bleeding",3,"X76fI","Blood in faeces symptom",0,0
+"Rectal bleeding",3,"XE0b0","Haemorrhage of rectum and anus",0,0
+"Rectal bleeding",3,"XE0bI","Melaena",0,0
+"Rectal bleeding",3,"XE0bJ","Gastrointestinal haemorrhage unspecified",0,0
+"Rectal bleeding",3,"XE0rJ","Blood in stool",0,0
+"Rectal bleeding",3,"XE26B","Faeces: fresh blood present",0,0
+"Rectal bleeding",3,"XM1VX","Blood in stool",0,0
+"Rectal bleeding",3,"XaFt2","Blood on toilet paper",0,0
+"Rectal bleeding",3,"XaIMX","Blood on pants",0,0
+"Rectal bleeding",3,"XaJuu","Painful rectal bleeding",0,0
+"Rectal bleeding",3,"XaJuv","Painless rectal bleeding",0,0
+"Rectal bleeding",3,"XaYVt","Referral to rectal bleeding clinic",0,0
+"Weight loss",2,"1623.","Weight decreasing",0,0
+"Weight loss",2,"1625.","Abnormal weight loss",0,0
+"Weight loss",2,"1627.","Unintentional weight loss",0,0
+"Weight loss",2,"1D1A.","Complaining of weight loss",0,0
+"Weight loss",2,"2224.","O/E - cachexic",0,0
+"Weight loss",2,"2287.","Abnormally thin",0,0
+"Weight loss",2,"22A6.","O/E - Underweight",0,0
+"Weight loss",2,"22A8.","Weight loss from baseline weight",0,0
+"Weight loss",2,"R032.","[D]Abnormal loss of weight",0,0
+"Weight loss",2,"R0348","[D]Underweight",0,0
+"Weight loss",2,"R2y4.","[D]Cachexia",0,0
+"Weight loss",2,"R2y40","[D]Wasting disease",0,0
+"Weight loss",2,"R2y4z","[D]Cachexia NOS",0,0
+"Weight loss",3,".1623","Weight decreasing",0,0
+"Weight loss",3,".1D1A","Complaining of weight loss",0,0
+"Weight loss",3,".2224","O/E - cachexic",0,0
+"Weight loss",3,".2287","Abnormally thin",0,0
+"Weight loss",3,".22A6","O/E - Underweight",0,0
+"Weight loss",3,".22A8","Weight loss from baseline weight",0,0
+"Weight loss",3,".R302","[D]Abnormal loss of weight",0,0
+"Weight loss",3,".RJ4.","[D]Cachexia",0,0
+"Weight loss",3,"1623.","Weight decreasing",0,0
+"Weight loss",3,"1625.","Abnormal weight loss - symptom",0,0
+"Weight loss",3,"1627.","Unintentional weight loss",0,0
+"Weight loss",3,"1D1A.","Complaining of weight loss",0,0
+"Weight loss",3,"2224.","O/E - cachexic",0,0
+"Weight loss",3,"2287.","Abnormally thin",0,0
+"Weight loss",3,"22A6.","O/E - Underweight",0,0
+"Weight loss",3,"22A8.","Weight loss from baseline weight",0,0
+"Weight loss",3,"R032.","[D]Abnormal loss of weight",0,0
+"Weight loss",3,"R0348","[D]Underweight",0,0
+"Weight loss",3,"R2y4.","[D]Cachexia",0,0
+"Weight loss",3,"R2y40","[D]Wasting disease",0,0
+"Weight loss",3,"R2y4z","[D]Cachexia NOS",0,0
+"Weight loss",3,"XE0qb","Abnormal weight loss",0,0
+"Weight loss",3,"XaIu3","Abnormally thin",0,0
+"Weight loss",3,"XaIxC","Weight loss from baseline weight",0,0
+"Weight loss",3,"XaJM4","[D]Underweight",0,0
+"Weight loss",3,"XaKwR","Complaining of weight loss",0,0
+"Weight loss",3,"XaXTs","Unintentional weight loss",0,0
+"Abdominal lump",2,"25J..","O/E - abdominal mass palpated",0,0
+"Abdominal lump",2,"25J1.","O/E - abd. mass not palpated",0,0
+"Abdominal lump",2,"25J7.","Right iliac fossa mass",0,0
+"Abdominal lump",2,"25J8.","O/E left lower abdominal mass",0,0
+"Abdominal lump",2,"25JZ.","O/E - abd. mass palpated NOS",0,0
+"Abdominal lump",2,"25K..","O/E-abdominal mass consistency",0,0
+"Abdominal lump",2,"25K4.","O/E - abdominal mass-pulsatile",0,0
+"Abdominal lump",2,"25L..","O/E - abdominal mass shape",0,0
+"Abdominal lump",2,"25Q3.","O/E - PR - rectal mass",0,0
+"Abdominal lump",2,"25R3.","O/E - dullness over abd. mass",0,0
+"Abdominal lump",2,"7H2C5","Biopsy of abdominal mass",0,0
+"Abdominal lump",2,"J50..","Intestinal obstruction without mention of hernia",0,0
+"Abdominal lump",2,"J50y.","Other intestinal obstruction",0,0
+"Abdominal lump",2,"J50y0","Intestinal adhesions with obstruction",0,0
+"Abdominal lump",2,"J50yz","Other intestinal obstruction NOS",0,0
+"Abdominal lump",2,"J50z.","Intestinal obstruction NOS",0,0
+"Abdominal lump",2,"J50z4","Acute intestinal obstruction",0,0
+"Abdominal lump",2,"J50z5","Subacute intestinal obstructuon",0,0
+"Abdominal lump",2,"J50zz","Intestinal obstruction NOS",0,0
+"Abdominal lump",2,"R093.","[D]Swelling, mass or lump within abdomen or pelvis",0,0
+"Abdominal lump",2,"R0930","[D]Abdominal swelling",0,0
+"Abdominal lump",2,"R0931","[D]Abdominal mass",0,0
+"Abdominal lump",2,"R0932","[D]Abdominal lump",0,0
+"Abdominal lump",2,"R093z","[D]Swelling, mass or lump within abdomen or pelvis NOS",0,0
+"Abdominal lump",2,"SP144","Intestinal obstruction as a complication of care NOS",0,0
+"Abdominal lump",3,".25J1","O/E - abd. mass not palpated",0,0
+"Abdominal lump",3,".25J7","Right iliac fossa mass",0,0
+"Abdominal lump",3,".25J8","O/E left lower abdominal mass",0,0
+"Abdominal lump",3,".25JZ","O/E - abd. mass palpated NOS",0,0
+"Abdominal lump",3,".25K.","O/E-abdominal mass consistency",0,0
+"Abdominal lump",3,".25K4","O/E - abdominal mass-pulsatile",0,0
+"Abdominal lump",3,".25L.","O/E - abdominal mass shape",0,0
+"Abdominal lump",3,".25Q3","O/E - PR - rectal mass",0,0
+"Abdominal lump",3,".25R3","O/E - dullness over abd. mass",0,0
+"Abdominal lump",3,".I61.","Bowel obstruction",0,0
+"Abdominal lump",3,".R731","[D]Abdominal swelling",0,0
+"Abdominal lump",3,".R93.","[D]Swelling, mass or lump within abdomen or pelvis",0,0
+"Abdominal lump",3,".R932","[D]Abdominal mass",0,0
+"Abdominal lump",3,".R933","[D]Abdominal lump",0,0
+"Abdominal lump",3,".R93Z","[D]Swelling, mass or lump within abdomen or pelvis NOS",0,0
+"Abdominal lump",3,"25J..","O/E - abdominal mass palpated",0,0
+"Abdominal lump",3,"25J1.","O/E - abd. mass not palpated",0,0
+"Abdominal lump",3,"25J7.","Right iliac fossa mass",0,0
+"Abdominal lump",3,"25J8.","O/E left lower abdominal mass",0,0
+"Abdominal lump",3,"25JZ.","O/E - abd. mass palpated NOS",0,0
+"Abdominal lump",3,"25K..","O/E-abdominal mass consistency",0,0
+"Abdominal lump",3,"25K4.","O/E - abdominal mass-pulsatile",0,0
+"Abdominal lump",3,"25L..","O/E - abdominal mass shape",0,0
+"Abdominal lump",3,"25Q3.","O/E - PR - rectal mass",0,0
+"Abdominal lump",3,"25R3.","O/E - dullness over abd. mass",0,0
+"Abdominal lump",3,"7H2C5","Biopsy of abdominal mass",0,0
+"Abdominal lump",3,"J50..","Intestinal obstruction without mention of hernia",0,0
+"Abdominal lump",3,"J50y.","Other intestinal obstruction",0,0
+"Abdominal lump",3,"J50y0","Intestinal adhesions with obstruction",0,0
+"Abdominal lump",3,"J50yz","Other intestinal obstruction NOS",0,0
+"Abdominal lump",3,"J50z.","Intestinal obstruction NOS",0,0
+"Abdominal lump",3,"J50z4","Acute intestinal obstruction",0,0
+"Abdominal lump",3,"J50z5","Subacute intestinal obstruction",0,0
+"Abdominal lump",3,"J50zz","Intestinal obstruction NOS",0,0
+"Abdominal lump",3,"R093.","[D]Swelling, mass or lump within abdomen or pelvis",0,0
+"Abdominal lump",3,"R0930","[D]Abdominal swelling",0,0
+"Abdominal lump",3,"R0931","[D]Abdominal mass",0,0
+"Abdominal lump",3,"R0932","[D]Abdominal lump",0,0
+"Abdominal lump",3,"R093z","[D]Swelling, mass or lump within abdomen or pelvis NOS",0,0
+"Abdominal lump",3,"SP144","Intestinal obstruction as a complication of care NOS",0,0
+"Abdominal lump",3,"X305B","Bowel obstruction",0,0
+"Abdominal lump",3,"X305C","Subacute intestinal obstruction NOS",0,0
+"Abdominal lump",3,"X305D","Small bowel obstruction NOS",0,0
+"Abdominal lump",3,"X305E","Large bowel obstruction NOS",0,0
+"Abdominal lump",3,"X305F","Colonic obstruction NOS",0,0
+"Abdominal lump",3,"XE0aq","Other intestinal obstruction",0,0
+"Abdominal lump",3,"XE2nV","[D]Abdominal mass",0,0
+"Abdominal lump",3,"XaDsr","O/E left lower abdominal mass",0,0
+"Constipation",2,"19C..","Constipation",0,0
+"Constipation",2,"19C2.","Constipated",0,0
+"Constipation",2,"19CZ.","Constipation NOS",0,0
+"Constipation",2,"J5031","Faecal impaction",0,0
+"Constipation",2,"J520.","Constipation - functional",0,0
+"Constipation",2,"J5200","Acute constipation",0,0
+"Constipation",2,"J5201","Chronic constipation with overflow",0,0
+"Constipation",2,"J5202","Chronic constipation without overflow",0,0
+"Constipation",2,"J5203","Drug induced constipation",0,0
+"Constipation",2,"J5204","Chronic constipation",0,0
+"Constipation",2,"J520y","Other specified constipation",0,0
+"Constipation",2,"J520z","Constipation NOS",0,0
+"Constipation",3,".19C.","Constipation",0,0
+"Constipation",3,".19C2","Constipation",0,0
+"Constipation",3,".19CZ","Constipation NOS",0,0
+"Constipation",3,"19C..","Constipation",0,0
+"Constipation",3,"19C2.","Constipated",0,0
+"Constipation",3,"19CZ.","Constipation NOS",0,0
+"Constipation",3,"J5031","Faecal impaction",0,0
+"Constipation",3,"J520.","Constipation - functional",0,0
+"Constipation",3,"J5200","Acute constipation",0,0
+"Constipation",3,"J5201","Chronic constipation with overflow",0,0
+"Constipation",3,"J5202","Chronic constipation without overflow",0,0
+"Constipation",3,"J5203","Drug induced constipation",0,0
+"Constipation",3,"J5204","Chronic constipation",0,0
+"Constipation",3,"J520y","Other specified constipation",0,0
+"Constipation",3,"J520z","Constipation NOS",0,0
+"Constipation",3,"X30Bl","Chronic constipation",0,0
+"Constipation",3,"XE0rD","Constipated",0,0
+"Constipation",3,"Xa7n2","Drug induced constipation",0,0
+"Cough",2,"1419.","H/O: whooping cough",0,0
+"Cough",2,"171..","Cough",0,0
+"Cough",2,"1712.","Dry cough",0,0
+"Cough",2,"1713.","Productive cough -clear sputum",0,0
+"Cough",2,"1714.","Productive cough -green sputum",0,0
+"Cough",2,"1715.","Productive cough-yellow sputum",0,0
+"Cough",2,"1716.","Productive cough NOS",0,0
+"Cough",2,"1717.","Night cough present",0,0
+"Cough",2,"1718.","Night cough absent",0,0
+"Cough",2,"1719.","Chesty cough",0,0
+"Cough",2,"171A.","Chronic cough",0,0
+"Cough",2,"171B.","Persistent cough",0,0
+"Cough",2,"171C.","Morning cough",0,0
+"Cough",2,"171D.","Evening cough",0,0
+"Cough",2,"171E.","Unexplained cough",0,0
+"Cough",2,"171F.","Cough with fever",0,0
+"Cough",2,"171G.","Bovine cough",0,0
+"Cough",2,"171H.","Difficulty in coughing up sputum",0,0
+"Cough",2,"171J.","Reflux cough",0,0
+"Cough",2,"171K.","Barking cough",0,0
+"Cough",2,"171Z.","Cough symptom NOS",0,0
+"Cough",2,"173B.","Nocturnal cough / wheeze",0,0
+"Cough",2,"174..","Hiccough",0,0
+"Cough",2,"1742.","Hiccough present",0,0
+"Cough",2,"174Z.","Hiccough NOS",0,0
+"Cough",2,"1D87.","Cough aggravates symptom",0,0
+"Cough",2,"25P5.","O/E-hernia-cough impulse shown",0,0
+"Cough",2,"655..","Whooping cough vaccination",0,0
+"Cough",2,"65VA.","Notification of whooping cough",0,0
+"Cough",2,"A33..","Whooping cough",0,0
+"Cough",2,"A33y.","Whooping cough - other specified organism",0,0
+"Cough",2,"A33yz","Other whooping cough NOS",0,0
+"Cough",2,"A33z.","Whooping cough NOS",0,0
+"Cough",2,"E2611","Psychogenic cough",0,0
+"Cough",2,"E2612","Psychogenic hiccough",0,0
+"Cough",2,"H243.","Pneumonia with whooping cough",0,0
+"Cough",2,"H3101","Smokers' cough",0,0
+"Cough",2,"R062.","[D]Cough",0,0
+"Cough",2,"R0620","[D]Cough syncope",0,0
+"Cough",2,"R068.","[D]Hiccough",0,0
+"Cough",2,"S120A","Cough fracture",0,0
+"Cough",2,"S1271","Cough fracture of ribs",0,0
+"Cough",2,"ZV036","[V]Whooping cough vaccination",0,0
+"Cough",2,"ZV74B","[V]Screening for whooping cough",0,0
+"Cough",3,".1419","H/O: whooping cough",0,0
+"Cough",3,".171.","Cough",0,0
+"Cough",3,".1712","Dry cough",0,0
+"Cough",3,".1713","Productive cough -clear sputum",0,0
+"Cough",3,".1714","Productive cough -green sputum",0,0
+"Cough",3,".1715","Productive cough-yellow sputum",0,0
+"Cough",3,".1716","Productive cough NOS",0,0
+"Cough",3,".1717","Night cough present",0,0
+"Cough",3,".1718","Night cough absent",0,0
+"Cough",3,".1719","Chesty cough",0,0
+"Cough",3,".171A","Chronic cough",0,0
+"Cough",3,".171B","Persistent cough",0,0
+"Cough",3,".171C","Unexplained cough",0,0
+"Cough",3,".171D","Evening cough",0,0
+"Cough",3,".171E","Morning cough",0,0
+"Cough",3,".171F","Cough with fever",0,0
+"Cough",3,".171G","Bovine cough",0,0
+"Cough",3,".171H","Difficulty in coughing up sputum",0,0
+"Cough",3,".171J","Reflux cough",0,0
+"Cough",3,".171K","Barking cough",0,0
+"Cough",3,".171Z","Cough symptom NOS",0,0
+"Cough",3,".173B","Nocturnal cough / wheeze",0,0
+"Cough",3,".174.","Hiccough",0,0
+"Cough",3,".1742","Hiccough present",0,0
+"Cough",3,".174Z","Hiccough NOS",0,0
+"Cough",3,".1D87","Cough aggravates symptom",0,0
+"Cough",3,".25P5","O/E-hernia-cough impulse shown",0,0
+"Cough",3,".655.","Whooping cough vaccination",0,0
+"Cough",3,".65VA","Notification of whooping cough",0,0
+"Cough",3,".A34.","Whooping cough",0,0
+"Cough",3,".H344","Pneumonia with whooping cough",0,0
+"Cough",3,".R62.","[D]Cough",0,0
+"Cough",3,".R68.","[D]Hiccough",0,0
+"Cough",3,"1419.","H/O: whooping cough",0,0
+"Cough",3,"171..","Cough",0,0
+"Cough",3,"1712.","Dry cough",0,0
+"Cough",3,"1713.","Productive cough -clear sputum",0,0
+"Cough",3,"1714.","Productive cough -green sputum",0,0
+"Cough",3,"1715.","Productive cough-yellow sputum",0,0
+"Cough",3,"1716.","Productive cough NOS",0,0
+"Cough",3,"1717.","Night cough present",0,0
+"Cough",3,"1718.","Night cough absent",0,0
+"Cough",3,"1719.","Chesty cough",0,0
+"Cough",3,"171A.","Chronic cough",0,0
+"Cough",3,"171B.","Persistent cough",0,0
+"Cough",3,"171C.","Morning cough",0,0
+"Cough",3,"171D.","Evening cough",0,0
+"Cough",3,"171E.","Unexplained cough",0,0
+"Cough",3,"171F.","Cough with fever",0,0
+"Cough",3,"171G.","Bovine cough",0,0
+"Cough",3,"171H.","Difficulty in coughing up sputum",0,0
+"Cough",3,"171J.","Reflux cough",0,0
+"Cough",3,"171K.","Barking cough",0,0
+"Cough",3,"171Z.","Cough symptom NOS",0,0
+"Cough",3,"173B.","Nocturnal cough / wheeze",0,0
+"Cough",3,"174..","Hiccough",0,0
+"Cough",3,"1742.","Hiccough present",0,0
+"Cough",3,"174Z.","Hiccough NOS",0,0
+"Cough",3,"1D87.","Cough aggravates symptom",0,0
+"Cough",3,"25P5.","O/E-hernia-cough impulse shown",0,0
+"Cough",3,"655..","Whooping cough vaccination",0,0
+"Cough",3,"65VA.","Notification of whooping cough",0,0
+"Cough",3,"A33..","Whooping cough",0,0
+"Cough",3,"A33y.","Whooping cough - other specified organism",0,0
+"Cough",3,"A33yz","Other whooping cough NOS",0,0
+"Cough",3,"A33z.","Whooping cough NOS",0,0
+"Cough",3,"E2611","Psychogenic cough",0,0
+"Cough",3,"E2612","Psychogenic hiccough",0,0
+"Cough",3,"H243.","Pneumonia with whooping cough",0,0
+"Cough",3,"H3101","Smokers' cough",0,0
+"Cough",3,"R062.","[D]Cough",0,0
+"Cough",3,"R0620","[D]Cough syncope",0,0
+"Cough",3,"R068.","[D]Hiccough",0,0
+"Cough",3,"S120A","Cough fracture",0,0
+"Cough",3,"S1271","Cough fracture",0,0
+"Cough",3,"X00Ss","Somatoform autonomic dysfunction",0,0
+"Cough",3,"X76Hy","Productive cough",0,0
+"Cough",3,"XE0Qw","Whooping cough",0,0
+"Cough",3,"XE0qn","Cough",0,0
+"Cough",3,"XE0qo","Productive cough NOS",0,0
+"Cough",3,"XE0qt","Hiccoughs",0,0
+"Cough",3,"XM0Ch","C/O - cough",0,0
+"Cough",3,"Xa2kc","Persistent cough",0,0
+"Cough",3,"Xa4fN","Barking cough",0,0
+"Cough",3,"Xa7uA","Bovine cough",0,0
+"Cough",3,"Xa7uK","Difficulty in coughing up sputum",0,0
+"Cough",3,"XaFwR","Unexplained cough",0,0
+"Cough",3,"XaIO1","Cough with fever",0,0
+"Cough",3,"XaLCS","Reflux cough",0,0
+"Cough",3,"ZV036","[V]Whooping cough vaccination",0,0
+"Cough",3,"ZV74B","[V]Screening for whooping cough",0,0
+"Diarrhoea",2,"19F..","Diarrhoea symptoms",0,0
+"Diarrhoea",2,"19F1.","Diarrhoea not present",0,0
+"Diarrhoea",2,"19F2.","Diarrhoea",0,0
+"Diarrhoea",2,"19F3.","Spurious (overflow) diarrhoea",0,0
+"Diarrhoea",2,"19G..","Diarrhoea and vomiting",0,0
+"Diarrhoea",2,"A0740","Diarrhoea due to staphylococcus",0,0
+"Diarrhoea",2,"A076.","Viral diarrhoea",0,0
+"Diarrhoea",2,"A082.","Infectious diarrhoea",0,0
+"Diarrhoea",2,"A0820","Dysenteric diarrhoea",0,0
+"Diarrhoea",2,"A082z","Infectious diarrhoea NOS",0,0
+"Diarrhoea",2,"A083.","Diarrhoea of presumed infectious origin",0,0
+"Diarrhoea",2,"Ayu0H","[X]Diarrhoea and gastroenteritis of presumed infectious origin",0,0
+"Diarrhoea",2,"E2643","Psychogenic diarrhoea",0,0
+"Diarrhoea",2,"J4...","Noninfective diarrhoea",0,0
+"Diarrhoea",2,"J43z.","Chronic diarrhoea",0,0
+"Diarrhoea",2,"J4z..","Presumed noninfectious diarrhoea",0,0
+"Diarrhoea",2,"J4zz.","Diarrhoea - presumed non-infectious",0,0
+"Diarrhoea",2,"J5210","Irritable bowel syndrome with diarrhoea",0,0
+"Diarrhoea",2,"J525.","Functional diarrhoea",0,0
+"Diarrhoea",2,"R0771","[D] Stools loose",0,0
+"Diarrhoea",3,".19F.","Diarrhoea symptoms",0,0
+"Diarrhoea",3,".19F1","Diarrhoea not present",0,0
+"Diarrhoea",3,".19F2","Diarrhoea",0,0
+"Diarrhoea",3,".19F3","Spurious diarrhoea - overflow",0,0
+"Diarrhoea",3,".19G.","Diarrhoea and vomiting",0,0
+"Diarrhoea",3,".A122","Travellers' diarrhoea",0,0
+"Diarrhoea",3,".A12Z","Infectious diarrhoea NOS",0,0
+"Diarrhoea",3,".I653","Psychogenic diarrhoea",0,0
+"Diarrhoea",3,"19F..","Diarrhoea symptoms",0,0
+"Diarrhoea",3,"19F1.","Diarrhoea not present",0,0
+"Diarrhoea",3,"19F2.","Diarrhoea",0,0
+"Diarrhoea",3,"19F3.","Spurious diarrhoea - overflow",0,0
+"Diarrhoea",3,"19G..","Diarrhoea and vomiting",0,0
+"Diarrhoea",3,"A0740","Diarrhoea due to staphylococcus",0,0
+"Diarrhoea",3,"A076.","Viral diarrhoea",0,0
+"Diarrhoea",3,"A07y0","Viral diarrhoea",0,0
+"Diarrhoea",3,"A0803","Infectious gastroenteritis",0,0
+"Diarrhoea",3,"A082.","Infectious diarrhoea",0,0
+"Diarrhoea",3,"A0820","Dysenteric diarrhoea",0,0
+"Diarrhoea",3,"A082z","Infectious diarrhoea NOS",0,0
+"Diarrhoea",3,"A083.","Diarrhoea of presumed infectious origin",0,0
+"Diarrhoea",3,"Ayu0H","[X]Diarrhoea and gastroenteritis of presumed infectious origin",0,0
+"Diarrhoea",3,"E2643","Spurious diarrhoea",0,0
+"Diarrhoea",3,"J4...","Noninfective diarrhoea",0,0
+"Diarrhoea",3,"J43z.","Chronic diarrhoea",0,0
+"Diarrhoea",3,"J4z..","Presumed noninfectious diarrhoea",0,0
+"Diarrhoea",3,"J4zz.","Diarrhoea - presumed non-infectious",0,0
+"Diarrhoea",3,"J5210","Irritable bowel syndrome with diarrhoea",0,0
+"Diarrhoea",3,"J525.","Functional diarrhoea",0,0
+"Diarrhoea",3,"Jyu42","[X]Other specified non-infective gastroenteritis and colitis",0,0
+"Diarrhoea",3,"R0771","[D] Stools loose",0,0
+"Diarrhoea",3,"X30Bn","Chronic diarrhoea",0,0
+"Diarrhoea",3,"X30Bp","Non-infective diarrhoea",0,0
+"Diarrhoea",3,"X70GO","Travellers' diarrhoea",0,0
+"Diarrhoea",3,"X76dE","Diarrhoea and vomiting",0,0
+"Diarrhoea",3,"X76fC","Loose stool",0,0
+"Diarrhoea",3,"XE0Qq","Diarrhoea of presumed infectious origin",0,0
+"Diarrhoea",3,"XE0rN","Diarrhoea symptoms",0,0
+"Diarrhoea",3,"XE0rO","Diarrhoea symptom NOS",0,0
+"Diarrhoea",3,"XE1Ye","Psychogenic diarrhoea",0,0
+"Diarrhoea",3,"XM1Mz","Diarrhoea and vomiting, symptom",0,0
+"Diarrhoea",3,"Xa97X","Diarrhoea due to staphylococcus",0,0
+"Diarrhoea",3,"XaQbO","Functional diarrhoea",0,0
+"Pelvic pain",2,"1A5A.","C/O perineal pain",0,0
+"Pelvic pain",2,"N3212","Ischiopubic synchondrosis",0,0
+"Pelvic pain",2,"N33A0","Bony pelvic pain",0,0
+"Pelvic pain",2,"R090G","[D] Perineal pain",0,0
+"Pelvic pain",2,"S53..","Groin sprain",0,0
+"Pelvic pain",3,".1A5A","C/O perineal pain",0,0
+"Pelvic pain",3,".P2Q5","Groin strain",0,0
+"Pelvic pain",3,"1A5A.","C/O perineal pain",0,0
+"Pelvic pain",3,"N3212","Ischiopubic synchondrosis",0,0
+"Pelvic pain",3,"N33A0","Bony pelvic pain",0,0
+"Pelvic pain",3,"R090G","[D] Perineal pain",0,0
+"Pelvic pain",3,"S53..","Groin sprain",0,0
+"Pelvic pain",3,"XA0Bu","Strain of tendon of adductor longus",0,0
+"Pelvic pain",3,"Xa1nC","Groin strain",0,0
+"Stomach disorders",2,"161..","Appetite symptom",0,0
+"Stomach disorders",2,"1612.","Appetite loss - anorexia",0,0
+"Stomach disorders",2,"1615.","Reduced appetite",0,0
+"Stomach disorders",2,"161Z.","Appetite symptom NOS",0,0
+"Stomach disorders",2,"1957.","Gastric reflux",0,0
+"Stomach disorders",2,"1984.","Upset stomach",0,0
+"Stomach disorders",2,"199..","Vomiting",0,0
+"Stomach disorders",2,"1992.","Vomiting",0,0
+"Stomach disorders",2,"1993.","Projectile vomiting",0,0
+"Stomach disorders",2,"1994.","Vomiting blood - fresh",0,0
+"Stomach disorders",2,"1995.","Vomiting blood - coffee ground",0,0
+"Stomach disorders",2,"1996.","Vomiting - bile stained",0,0
+"Stomach disorders",2,"199Z.","Vomiting NOS",0,0
+"Stomach disorders",2,"19FZ.","Diarrhoea & vomiting, symptom",0,0
+"Stomach disorders",2,"4A...","Vomit examination",0,0
+"Stomach disorders",2,"4A1..","Vomit - O/E, general",0,0
+"Stomach disorders",2,"4A1Z.","Vomit exam. general NOS",0,0
+"Stomach disorders",2,"4A2..","Vomit appearance",0,0
+"Stomach disorders",2,"4A22.","Vomit appearance - abnormal",0,0
+"Stomach disorders",2,"4A23.","Vomit: frank blood present",0,0
+"Stomach disorders",2,"4A24.","Vomit: coffee ground",0,0
+"Stomach disorders",2,"4A25.","Vomit: bilious",0,0
+"Stomach disorders",2,"4A26.","Vomit: faeculant",0,0
+"Stomach disorders",2,"4A27.","Vomit: mucous present",0,0
+"Stomach disorders",2,"4A2Z.","Vomit: appearance NOS",0,0
+"Stomach disorders",2,"4A3..","Vomit odour",0,0
+"Stomach disorders",2,"4A4Z.","Vomit pH NOS",0,0
+"Stomach disorders",2,"4A5..","Vomit occult blood",0,0
+"Stomach disorders",2,"4A51.","Vomit occult blood positive",0,0
+"Stomach disorders",2,"4A5Z.","Vomit occult blood NOS",0,0
+"Stomach disorders",2,"4A6..","Vomit toxicology",0,0
+"Stomach disorders",2,"4AZ..","Vomit examination NOS",0,0
+"Stomach disorders",2,"7N301","[SO]Stomach",0,0
+"Stomach disorders",2,"A78y1","Epidemic vomiting syndrome",0,0
+"Stomach disorders",2,"E2642","Cyclical vomiting - psychogenic",0,0
+"Stomach disorders",2,"E2754","Psychogenic vomiting NOS",0,0
+"Stomach disorders",2,"E2756","Non-organic loss of appetite",0,0
+"Stomach disorders",2,"Eu505","[X]Vomiting associated with other psychological disturbances",0,0
+"Stomach disorders",2,"Eu50y","[X]Psychogenic loss of appetite",0,0
+"Stomach disorders",2,"J1...","Oesophageal, stomach and duodenal diseases",0,0
+"Stomach disorders",2,"J16..","Disorders of stomach function",0,0
+"Stomach disorders",2,"J162.","Persistent vomiting",0,0
+"Stomach disorders",2,"J1620","Cyclical vomiting NOS",0,0
+"Stomach disorders",2,"J162z","Persistent vomiting NOS",0,0
+"Stomach disorders",2,"J16y.","Other specified stomach function disorders",0,0
+"Stomach disorders",2,"J16y5","Functional vomiting",0,0
+"Stomach disorders",2,"J16z.","Stomach function disorder NOS",0,0
+"Stomach disorders",2,"J680.","Vomiting of blood",0,0
+"Stomach disorders",2,"R0300","[D]Appetite loss",0,0
+"Stomach disorders",2,"R070.","[D]Nausea and vomiting",0,0
+"Stomach disorders",2,"R0701","[D]Vomiting",0,0
+"Stomach disorders",2,"R0703","[D]Drug induced vomiting",0,0
+"Stomach disorders",2,"R0704","[D]Projectile vomiting",0,0
+"Stomach disorders",2,"R070z","[D]Nausea and vomiting NOS",0,0
+"Stomach disorders",3,".161.","Appetite symptom",0,0
+"Stomach disorders",3,".1612","Appetite loss - anorexia",0,0
+"Stomach disorders",3,".1615","Reduced appetite",0,0
+"Stomach disorders",3,".161Z","Appetite symptom NOS",0,0
+"Stomach disorders",3,".1957","Gastric reflux",0,0
+"Stomach disorders",3,".199.","Vomiting",0,0
+"Stomach disorders",3,".1992","Vomiting",0,0
+"Stomach disorders",3,".1993","Projectile vomiting",0,0
+"Stomach disorders",3,".1994","Vomiting blood - fresh",0,0
+"Stomach disorders",3,".1995","Vomiting blood - coffee ground",0,0
+"Stomach disorders",3,".1996","Vomiting - bile stained",0,0
+"Stomach disorders",3,".199Z","Vomiting NOS",0,0
+"Stomach disorders",3,".19FZ","Diarrhoea & vomiting, symptom",0,0
+"Stomach disorders",3,".4A..","Vomit examination",0,0
+"Stomach disorders",3,".4A1.","Vomit - O/E, general",0,0
+"Stomach disorders",3,".4A1Z","Vomit exam. general NOS",0,0
+"Stomach disorders",3,".4A2.","Vomit appearance",0,0
+"Stomach disorders",3,".4A22","Vomit appearance - abnormal",0,0
+"Stomach disorders",3,".4A23","Vomit: frank blood present",0,0
+"Stomach disorders",3,".4A24","Vomit contains coffee grounds",0,0
+"Stomach disorders",3,".4A25","Vomit: bilious",0,0
+"Stomach disorders",3,".4A26","Vomit: faeculant",0,0
+"Stomach disorders",3,".4A27","Vomit: mucous present",0,0
+"Stomach disorders",3,".4A2Z","Vomit: appearance NOS",0,0
+"Stomach disorders",3,".4A3.","Vomit odour",0,0
+"Stomach disorders",3,".4A4Z","Vomit pH NOS",0,0
+"Stomach disorders",3,".4A5.","Vomit occult blood",0,0
+"Stomach disorders",3,".4A51","Vomit occult blood positive",0,0
+"Stomach disorders",3,".4A5Z","Vomit occult blood NOS",0,0
+"Stomach disorders",3,".4A6.","Vomit toxicology",0,0
+"Stomach disorders",3,".4AZ.","Vomit examination NOS",0,0
+"Stomach disorders",3,".I2..","Oesophageal, stomach and duodenal diseases",0,0
+"Stomach disorders",3,".I26.","Disorder of gastric function",0,0
+"Stomach disorders",3,".I26Z","Stomach function disorder NOS",0,0
+"Stomach disorders",3,".I781","Haematemesis",0,0
+"Stomach disorders",3,".R300","[D]Appetite loss",0,0
+"Stomach disorders",3,".R70.","[D]Nausea and vomiting",0,0
+"Stomach disorders",3,".R701","[D]Vomiting",0,0
+"Stomach disorders",3,".R70Z","[D]Nausea and vomiting NOS",0,0
+"Stomach disorders",3,"161..","Appetite symptom",0,0
+"Stomach disorders",3,"1612.","Appetite loss - anorexia",0,0
+"Stomach disorders",3,"1615.","Reduced appetite",0,0
+"Stomach disorders",3,"161Z.","Appetite symptom NOS",0,0
+"Stomach disorders",3,"1957.","Gastric reflux",0,0
+"Stomach disorders",3,"1984.","Upset stomach",0,0
+"Stomach disorders",3,"199..","Vomiting",0,0
+"Stomach disorders",3,"1992.","Vomiting",0,0
+"Stomach disorders",3,"1993.","Projectile vomiting",0,0
+"Stomach disorders",3,"1994.","Vomiting blood - fresh",0,0
+"Stomach disorders",3,"1995.","Vomiting blood - coffee ground",0,0
+"Stomach disorders",3,"1996.","Vomiting - bile stained",0,0
+"Stomach disorders",3,"199Z.","Vomiting NOS",0,0
+"Stomach disorders",3,"19FZ.","Diarrhoea & vomiting, symptom",0,0
+"Stomach disorders",3,"4A...","Vomit examination",0,0
+"Stomach disorders",3,"4A1..","Vomit - O/E, general",0,0
+"Stomach disorders",3,"4A1Z.","Vomit exam. general NOS",0,0
+"Stomach disorders",3,"4A2..","Vomit appearance",0,0
+"Stomach disorders",3,"4A22.","Vomit appearance - abnormal",0,0
+"Stomach disorders",3,"4A23.","Vomit: frank blood present",0,0
+"Stomach disorders",3,"4A24.","Vomit contains coffee grounds",0,0
+"Stomach disorders",3,"4A25.","Vomit: bilious",0,0
+"Stomach disorders",3,"4A26.","Vomit: faeculant",0,0
+"Stomach disorders",3,"4A27.","Vomit: mucous present",0,0
+"Stomach disorders",3,"4A2Z.","Vomit: appearance NOS",0,0
+"Stomach disorders",3,"4A3..","Vomit odour",0,0
+"Stomach disorders",3,"4A4Z.","Vomit pH NOS",0,0
+"Stomach disorders",3,"4A5..","Vomit occult blood",0,0
+"Stomach disorders",3,"4A51.","Vomit occult blood positive",0,0
+"Stomach disorders",3,"4A5Z.","Vomit occult blood NOS",0,0
+"Stomach disorders",3,"4A6..","Vomit toxicology",0,0
+"Stomach disorders",3,"4AZ..","Vomit examination NOS",0,0
+"Stomach disorders",3,"7N301","Stomach",0,0
+"Stomach disorders",3,"A78y1","Epidemic vomiting syndrome",0,0
+"Stomach disorders",3,"E2642","Cyclical vomiting - psychogenic",0,0
+"Stomach disorders",3,"E2754","Psychogenic vomiting NOS",0,0
+"Stomach disorders",3,"E2756","Non-organic loss of appetite",0,0
+"Stomach disorders",3,"Eu505","Vomiting associated with other psychological disturbances",0,0
+"Stomach disorders",3,"Eu50y","[X]Psychogenic loss of appetite",0,0
+"Stomach disorders",3,"J1...","Oesophageal, stomach and duodenal diseases",0,0
+"Stomach disorders",3,"J16..","Disorder of gastric function",0,0
+"Stomach disorders",3,"J162.","Persistent vomiting",0,0
+"Stomach disorders",3,"J1620","Cyclical vomiting NOS",0,0
+"Stomach disorders",3,"J162z","Persistent vomiting NOS",0,0
+"Stomach disorders",3,"J16y.","Other specified stomach function disorders",0,0
+"Stomach disorders",3,"J16y5","Functional vomiting",0,0
+"Stomach disorders",3,"J16z.","Stomach function disorder NOS",0,0
+"Stomach disorders",3,"J680.","Haematemesis",0,0
+"Stomach disorders",3,"R0300","[D]Appetite loss",0,0
+"Stomach disorders",3,"R070.","[D]Nausea and vomiting",0,0
+"Stomach disorders",3,"R0701","[D]Vomiting",0,0
+"Stomach disorders",3,"R0703","[D]Drug-induced vomiting",0,0
+"Stomach disorders",3,"R0704","[D]Projectile vomiting",0,0
+"Stomach disorders",3,"R070z","[D]Nausea and vomiting NOS",0,0
+"Stomach disorders",3,"Ua1iv","Reduced appetite",0,0
+"Stomach disorders",3,"Ua1kQ","Gastric reflux",0,0
+"Stomach disorders",3,"X00Sx","Eating disorder",0,0
+"Stomach disorders",3,"X76cJ","Loss of appetite - symptom",0,0
+"Stomach disorders",3,"X76co","Vomiting symptoms",0,0
+"Stomach disorders",3,"X76cq","Haematemesis",0,0
+"Stomach disorders",3,"XE0aK","Oesophageal, stomach and duodenal diseases",0,0
+"Stomach disorders",3,"XE0aO","Gastro-oesophageal reflux disease without oesophagitis",0,0
+"Stomach disorders",3,"XE0rA","Vomiting",0,0
+"Stomach disorders",3,"XE0rB","Vomiting blood - fresh",0,0
+"Stomach disorders",3,"XE24f","Appetite loss - anorexia",0,0
+"Stomach disorders",3,"XE26J","Vomit: frank blood present",0,0
+"Stomach disorders",3,"XE2sN","Vomit: bilious",0,0
+"Stomach disorders",3,"XE2sO","Vomit: faeculant",0,0
+"Stomach disorders",3,"XM0Cm","C/O - vomiting",0,0
+"Stomach disorders",3,"XM1Uu","Bilious vomit O/E",0,0
+"Stomach disorders",3,"XM1Uv","Faeculant vomit O/E",0,0
+"Stomach disorders",3,"XM1Va","Blood in vomit O/E",0,0
+"Stomach disorders",3,"Xa1dj","Blood in vomit - symptom",0,0
+"Stomach disorders",3,"Xa7Uv","Vomit contains coffee grounds",0,0
+"Stomach disorders",3,"XaBMW","[D]Projectile vomiting",0,0
+"UTI",2,"1A1..","Polyuria",0,0
+"UTI",2,"1A25.","Urgency of micturition",0,0
+"UTI",2,"1A54.","C/O - ureteric pain",0,0
+"UTI",2,"1A55.","Dysuria",0,0
+"UTI",2,"1A5D.","Urethral pain",0,0
+"UTI",2,"1AC2.","Polyuria",0,0
+"UTI",2,"1AG..","Recurrent urinary tract infections",0,0
+"UTI",2,"1J4..","Suspected UTI",0,0
+"UTI",2,"464..","Urine smell",0,0
+"UTI",2,"4642.","Urine smell ammoniacal",0,0
+"UTI",2,"4643.","Urine smell fishy",0,0
+"UTI",2,"4644.","Urine smell abormal",0,0
+"UTI",2,"464Z.","Urine smell NOS",0,0
+"UTI",2,"A1602","Tuberculous pyelonephritis",0,0
+"UTI",2,"A9811","Acute gonococcal cystitis",0,0
+"UTI",2,"A9831","Chronic gonococcal cystitis",0,0
+"UTI",2,"E2653","Psychogenic dysuria",0,0
+"UTI",2,"K1006","Calculous pyelonephritis",0,0
+"UTI",2,"K101.","Acute pyelonephritis",0,0
+"UTI",2,"K1010","Acute pyelonephritis without medullary necrosis",0,0
+"UTI",2,"K101z","Acute pyelonephritis NOS",0,0
+"UTI",2,"K104.","Xanthogranulomatous pyelonephritis",0,0
+"UTI",2,"K10y.","Pyelonephritis and pyonephrosis unspecified",0,0
+"UTI",2,"K10y0","Pyelonephritis unspecified",0,0
+"UTI",2,"K10y3","Pyelonephritis in diseases EC",0,0
+"UTI",2,"K10yz","Unspecified pyelonephritis NOS",0,0
+"UTI",2,"K15..","Cystitis",0,0
+"UTI",2,"K150.","Acute cystitis",0,0
+"UTI",2,"K152.","Other chronic cystitis",0,0
+"UTI",2,"K1520","Subacute cystitis",0,0
+"UTI",2,"K152y","Chronic cystitis unspecified",0,0
+"UTI",2,"K152z","Other chronic cystitis NOS",0,0
+"UTI",2,"K155.","Recurrent cystitis",0,0
+"UTI",2,"K15y.","Other specified cystitis",0,0
+"UTI",2,"K15y0","Cystitis cystica",0,0
+"UTI",2,"K15yz","Other cystitis NOS",0,0
+"UTI",2,"K15z.","Cystitis NOS",0,0
+"UTI",2,"K190.","Urinary tract infection, site not specified",0,0
+"UTI",2,"K1902","Post operative urinary tract infection",0,0
+"UTI",2,"K1903","Recurrent urinary tract infection",0,0
+"UTI",2,"K1904","Chronic urinary tract infection",0,0
+"UTI",2,"K1905","Urinary tract infection",0,0
+"UTI",2,"K190z","Urinary tract infection, site not specified NOS",0,0
+"UTI",2,"K19z.","Urethral and urinary tract disorders NOS",0,0
+"UTI",2,"K213.","Prostatocystitis",0,0
+"UTI",2,"Kyu50","[X]Other chronic cystitis",0,0
+"UTI",2,"Kyu51","[X]Other cystitis",0,0
+"UTI",2,"L166.","Cystitis of pregnancy",0,0
+"UTI",2,"L166z","UTI - urinary tract infection in pregnancy",0,0
+"UTI",2,"R081.","[D]Dysuria",0,0
+"UTI",2,"R0810","[D]Painful urination",0,0
+"UTI",2,"R081z","[D]Dysuria NOS",0,0
+"UTI",2,"R084.","[D]Micturition frequency and polyuria",0,0
+"UTI",2,"R0841","[D]Polyuria",0,0
+"UTI",2,"R084z","[D]Frequency of micturition or polyuria NOS",0,0
+"UTI",2,"R0862","[D] Urgency of micturition",0,0
+"UTI",2,"R08z2","[D]Vesical tenesmus",0,0
+"UTI",2,"Ryu42","[X]Painful micturition, unspecified",0,0
+"UTI",3,".1A1.","Polyuria",0,0
+"UTI",3,".1A25","Urgency of micturition",0,0
+"UTI",3,".1A35","Urgency of micturition",0,0
+"UTI",3,".1A55","Dysuria",0,0
+"UTI",3,".1AC2","Polyuria",0,0
+"UTI",3,".1AG.","Recurrent urinary tract infections",0,0
+"UTI",3,".1J4.","Suspected UTI",0,0
+"UTI",3,".464.","Urine smell",0,0
+"UTI",3,".4642","Urine smell ammoniacal",0,0
+"UTI",3,".4643","Urine smell fishy",0,0
+"UTI",3,".4644","Urine smell abnormal",0,0
+"UTI",3,".464Z","Urine smell NOS",0,0
+"UTI",3,".J26.","Cystitis",0,0
+"UTI",3,".J2B5","Recurrent urinary tract infection",0,0
+"UTI",3,".J2BZ","Urethral and urinary tract disorders NOS",0,0
+"UTI",3,".R81.","[D]Dysuria",0,0
+"UTI",3,".R810","[D]Painful urination",0,0
+"UTI",3,".R81Z","[D]Dysuria NOS",0,0
+"UTI",3,".R84.","[D]Micturition frequency and polyuria",0,0
+"UTI",3,".R840","[D]Polyuria",0,0
+"UTI",3,".R8Z2","[D]Vesical tenesmus",0,0
+"UTI",3,"1A1..","Polyuria",0,0
+"UTI",3,"1A25.","Urgency of micturition",0,0
+"UTI",3,"1A35.","Urgency of micturition",0,0
+"UTI",3,"1A54.","C/O - ureteric pain",0,0
+"UTI",3,"1A55.","Dysuria",0,0
+"UTI",3,"1A5D.","Urethral pain",0,0
+"UTI",3,"1AC2.","Polyuria",0,0
+"UTI",3,"1AG..","Recurrent urinary tract infections",0,0
+"UTI",3,"1J4..","Suspected UTI",0,0
+"UTI",3,"464..","Urine smell",0,0
+"UTI",3,"4642.","Urine smell ammoniacal",0,0
+"UTI",3,"4643.","Urine smell fishy",0,0
+"UTI",3,"4644.","Urine smell abnormal",0,0
+"UTI",3,"464Z.","Urine smell NOS",0,0
+"UTI",3,"A1602","Tuberculous pyelonephritis",0,0
+"UTI",3,"A9811","Acute gonococcal cystitis",0,0
+"UTI",3,"A9831","Chronic gonococcal cystitis",0,0
+"UTI",3,"E2653","Psychogenic dysuria",0,0
+"UTI",3,"K1006","Calculous pyelonephritis",0,0
+"UTI",3,"K101.","Acute pyelonephritis",0,0
+"UTI",3,"K1010","Acute pyelonephritis without medullary necrosis",0,0
+"UTI",3,"K101z","Acute pyelonephritis NOS",0,0
+"UTI",3,"K104.","Xanthogranulomatous pyelonephritis",0,0
+"UTI",3,"K10y.","Pyelonephritis and pyonephrosis unspecified",0,0
+"UTI",3,"K10y0","Pyelonephritis unspecified",0,0
+"UTI",3,"K10y3","Pyelonephritis in diseases EC",0,0
+"UTI",3,"K10yz","Unspecified pyelonephritis NOS",0,0
+"UTI",3,"K15..","Cystitis",0,0
+"UTI",3,"K150.","Acute cystitis",0,0
+"UTI",3,"K152.","Other chronic cystitis",0,0
+"UTI",3,"K1520","Subacute cystitis",0,0
+"UTI",3,"K152y","Chronic cystitis unspecified",0,0
+"UTI",3,"K152z","Other chronic cystitis NOS",0,0
+"UTI",3,"K155.","Recurrent cystitis",0,0
+"UTI",3,"K15y.","Other specified cystitis",0,0
+"UTI",3,"K15y0","Cystitis cystica",0,0
+"UTI",3,"K15yz","Other cystitis NOS",0,0
+"UTI",3,"K15z.","Cystitis NOS",0,0
+"UTI",3,"K190.","Urinary tract infection, site not specified",0,0
+"UTI",3,"K1902","Postoperative urinary tract infection",0,0
+"UTI",3,"K1903","Recurrent urinary tract infection",0,0
+"UTI",3,"K1904","Chronic urinary tract infection",0,0
+"UTI",3,"K1905","Infection of urinary tract",0,0
+"UTI",3,"K190z","Urinary tract infection, site not specified NOS",0,0
+"UTI",3,"K19z.","Urethral and urinary tract disorders NOS",0,0
+"UTI",3,"K213.","Prostatocystitis",0,0
+"UTI",3,"Kyu50","[X]Other chronic cystitis",0,0
+"UTI",3,"Kyu51","[X]Other cystitis",0,0
+"UTI",3,"L166.","Cystitis of pregnancy",0,0
+"UTI",3,"L166z","UTI - urinary tract infection in pregnancy",0,0
+"UTI",3,"R081.","[D]Dysuria",0,0
+"UTI",3,"R0810","[D]Painful urination",0,0
+"UTI",3,"R081z","[D]Dysuria NOS",0,0
+"UTI",3,"R084.","[D]Micturition frequency and polyuria",0,0
+"UTI",3,"R0841","[D]Polyuria",0,0
+"UTI",3,"R084z","[D]Frequency of micturition or polyuria NOS",0,0
+"UTI",3,"R0862","[D]Urgency of micturition",0,0
+"UTI",3,"R08z2","[D]Vesical tenesmus",0,0
+"UTI",3,"Ryu42","[X]Painful micturition, unspecified",0,0
+"UTI",3,"X30Jd","Xanthogranulomatous pyelonephritis",0,0
+"UTI",3,"XE0e0","Infection of urinary tract",0,0
+"UTI",3,"XM1Ox","Cystitis of pregnancy",0,0
+"UTI",3,"Xa07P","C/O - ureteric pain",0,0
+"UTI",3,"Xa8EJ","Acute cystitis",0,0
+"UTI",3,"XaB9F","UTI - urinary tract infection in pregnancy",0,0
+"UTI",3,"XaFqt","Suspected UTI",0,0
+"UTI",3,"XaFwM","Recurrent urinary tract infections",0,0
