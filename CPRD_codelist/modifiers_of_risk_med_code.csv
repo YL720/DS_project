@@ -1,0 +1,401 @@
+condition,medcode,readcode,desc
+IBD,593,J40..11,Crohn's disease
+IBD,11286,J40..00,Regional enteritis - Crohn's disease
+IBD,51578,J40..12,Granulomatous enteritis
+IBD,704,J410100,Ulcerative colitis
+IBD,1784,J41..12,Ulcerative colitis and/or proctitis
+IBD,5133,J41..00,Idiopathic proctocolitis
+IBD,23950,J41..11,Mucous colitis and/or proctitis
+IBD,6538,J401z11,Crohn's colitis
+IBD,20688,J401z00,Crohn's disease of the large bowel NOS
+IBD,6650,J410.00,Ulcerative proctocolitis
+IBD,8347,J410300,Ulcerative proctitis
+IBD,9359,J400z00,Crohn's disease of the small bowel NOS
+IBD,15207,J41z.00,Idiopathic proctocolitis NOS
+IBD,15773,J402.00,Regional ileocolitis
+IBD,22516,J410400,Exacerbation of ulcerative colitis
+IBD,24550,J41y.00,Other idiopathic proctocolitis
+IBD,24858,J410200,Ulcerative rectosigmoiditis
+IBD,28476,J400200,Crohn's disease of the terminal ileum
+IBD,29616,J08z900,Orofacial Crohn's disease
+IBD,30433,J411.00,Ulcerative (chronic) enterocolitis
+IBD,33456,J410z00,Ulcerative proctocolitis NOS
+IBD,36913,J400500,Exacerbation of Crohn's disease of small intestine
+IBD,39037,J401200,Exacerbation of Crohn's disease of large intestine
+IBD,39278,J400400,Crohn's disease of the ileum NOS
+IBD,42822,J412.00,Ulcerative (chronic) ileocolitis
+IBD,43090,J41yz00,Other idiopathic proctocolitis NOS
+IBD,44426,J401.00,Regional enteritis of the large bowel
+IBD,48732,J410000,Ulcerative ileocolitis
+IBD,51576,J400.00,Regional enteritis of the small bowel
+IBD,52449,J40z.00,Regional enteritis NOS
+IBD,59994,J40z.11,Crohn's disease NOS
+IBD,53743,Jyu4100,[X]Other ulcerative colitis
+IBD,62628,J401000,Regional enteritis of the colon
+IBD,63036,J400100,Regional enteritis of the jejunum
+IBD,64773,J401100,Regional enteritis of the rectum
+IBD,66238,J400300,Crohn's disease of the ileum unspecified
+IBD,69959,Jyu4000,[X]Other Crohn's disease
+IBD,71945,J400000,Regional enteritis of the duodenum
+IBD,104259,J413.00,Ulcerative pancolitis
+DIB_unspecified,6813,1434,H/O: diabetes mellitus
+DIB_T1D,16946,13L4.11,Diabetic child
+DIB_T1D,18436,13L4.00,Relative - chronic medical disorder
+DIB_T2D,7563,66A3.00,Diabetic on diet only
+DIB_T2D,1684,66A4.00,Diabetic on oral treatment
+DIB_unspecified,8842,66A5.00,Diabetic on insulin
+DIB_unspecified,13071,66AI.00,Diabetic - good control
+DIB_unspecified,2378,66AJ.00,Diabetic - poor control
+DIB_unspecified,9013,66AJ.11,Unstable diabetes
+DIB_T1D,2478,66AJ100,Brittle diabetes
+DIB_unspecified,22023,66AJz00,Diabetic - poor control NOS
+DIB_unspecified,43951,66AK.00,Diabetic - cooperative patient
+DIB_unspecified,17869,66AL.00,Diabetic-uncooperative patient
+DIB_unspecified,101728,66As.00,Diabetic on subcutaneous treatment
+DIB_T2D,28769,66AV.00,Diabetic on insulin and oral treatment
+DIB_unspecified,711,C10..00,Diabetes mellitus
+DIB_unspecified,38986,C100.00,Diabetes mellitus with no mention of complication
+DIB_T1D,1038,C100011,Insulin dependent diabetes mellitus
+DIB_T1D,24490,C100000,"Diabetes mellitus, juvenile type, no mention of complication"
+DIB_T2D,506,C100112,Non-insulin dependent diabetes mellitus
+DIB_T2D,14803,C100100,"Diabetes mellitus, adult onset, no mention of complication"
+DIB_T2D,14889,C100111,Maturity onset diabetes
+DIB_unspecified,50972,C100z00,Diabetes mellitus NOS with no mention of complication
+DIB_unspecified,1682,C101.00,Diabetes mellitus with ketoacidosis
+DIB_T1D,53200,C101000,"Diabetes mellitus, juvenile type, with ketoacidosis"
+DIB_T2D,54856,C101100,"Diabetes mellitus, adult onset, with ketoacidosis"
+DIB_unspecified,38617,C101y00,Other specified diabetes mellitus with ketoacidosis
+DIB_unspecified,42505,C101z00,Diabetes mellitus NOS with ketoacidosis
+DIB_unspecified,21482,C102.00,Diabetes mellitus with hyperosmolar coma
+DIB_T1D,40023,C102000,"Diabetes mellitus, juvenile type, with hyperosmolar coma"
+DIB_T2D,43139,C102100,"Diabetes mellitus, adult onset, with hyperosmolar coma"
+DIB_unspecified,72345,C102z00,Diabetes mellitus NOS with hyperosmolar coma
+DIB_unspecified,15690,C103.00,Diabetes mellitus with ketoacidotic coma
+DIB_T1D,42567,C103000,"Diabetes mellitus, juvenile type, with ketoacidotic coma"
+DIB_T2D,68843,C103100,"Diabetes mellitus, adult onset, with ketoacidotic coma"
+DIB_unspecified,59288,C103y00,Other specified diabetes mellitus with coma
+DIB_unspecified,65062,C103z00,Diabetes mellitus NOS with ketoacidotic coma
+DIB_unspecified,2475,C104.11,Diabetic nephropathy
+DIB_unspecified,16502,C104.00,Diabetes mellitus with renal manifestation
+DIB_T1D,93922,C104000,"Diabetes mellitus, juvenile type, with renal manifestation"
+DIB_T2D,35105,C104100,"Diabetes mellitus, adult onset, with renal manifestation"
+DIB_unspecified,13279,C104y00,Other specified diabetes mellitus with renal complications
+DIB_unspecified,35107,C104z00,Diabetes mellitus with nephropathy NOS
+DIB_unspecified,33254,C105.00,Diabetes mellitus with ophthalmic manifestation
+DIB_T1D,69748,C105000,"Diabetes mellitus, juvenile type, + ophthalmic manifestation"
+DIB_T2D,41389,C105100,"Diabetes mellitus, adult onset, + ophthalmic manifestation"
+DIB_unspecified,47377,C105y00,Other specified diabetes mellitus with ophthalmic complicatn
+DIB_unspecified,34283,C105z00,Diabetes mellitus NOS with ophthalmic manifestation
+DIB_unspecified,7795,C106.12,Diabetes mellitus with neuropathy
+DIB_unspecified,16230,C106.00,Diabetes mellitus with neurological manifestation
+DIB_unspecified,16491,C106.13,Diabetes mellitus with polyneuropathy
+DIB_unspecified,59903,C106.11,Diabetic amyotrophy
+DIB_T1D,67853,C106000,"Diabetes mellitus, juvenile, + neurological manifestation"
+DIB_T2D,39317,C106100,"Diabetes mellitus, adult onset, + neurological manifestation"
+DIB_unspecified,61523,C106y00,Other specified diabetes mellitus with neurological comps
+DIB_unspecified,22573,C106z00,Diabetes mellitus NOS with neurological manifestation
+DIB_unspecified,32403,C107.11,Diabetes mellitus with gangrene
+DIB_unspecified,32556,C107.12,Diabetes with gangrene
+DIB_unspecified,35399,C107.00,Diabetes mellitus with peripheral circulatory disorder
+DIB_T1D,70448,C107000,"Diabetes mellitus, juvenile +peripheral circulatory disorder"
+DIB_T2D,63357,C107100,"Diabetes mellitus, adult, + peripheral circulatory disorder"
+DIB_T2D,33807,C107200,"Diabetes mellitus, adult with gangrene"
+DIB_T1D,69124,C107300,IDDM with peripheral circulatory disorder
+DIB_T2D,56803,C107400,NIDDM with peripheral circulatory disorder
+DIB_unspecified,65025,C107z00,Diabetes mellitus NOS with peripheral circulatory disorder
+DIB_T1D,1647,C108.00,Insulin dependent diabetes mellitus
+DIB_T1D,17858,C108.12,Type 1 diabetes mellitus
+DIB_T1D,18505,C108.11,IDDM-Insulin dependent diabetes mellitus
+DIB_T1D,24423,C108.13,Type I diabetes mellitus
+DIB_T1D,21983,C108012,Type 1 diabetes mellitus with renal complications
+DIB_T1D,46963,C108000,Insulin-dependent diabetes mellitus with renal complications
+DIB_T1D,61344,C108011,Type I diabetes mellitus with renal complications
+DIB_T1D,49276,C108100,Insulin-dependent diabetes mellitus with ophthalmic comps
+DIB_T1D,102740,C108112,Type 1 diabetes mellitus with ophthalmic complications
+DIB_T1D,49146,C108211,Type I diabetes mellitus with neurological complications
+DIB_T1D,52283,C108200,Insulin-dependent diabetes mellitus with neurological comps
+DIB_T1D,61829,C108212,Type 1 diabetes mellitus with neurological complications
+DIB_T1D,52104,C108300,Insulin dependent diabetes mellitus with multiple complicatn
+DIB_T1D,108007,C108311,Type I diabetes mellitus with multiple complications
+DIB_T1D,26855,C108400,Unstable insulin dependent diabetes mellitus
+DIB_T1D,60107,C108411,Unstable type I diabetes mellitus
+DIB_T1D,97474,C108412,Unstable type 1 diabetes mellitus
+DIB_T1D,44443,C108500,Insulin dependent diabetes mellitus with ulcer
+DIB_T1D,51957,C108511,Type I diabetes mellitus with ulcer
+DIB_T1D,68390,C108512,Type 1 diabetes mellitus with ulcer
+DIB_T1D,60499,C108600,Insulin dependent diabetes mellitus with gangrene
+DIB_T1D,6509,C108700,Insulin dependent diabetes mellitus with retinopathy
+DIB_T1D,38161,C108711,Type I diabetes mellitus with retinopathy
+DIB_T1D,41049,C108712,Type 1 diabetes mellitus with retinopathy
+DIB_T1D,6791,C108800,Insulin dependent diabetes mellitus - poor control
+DIB_T1D,45914,C108812,Type 1 diabetes mellitus - poor control
+DIB_T1D,46850,C108811,Type I diabetes mellitus - poor control
+DIB_T1D,31310,C108900,Insulin dependent diabetes maturity onset
+DIB_T1D,63017,C108911,Type I diabetes mellitus maturity onset
+DIB_T1D,97446,C108912,Type 1 diabetes mellitus maturity onset
+DIB_T1D,56448,C108A00,Insulin-dependent diabetes without complication
+DIB_T1D,95992,C108A11,Type I diabetes mellitus without complication
+DIB_T1D,111106,C108A12,Type 1 diabetes mellitus without complication
+DIB_T1D,24694,C108B00,Insulin dependent diabetes mellitus with mononeuropathy
+DIB_T1D,99231,C108B11,Type I diabetes mellitus with mononeuropathy
+DIB_T1D,41716,C108C00,Insulin dependent diabetes mellitus with polyneuropathy
+DIB_T1D,57621,C108D00,Insulin dependent diabetes mellitus with nephropathy
+DIB_T1D,66872,C108D11,Type I diabetes mellitus with nephropathy
+DIB_T1D,113197,C108D12,Type 1 diabetes mellitus with nephropathy
+DIB_T1D,42729,C108E11,Type I diabetes mellitus with hypoglycaemic coma
+DIB_T1D,44440,C108E00,Insulin dependent diabetes mellitus with hypoglycaemic coma
+DIB_T1D,70766,C108E12,Type 1 diabetes mellitus with hypoglycaemic coma
+DIB_T1D,17545,C108F11,Type I diabetes mellitus with diabetic cataract
+DIB_T1D,44260,C108F00,Insulin dependent diabetes mellitus with diabetic cataract
+DIB_T1D,110400,C108F12,Type 1 diabetes mellitus with diabetic cataract
+DIB_T1D,62352,C108H11,Type I diabetes mellitus with arthropathy
+DIB_T1D,65616,C108H00,Insulin dependent diabetes mellitus with arthropathy
+DIB_T1D,18230,C108J12,Type 1 diabetes mellitus with neuropathic arthropathy
+DIB_T1D,39809,C108J00,Insulin dependent diab mell with neuropathic arthropathy
+DIB_T1D,60208,C108J11,Type I diabetes mellitus with neuropathic arthropathy
+DIB_unspecified,46290,C108y00,Other specified diabetes mellitus with multiple comps
+DIB_unspecified,64449,C108z00,Unspecified diabetes mellitus with multiple complications
+DIB_T2D,4513,C109.00,Non-insulin dependent diabetes mellitus
+DIB_T2D,5884,C109.11,NIDDM - Non-insulin dependent diabetes mellitus
+DIB_T2D,17859,C109.12,Type 2 diabetes mellitus
+DIB_T2D,18219,C109.13,Type II diabetes mellitus
+DIB_T2D,18209,C109012,Type 2 diabetes mellitus with renal complications
+DIB_T2D,50225,C109011,Type II diabetes mellitus with renal complications
+DIB_T2D,52303,C109000,Non-insulin-dependent diabetes mellitus with renal comps
+DIB_T2D,50429,C109100,Non-insulin-dependent diabetes mellitus with ophthalm comps
+DIB_T2D,59725,C109111,Type II diabetes mellitus with ophthalmic complications
+DIB_T2D,70316,C109112,Type 2 diabetes mellitus with ophthalmic complications
+DIB_T2D,45919,C109212,Type 2 diabetes mellitus with neurological complications
+DIB_T2D,55842,C109200,Non-insulin-dependent diabetes mellitus with neuro comps
+DIB_T2D,67905,C109211,Type II diabetes mellitus with neurological complications
+DIB_T2D,62146,C109300,Non-insulin-dependent diabetes mellitus with multiple comps
+DIB_T2D,108005,C109312,Type 2 diabetes mellitus with multiple complications
+DIB_T2D,34912,C109400,Non-insulin dependent diabetes mellitus with ulcer
+DIB_T2D,55075,C109411,Type II diabetes mellitus with ulcer
+DIB_T2D,65704,C109412,Type 2 diabetes mellitus with ulcer
+DIB_T2D,40401,C109500,Non-insulin dependent diabetes mellitus with gangrene
+DIB_T2D,46150,C109512,Type 2 diabetes mellitus with gangrene
+DIB_T2D,62107,C109511,Type II diabetes mellitus with gangrene
+DIB_T2D,17262,C109600,Non-insulin-dependent diabetes mellitus with retinopathy
+DIB_T2D,42762,C109612,Type 2 diabetes mellitus with retinopathy
+DIB_T2D,58604,C109611,Type II diabetes mellitus with retinopathy
+DIB_T2D,8403,C109700,Non-insulin dependent diabetes mellitus - poor control
+DIB_T2D,24458,C109711,Type II diabetes mellitus - poor control
+DIB_T2D,45913,C109712,Type 2 diabetes mellitus - poor control
+DIB_T2D,29979,C109900,Non-insulin-dependent diabetes mellitus without complication
+DIB_T2D,105784,C109912,Type 2 diabetes mellitus without complication
+DIB_T2D,109103,C109911,Type II diabetes mellitus without complication
+DIB_T2D,50813,C109A11,Type II diabetes mellitus with mononeuropathy
+DIB_T2D,72320,C109A00,Non-insulin dependent diabetes mellitus with mononeuropathy
+DIB_T2D,45467,C109B00,Non-insulin dependent diabetes mellitus with polyneuropathy
+DIB_T2D,47409,C109B11,Type II diabetes mellitus with polyneuropathy
+DIB_T2D,109865,C109B12,Type 2 diabetes mellitus with polyneuropathy
+DIB_T2D,24836,C109C12,Type 2 diabetes mellitus with nephropathy
+DIB_T2D,59365,C109C00,Non-insulin dependent diabetes mellitus with nephropathy
+DIB_T2D,64571,C109C11,Type II diabetes mellitus with nephropathy
+DIB_T2D,43785,C109D00,Non-insulin dependent diabetes mellitus with hypoglyca coma
+DIB_T2D,56268,C109D11,Type II diabetes mellitus with hypoglycaemic coma
+DIB_T2D,61071,C109D12,Type 2 diabetes mellitus with hypoglycaemic coma
+DIB_T2D,44779,C109E12,Type 2 diabetes mellitus with diabetic cataract
+DIB_T2D,48192,C109E11,Type II diabetes mellitus with diabetic cataract
+DIB_T2D,69278,C109E00,Non-insulin depend diabetes mellitus with diabetic cataract
+DIB_T2D,54212,C109F00,Non-insulin-dependent d m with peripheral angiopath
+DIB_T2D,54899,C109F11,Type II diabetes mellitus with peripheral angiopathy
+DIB_T2D,60699,C109F12,Type 2 diabetes mellitus with peripheral angiopathy
+DIB_T2D,18143,C109G11,Type II diabetes mellitus with arthropathy
+DIB_T2D,24693,C109G00,Non-insulin dependent diabetes mellitus with arthropathy
+DIB_T2D,49869,C109G12,Type 2 diabetes mellitus with arthropathy
+DIB_T2D,40962,C109H00,Non-insulin dependent d m with neuropathic arthropathy
+DIB_T2D,47816,C109H11,Type II diabetes mellitus with neuropathic arthropathy
+DIB_T2D,66965,C109H12,Type 2 diabetes mellitus with neuropathic arthropathy
+DIB_T2D,18264,C109J12,Insulin treated Type II diabetes mellitus
+DIB_T2D,18278,C109J00,Insulin treated Type 2 diabetes mellitus
+DIB_T2D,37648,C109J11,Insulin treated non-insulin dependent diabetes mellitus
+DIB_neither,52236,C10A.00,Malnutrition-related diabetes mellitus
+DIB_neither,66675,C10A000,Malnutrition-related diabetes mellitus with coma
+DIB_neither,33969,C10A100,Malnutrition-related diabetes mellitus with ketoacidosis
+DIB_neither,100347,C10A500,Malnutritn-relat diabetes melitus wth periph circul complctn
+DIB_neither,43453,C10C.00,Diabetes mellitus autosomal dominant
+DIB_neither,46624,C10C.11,Maturity onset diabetes in youth
+DIB_neither,98392,C10C.12,Maturity onset diabetes in youth type 1
+DIB_neither,36695,C10D.00,Diabetes mellitus autosomal dominant type 2
+DIB_neither,59991,C10D.11,Maturity onset diabetes in youth type 2
+DIB_T1D,1549,C10E.00,Type 1 diabetes mellitus
+DIB_T1D,12455,C10E.11,Type I diabetes mellitus
+DIB_T1D,51261,C10E.12,Insulin dependent diabetes mellitus
+DIB_T1D,47582,C10E000,Type 1 diabetes mellitus with renal complications
+DIB_T1D,102946,C10E012,Insulin-dependent diabetes mellitus with renal complications
+DIB_T1D,109837,C10E011,Type I diabetes mellitus with renal complications
+DIB_T1D,47649,C10E100,Type 1 diabetes mellitus with ophthalmic complications
+DIB_T1D,98071,C10E112,Insulin-dependent diabetes mellitus with ophthalmic comps
+DIB_T1D,99311,C10E111,Type I diabetes mellitus with ophthalmic complications
+DIB_T1D,42831,C10E200,Type 1 diabetes mellitus with neurological complications
+DIB_T1D,101735,C10E212,Insulin-dependent diabetes mellitus with neurological comps
+DIB_T1D,45276,C10E312,Insulin dependent diabetes mellitus with multiple complicat
+DIB_T1D,47650,C10E300,Type 1 diabetes mellitus with multiple complications
+DIB_T1D,91942,C10E311,Type I diabetes mellitus with multiple complications
+DIB_T1D,43921,C10E400,Unstable type 1 diabetes mellitus
+DIB_T1D,49949,C10E411,Unstable type I diabetes mellitus
+DIB_T1D,54600,C10E412,Unstable insulin dependent diabetes mellitus
+DIB_T1D,18683,C10E500,Type 1 diabetes mellitus with ulcer
+DIB_T1D,93878,C10E511,Type I diabetes mellitus with ulcer
+DIB_T1D,98704,C10E512,Insulin dependent diabetes mellitus with ulcer
+DIB_T1D,69993,C10E600,Type 1 diabetes mellitus with gangrene
+DIB_T1D,102112,C10E611,Type I diabetes mellitus with gangrene
+DIB_T1D,109051,C10E612,Insulin dependent diabetes mellitus with gangrene
+DIB_T1D,18387,C10E700,Type 1 diabetes mellitus with retinopathy
+DIB_T1D,93875,C10E712,Insulin dependent diabetes mellitus with retinopathy
+DIB_T1D,95343,C10E711,Type I diabetes mellitus with retinopathy
+DIB_T1D,35288,C10E800,Type 1 diabetes mellitus - poor control
+DIB_T1D,72702,C10E812,Insulin dependent diabetes mellitus - poor control
+DIB_T1D,105337,C10E811,Type I diabetes mellitus - poor control
+DIB_T1D,40682,C10E900,Type 1 diabetes mellitus maturity onset
+DIB_T1D,96235,C10E911,Type I diabetes mellitus maturity onset
+DIB_T1D,97849,C10E912,Insulin dependent diabetes maturity onset
+DIB_T1D,62613,C10EA11,Type I diabetes mellitus without complication
+DIB_T1D,69676,C10EA00,Type 1 diabetes mellitus without complication
+DIB_T1D,99719,C10EA12,Insulin-dependent diabetes without complication
+DIB_T1D,68105,C10EB00,Type 1 diabetes mellitus with mononeuropathy
+DIB_T1D,46301,C10EC00,Type 1 diabetes mellitus with polyneuropathy
+DIB_T1D,91943,C10EC11,Type I diabetes mellitus with polyneuropathy
+DIB_T1D,101311,C10EC12,Insulin dependent diabetes mellitus with polyneuropathy
+DIB_T1D,10418,C10ED00,Type 1 diabetes mellitus with nephropathy
+DIB_T1D,102163,C10ED12,Insulin dependent diabetes mellitus with nephropathy
+DIB_T1D,39070,C10EE00,Type 1 diabetes mellitus with hypoglycaemic coma
+DIB_T1D,99716,C10EE12,Insulin dependent diabetes mellitus with hypoglycaemic coma
+DIB_T1D,49554,C10EF00,Type 1 diabetes mellitus with diabetic cataract
+DIB_T1D,100770,C10EF12,Insulin dependent diabetes mellitus with diabetic cataract
+DIB_T1D,93468,C10EG00,Type 1 diabetes mellitus with peripheral angiopathy
+DIB_T1D,18642,C10EH00,Type 1 diabetes mellitus with arthropathy
+DIB_T1D,54008,C10EJ00,Type 1 diabetes mellitus with neuropathic arthropathy
+DIB_T1D,30294,C10EL00,Type 1 diabetes mellitus with persistent microalbuminuria
+DIB_T1D,102620,C10EL11,Type I diabetes mellitus with persistent microalbuminuria
+DIB_T1D,10692,C10EM00,Type 1 diabetes mellitus with ketoacidosis
+DIB_T1D,62209,C10EM11,Type I diabetes mellitus with ketoacidosis
+DIB_T1D,40837,C10EN00,Type 1 diabetes mellitus with ketoacidotic coma
+DIB_T1D,66145,C10EN11,Type I diabetes mellitus with ketoacidotic coma
+DIB_T1D,22871,C10EP00,Type 1 diabetes mellitus with exudative maculopathy
+DIB_T1D,97894,C10EP11,Type I diabetes mellitus with exudative maculopathy
+DIB_T1D,55239,C10EQ00,Type 1 diabetes mellitus with gastroparesis
+DIB_T1D,108724,C10EQ11,Type I diabetes mellitus with gastroparesis
+DIB_neither,95636,C10ER00,Latent autoimmune diabetes mellitus in adult
+DIB_T2D,758,C10F.00,Type 2 diabetes mellitus
+DIB_T2D,22884,C10F.11,Type II diabetes mellitus
+DIB_T2D,18777,C10F000,Type 2 diabetes mellitus with renal complications
+DIB_T2D,57278,C10F011,Type II diabetes mellitus with renal complications
+DIB_T2D,47321,C10F100,Type 2 diabetes mellitus with ophthalmic complications
+DIB_T2D,100964,C10F111,Type II diabetes mellitus with ophthalmic complications
+DIB_T2D,34268,C10F200,Type 2 diabetes mellitus with neurological complications
+DIB_T2D,98616,C10F211,Type II diabetes mellitus with neurological complications
+DIB_T2D,43227,C10F311,Type II diabetes mellitus with multiple complications
+DIB_T2D,65267,C10F300,Type 2 diabetes mellitus with multiple complications
+DIB_T2D,49074,C10F400,Type 2 diabetes mellitus with ulcer
+DIB_T2D,91646,C10F411,Type II diabetes mellitus with ulcer
+DIB_T2D,12736,C10F500,Type 2 diabetes mellitus with gangrene
+DIB_T2D,104323,C10F511,Type II diabetes mellitus with gangrene
+DIB_T2D,18496,C10F600,Type 2 diabetes mellitus with retinopathy
+DIB_T2D,49655,C10F611,Type II diabetes mellitus with retinopathy
+DIB_T2D,25627,C10F700,Type 2 diabetes mellitus - poor control
+DIB_T2D,47315,C10F711,Type II diabetes mellitus - poor control
+DIB_T2D,47954,C10F900,Type 2 diabetes mellitus without complication
+DIB_T2D,53392,C10F911,Type II diabetes mellitus without complication
+DIB_T2D,62674,C10FA00,Type 2 diabetes mellitus with mononeuropathy
+DIB_T2D,95351,C10FA11,Type II diabetes mellitus with mononeuropathy
+DIB_T2D,18425,C10FB00,Type 2 diabetes mellitus with polyneuropathy
+DIB_T2D,50527,C10FB11,Type II diabetes mellitus with polyneuropathy
+DIB_T2D,12640,C10FC00,Type 2 diabetes mellitus with nephropathy
+DIB_T2D,102201,C10FC11,Type II diabetes mellitus with nephropathy
+DIB_T2D,46917,C10FD00,Type 2 diabetes mellitus with hypoglycaemic coma
+DIB_T2D,98723,C10FD11,Type II diabetes mellitus with hypoglycaemic coma
+DIB_T2D,44982,C10FE00,Type 2 diabetes mellitus with diabetic cataract
+DIB_T2D,93727,C10FE11,Type II diabetes mellitus with diabetic cataract
+DIB_T2D,37806,C10FF00,Type 2 diabetes mellitus with peripheral angiopathy
+DIB_T2D,104639,C10FF11,Type II diabetes mellitus with peripheral angiopathy
+DIB_T2D,59253,C10FG00,Type 2 diabetes mellitus with arthropathy
+DIB_T2D,103902,C10FG11,Type II diabetes mellitus with arthropathy
+DIB_T2D,35385,C10FH00,Type 2 diabetes mellitus with neuropathic arthropathy
+DIB_T2D,109197,C10FH11,Type II diabetes mellitus with neuropathic arthropathy
+DIB_T2D,1407,C10FJ00,Insulin treated Type 2 diabetes mellitus
+DIB_T2D,64668,C10FJ11,Insulin treated Type II diabetes mellitus
+DIB_T2D,26054,C10FL00,Type 2 diabetes mellitus with persistent proteinuria
+DIB_T2D,60796,C10FL11,Type II diabetes mellitus with persistent proteinuria
+DIB_T2D,18390,C10FM00,Type 2 diabetes mellitus with persistent microalbuminuria
+DIB_T2D,85991,C10FM11,Type II diabetes mellitus with persistent microalbuminuria
+DIB_T2D,32627,C10FN00,Type 2 diabetes mellitus with ketoacidosis
+DIB_T2D,106528,C10FN11,Type II diabetes mellitus with ketoacidosis
+DIB_T2D,51756,C10FP00,Type 2 diabetes mellitus with ketoacidotic coma
+DIB_T2D,106061,C10FP11,Type II diabetes mellitus with ketoacidotic coma
+DIB_T2D,25591,C10FQ00,Type 2 diabetes mellitus with exudative maculopathy
+DIB_T2D,111798,C10FQ11,Type II diabetes mellitus with exudative maculopathy
+DIB_T2D,63690,C10FR00,Type 2 diabetes mellitus with gastroparesis
+DIB_T2D,95539,C10FS00,Maternally inherited diabetes mellitus
+DIB_neither,51697,C10G.00,Secondary pancreatic diabetes mellitus
+DIB_neither,96506,C10G000,Secondary pancreatic diabetes mellitus without complication
+DIB_neither,43857,C10M.00,Lipoatrophic diabetes mellitus
+DIB_neither,22487,C10N.00,Secondary diabetes mellitus
+DIB_neither,94383,C10N000,Secondary diabetes mellitus without complication
+DIB_neither,93380,C10N100,Cystic fibrosis related diabetes mellitus
+DIB_unspecified,33343,C10y.00,Diabetes mellitus with other specified manifestation
+DIB_T2D,63371,C10y100,"Diabetes mellitus, adult, + other specified manifestation"
+DIB_unspecified,10098,C10yy00,Other specified diabetes mellitus with other spec comps
+DIB_unspecified,70821,C10yz00,Diabetes mellitus NOS with other specified manifestation
+DIB_unspecified,45491,C10z.00,Diabetes mellitus with unspecified complication
+DIB_T1D,68792,C10z000,"Diabetes mellitus, juvenile type, + unspecified complication"
+DIB_T2D,63762,C10z100,"Diabetes mellitus, adult onset, + unspecified complication"
+DIB_unspecified,64283,C10zy00,Other specified diabetes mellitus with unspecified comps
+DIB_unspecified,64357,C10zz00,Diabetes mellitus NOS with unspecified complication
+DIB_unspecified,52212,Cyu2.00,[X]Diabetes mellitus
+DIB_unspecified,41686,Cyu2000,[X]Other specified diabetes mellitus
+DIB_unspecified,100292,Cyu2300,[X]Unspecified diabetes mellitus with renal complications
+DIB_unspecified,2342,F372.12,Diabetic neuropathy
+DIB_unspecified,5002,F372.11,Diabetic polyneuropathy
+DIB_unspecified,31790,F372.00,Polyneuropathy in diabetes
+DIB_unspecified,2340,F381311,Diabetic amyotrophy
+DIB_unspecified,39420,F381300,Myasthenic syndrome due to diabetic amyotrophy
+DIB_unspecified,37315,F3y0.00,Diabetic mononeuropathy
+DIB_unspecified,1323,F420.00,Diabetic retinopathy
+DIB_unspecified,3286,F420100,Proliferative diabetic retinopathy
+DIB_unspecified,2986,F420200,Preproliferative diabetic retinopathy
+DIB_unspecified,10099,F420300,Advanced diabetic maculopathy
+DIB_unspecified,3837,F420400,Diabetic maculopathy
+DIB_unspecified,10755,F420600,Non proliferative diabetic retinopathy
+DIB_unspecified,30477,F420700,High risk proliferative diabetic retinopathy
+DIB_unspecified,65463,F420800,High risk non proliferative diabetic retinopathy
+DIB_unspecified,11626,F420z00,Diabetic retinopathy NOS
+DIB_unspecified,2471,K01x100,Nephrotic syndrome in diabetes mellitus
+DIB_unspecified,45499,K01x111,Kimmelstiel - Wilson disease
+DIB_T1D,50960,L180500,"Pre-existing diabetes mellitus, insulin-dependent"
+DIB_T2D,50609,L180600,"Pre-existing diabetes mellitus, non-insulin-dependent"
+DIB_unspecified,109133,L180700,Pre-existing malnutrition-related diabetes mellitus
+DIB_unspecified,55431,L180X00,"Pre-existing diabetes mellitus, unspecified"
+GALL,6551,14C7.11,H/O: gallbladder disease
+GALL,17363,14C7.00,H/O: biliary disease
+GALL,12140,14CE.00,H/O: gall stones
+GALL,4429,4G2..00,O/E: gall stone
+GALL,61996,4G21.00,O/E: cholesterol gall stone
+GALL,42694,4G2Z.00,O/E: gall stone NOS
+GALL,45725,B715200,Benign neoplasm of gallbladder
+GALL,760,J64..15,Gallstones
+GALL,3599,J64..00,Cholelithiasis
+GALL,8620,J64..14,Gallbladder calculus
+GALL,17323,J64..16,Stone - biliary
+GALL,29142,J64..11,Bile duct calculus
+GALL,35469,J64..13,Cystic duct calculus
+GALL,40075,J64..12,Calculus - biliary
+GALL,35046,J640.00,Gallbladder calculus with acute cholecystitis
+GALL,63208,J640000,Gallbladder calculus with acute cholecystitis +no obstruct
+GALL,63208,J640000,Gallbladder calculus with acute cholecystitis +no obstruct
+GALL,48587,J640100,Gallbladder calculus with acute cholecystitis + obstruction
+GALL,64132,J640z00,Gallbladder calculus with acute cholecystitis - obst NOS
+GALL,4416,J642.11,Gallbladder calculus without mention of cholecystitis
+GALL,12438,J642.00,Gallbladder calculus without mention of cholecystitis
+GALL,54853,J642000,Gallbladder calculus without mention cholecystitis +no obstr
+GALL,15602,J642z00,Gallbladder calculus without cholecystitis and obstruct NOS
+GALL,31783,J652.00,Obstruction of gallbladder
+GALL,23089,J656.00,Cholesterolosis of gallbladder
+GALL,51909,J656.11,Strawberry gallbladder
+GALL,57323,J65y.00,Other specified gallbladder disorders
+GALL,15484,J65yA00,Nonfunctioning gallbladder
+GALL,16772,J65yC00,Polyp of gallbladder
+GALL,12316,J670500,Gallstone acute pancreatitis
+GALL,42278,J671100,Gallstone chronic pancreatitis

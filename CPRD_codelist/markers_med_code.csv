@@ -1,0 +1,580 @@
+Desc,Type,symptom,medcode,readcode
+abdominal distension symptom,read_v2,ABDO_BLOAT,6229,19A..00
+abdomen feels bloated,read_v2,ABDO_BLOAT,29567,19A2.00
+abdomen feels distended,read_v2,ABDO_BLOAT,2657,19A3.00
+abd. distension symptom nos,read_v2,ABDO_BLOAT,41607,19AZ.00
+wind symptom,read_v2,ABDO_BLOAT,5821,19B..12
+wind symptom,read_v2,ABDO_BLOAT,5949,19B..15
+wind symptom,read_v2,ABDO_BLOAT,6216,19B..11
+wind symptom,read_v2,ABDO_BLOAT,12202,19B..14
+wind symptom,read_v2,ABDO_BLOAT,14858,19B..00
+wind symptom,read_v2,ABDO_BLOAT,19388,19B..13
+excessive flatulence,read_v2,ABDO_BLOAT,8003,19B2.00
+excessive eructation,read_v2,ABDO_BLOAT,57585,19B4.00
+"[d]flatulence, eructation and gas pain",read_v2,ABDO_BLOAT,14807,R073.00
+[d]flatulence,read_v2,ABDO_BLOAT,10952,R073000
+[d]eructation,read_v2,ABDO_BLOAT,15775,R073100
+"[d]abdominal distension, gaseous",read_v2,ABDO_BLOAT,14880,R073300
+[d]bloating,read_v2,ABDO_BLOAT,5150,R073400
+"[d]flatulence, eructation and gas pain nos",read_v2,ABDO_BLOAT,15920,R073z11
+"[d]flatulence, eructation and gas pain nos",read_v2,ABDO_BLOAT,41564,R073z00
+O/E - abdominal mass palpated,read_v2,ABDO_LUMP,8731,25J..00
+Right iliac fossa mass,read_v2,ABDO_LUMP,20827,25J7.00
+O/E left lower abdominal mass,read_v2,ABDO_LUMP,21575,25J8.00
+O/E - abd. mass palpated NOS,read_v2,ABDO_LUMP,56675,25JZ.00
+O/E-abdominal mass consistency,read_v2,ABDO_LUMP,21301,25K..00
+O/E - abdominal mass-pulsatile,read_v2,ABDO_LUMP,17246,25K4.00
+O/E - abdominal mass shape,read_v2,ABDO_LUMP,20387,25L..00
+O/E - dullness over abd. mass,read_v2,ABDO_LUMP,64153,25R3.00
+Biopsy of abdominal mass,read_v2,ABDO_LUMP,34238,7H2C500
+"[D]Swelling, mass or lump within abdomen or pelvis",read_v2,ABDO_LUMP,5838,R093.00
+[D]Abdominal swelling,read_v2,ABDO_LUMP,4800,R093000
+[D]Abdominal mass,read_v2,ABDO_LUMP,3015,R093100
+[D]Abdominal mass,read_v2,ABDO_LUMP,53736,R093111
+[D]Abdominal lump,read_v2,ABDO_LUMP,7073,R093200
+"[D]Swelling, mass or lump within abdomen or pelvis NOS",read_v2,ABDO_LUMP,16370,R093z00
+Intestinal obstruction without mention of hernia,read_v2,ABDO_OBSTRUCT,20471,J50..00
+Other intestinal obstruction,read_v2,ABDO_OBSTRUCT,18240,J50y.11
+Other intestinal obstruction,read_v2,ABDO_OBSTRUCT,42547,J50y.00
+Intestinal adhesions with obstruction,read_v2,ABDO_OBSTRUCT,29118,J50y000
+Other intestinal obstruction NOS,read_v2,ABDO_OBSTRUCT,33759,J50yz00
+Intestinal obstruction NOS,read_v2,ABDO_OBSTRUCT,935,J50z.00
+Acute intestinal obstruction,read_v2,ABDO_OBSTRUCT,28322,J50z400
+Subacute intestinal obstructuon,read_v2,ABDO_OBSTRUCT,1307,J50z500
+Intestinal obstruction NOS,read_v2,ABDO_OBSTRUCT,1221,J50zz15
+Intestinal obstruction NOS,read_v2,ABDO_OBSTRUCT,1347,J50zz13
+Intestinal obstruction NOS,read_v2,ABDO_OBSTRUCT,1544,J50zz00
+Intestinal obstruction NOS,read_v2,ABDO_OBSTRUCT,18789,J50zz11
+Intestinal obstruction NOS,read_v2,ABDO_OBSTRUCT,21568,J50zz12
+Intestinal obstruction NOS,read_v2,ABDO_OBSTRUCT,21648,J50zz14
+Intestinal obstruction as a complication of care NOS,read_v2,ABDO_OBSTRUCT,23478,SP14400
+retrosternal pain,read_v2,ABDO_PAIN,1228,1829
+type of git pain,read_v2,ABDO_PAIN,1976,196..11
+type of git pain,read_v2,ABDO_PAIN,6395,196..12
+type of git pain,read_v2,ABDO_PAIN,14989,196..00
+colicky abdominal pain,read_v2,ABDO_PAIN,7812,1962
+non-colicky abdominal pain,read_v2,ABDO_PAIN,5691,1963
+abdominal discomfort,read_v2,ABDO_PAIN,2383,1968
+abdominal pain,read_v2,ABDO_PAIN,177,1969
+abdominal wall pain,read_v2,ABDO_PAIN,29352,1969000
+type of git pain nos,read_v2,ABDO_PAIN,44484,196Z.00
+flank pain,read_v2,ABDO_PAIN,421,197..12
+flank pain,read_v2,ABDO_PAIN,5960,197..13
+flank pain,read_v2,ABDO_PAIN,6357,197..14
+flank pain,read_v2,ABDO_PAIN,7490,197..11
+flank pain,read_v2,ABDO_PAIN,25118,197..00
+central abdominal pain,read_v2,ABDO_PAIN,4617,1971
+epigastric pain,read_v2,ABDO_PAIN,290,1972
+left subcostal pain,read_v2,ABDO_PAIN,23872,1973
+right subcostal pain,read_v2,ABDO_PAIN,24821,1974
+left flank pain,read_v2,ABDO_PAIN,701,1975
+right flank pain,read_v2,ABDO_PAIN,3086,1976
+right iliac fossa pain,read_v2,ABDO_PAIN,1181,1977
+left iliac fossa pain,read_v2,ABDO_PAIN,2982,1978
+suprapubic pain,read_v2,ABDO_PAIN,7300,1979
+generalised abdominal pain,read_v2,ABDO_PAIN,11070,197A.11
+generalised abdominal pain,read_v2,ABDO_PAIN,24661,197A.00
+upper abdominal pain,read_v2,ABDO_PAIN,3978,197B.00
+lower abdominal pain,read_v2,ABDO_PAIN,22608,197C.00
+right upper quadrant pain,read_v2,ABDO_PAIN,9695,197D.00
+site of git pain nos,read_v2,ABDO_PAIN,29922,197Z.00
+c/o - loin pain,read_v2,ABDO_PAIN,526,1A53.11
+c/o - loin pain,read_v2,ABDO_PAIN,2600,1A53.13
+c/o - loin pain,read_v2,ABDO_PAIN,5899,1A53.12
+c/o - loin pain,read_v2,ABDO_PAIN,6222,1A53.00
+griping pain,read_v2,ABDO_PAIN,17324,1DC5.00
+o/e - umbilical pain on palp.,read_v2,ABDO_PAIN,5782,25C..15
+o/e - umbilical pain on palp.,read_v2,ABDO_PAIN,15180,25C..00
+o/e - umbilical pain on palp.,read_v2,ABDO_PAIN,17223,25C..12
+o/e - umbilical pain on palp.,read_v2,ABDO_PAIN,17636,25C..14
+o/e - umbilical pain on palp.,read_v2,ABDO_PAIN,19020,25C..13
+o/e - umbilical pain on palp.,read_v2,ABDO_PAIN,20640,25C..11
+o/e - abd.pain-r.hypochondrium,read_v2,ABDO_PAIN,12639,25C2.00
+o/e - abd. pain - epigastrium,read_v2,ABDO_PAIN,19223,25C3.00
+o/e - abd.pain-l.hypochondrium,read_v2,ABDO_PAIN,37101,25C4.00
+o/e - abd. pain - r.lumbar,read_v2,ABDO_PAIN,36558,25C5.00
+o/e - abd. pain - umbilical,read_v2,ABDO_PAIN,24627,25C6.00
+o/e - abd. pain - l.lumbar,read_v2,ABDO_PAIN,25630,25C7.00
+o/e - abd. pain - r.iliac,read_v2,ABDO_PAIN,11647,25C8.00
+o/e - abd. pain - hypogastrium,read_v2,ABDO_PAIN,42211,25C9.00
+o/e - abd. pain - l.iliac,read_v2,ABDO_PAIN,21583,25CA.00
+o/e -abd.pain on palpation nos,read_v2,ABDO_PAIN,14916,25CZ.00
+o/e - guarding of abdomen,read_v2,ABDO_PAIN,24584,25D..11
+o/e - guarding of abdomen,read_v2,ABDO_PAIN,34301,25D..00
+o/e - guarding-r.hypochondrium,read_v2,ABDO_PAIN,42195,25D2.00
+o/e - guarding - epigastrium,read_v2,ABDO_PAIN,42235,25D3.00
+o/e - guarding-l.hypochondrium,read_v2,ABDO_PAIN,56094,25D4.00
+o/e - guarding - umbilical,read_v2,ABDO_PAIN,62933,25D6.00
+o/e - guarding - r.iliac,read_v2,ABDO_PAIN,35876,25D8.00
+o/e - guarding - hypogastrium,read_v2,ABDO_PAIN,56084,25D9.00
+o/e - guarding - l.iliac,read_v2,ABDO_PAIN,56085,25DA.00
+o/e -guarding on palpation nos,read_v2,ABDO_PAIN,71471,25DZ.00
+o/e - rebound tenderness,read_v2,ABDO_PAIN,17451,25E..00
+o/e - rebound tenderness nos,read_v2,ABDO_PAIN,56091,25EZ.00
+o/e - abdominal rigidity,read_v2,ABDO_PAIN,50590,25F..00
+o/e - acute abdomen,read_v2,ABDO_PAIN,15656,25F2.11
+o/e - acute abdomen,read_v2,ABDO_PAIN,62922,25F2.00
+O/E - tenderness/pain,read_v2,ABDO_PAIN,5804,2I18.12
+O/E - tenderness/pain,read_v2,ABDO_PAIN,15213,2I18.00
+O/E - tenderness/pain,read_v2,ABDO_PAIN,16546,2I18.11
+tenderness of epigastrium,read_v2,ABDO_PAIN,13626,2I18100
+psychogenic pain unspecified,read_v2,ABDO_PAIN,53766,E278000
+[d]gas pain (abdominal),read_v2,ABDO_PAIN,28285,R073200
+[d]abdominal pain,read_v2,ABDO_PAIN,1763,R090.00
+[d]abdominal tenderness,read_v2,ABDO_PAIN,16402,R090000
+[d]abdominal colic,read_v2,ABDO_PAIN,2056,R090100
+[d]colic nos,read_v2,ABDO_PAIN,1239,R090200
+[d]evening colic,read_v2,ABDO_PAIN,6989,R090300
+[d]evening colic,read_v2,ABDO_PAIN,23756,R090311
+[d]evening colic,read_v2,ABDO_PAIN,45802,R090312
+[d]abdominal cramps,read_v2,ABDO_PAIN,716,R090400
+[d]epigastric pain,read_v2,ABDO_PAIN,542,R090500
+[d]umbilical pain,read_v2,ABDO_PAIN,4771,R090600
+[d]hypochondrial pain,read_v2,ABDO_PAIN,628,R090700
+[d]suprapubic pain,read_v2,ABDO_PAIN,20475,R090800
+[d]pain in right iliac fossa,read_v2,ABDO_PAIN,16806,R090900
+[d]pain in left iliac fossa,read_v2,ABDO_PAIN,16868,R090A00
+[d]loin pain,read_v2,ABDO_PAIN,15288,R090C00
+[d]recurrent acute abdominal pain,read_v2,ABDO_PAIN,2234,R090E00
+[d]acute abdomen,read_v2,ABDO_PAIN,948,R090F00
+[d]upper abdominal pain,read_v2,ABDO_PAIN,8436,R090H00
+[d]right upper quadrant pain,read_v2,ABDO_PAIN,7726,R090J00
+[d]left upper quadrant pain,read_v2,ABDO_PAIN,8362,R090K00
+[d]left lower quadrant pain,read_v2,ABDO_PAIN,9061,R090L00
+[d]right lower quadrant pain,read_v2,ABDO_PAIN,19360,R090M00
+[d]nonspecific abdominal pain,read_v2,ABDO_PAIN,19283,R090N00
+[d]functional abdominal pain syndrome,read_v2,ABDO_PAIN,103540,R090P00
+[d]other specified abdominal pain,read_v2,ABDO_PAIN,31062,R090y00
+[d]abdominal pain nos,read_v2,ABDO_PAIN,3338,R090z00
+[d]abdominal rigidity,read_v2,ABDO_PAIN,43055,R094.00
+[d]acute abdomen,read_v2,ABDO_PAIN,54385,R096.00
+[x]pain localized to other parts of lower abdomen,read_v2,ABDO_PAIN,50662,Ryu1000
+[x]other and unspecified abdominal pain,read_v2,ABDO_PAIN,52402,Ryu1100
+O/E - no abd.pain on palpation,read_v2,ABDO_PAIN,21574,25C1.00
+O/E - abdominal rigidity NOS,read_v2,ABDO_PAIN,73235,25FZ.00
+git symptom changes,read_v2,CHANGE_BH,62248,6643
+altered bowel habit,read_v2,CHANGE_BH,910,19EA.00
+altered bowel habit,read_v2,CHANGE_BH,19690,19EA.11
+[d]change in bowel habit,read_v2,CHANGE_BH,16665,R078.00
+Constipation,read_v2,CONS,1028,19C..00
+Constipation,read_v2,CONS,2004,19C..11
+Constipation,read_v2,CONS,34747,19C..12
+Constipated,read_v2,CONS,17652,19C2.00
+Constipation NOS,read_v2,CONS,20450,19CZ.00
+Faecal impaction,read_v2,CONS,10687,J503100
+Constipation - functional,read_v2,CONS,1709,J520.00
+Acute constipation,read_v2,CONS,23641,J520000
+Chronic constipation with overflow,read_v2,CONS,6364,J520100
+Chronic constipation without overflow,read_v2,CONS,25797,J520200
+Drug induced constipation,read_v2,CONS,26022,J520300
+Chronic constipation,read_v2,CONS,99999,J520400
+Other specified constipation,read_v2,CONS,24180,J520y00
+Constipation NOS,read_v2,CONS,5803,J520z00
+Diarrhoea symptoms,read_v2,DIARR,192,19F..11
+Diarrhoea symptoms,read_v2,DIARR,1695,19F..12
+Diarrhoea symptoms,read_v2,DIARR,5134,19F..00
+Diarrhoea,read_v2,DIARR,4343,19F2.00
+Spurious (overflow) diarrhoea,read_v2,DIARR,21294,19F3.00
+Diarrhoea and vomiting,read_v2,DIARR,7644,19G..00
+Diarrhoea due to staphylococcus,read_v2,DIARR,41374,A074000
+Diarrhoea due to staphylococcus,read_v2,DIARR,53739,A074011
+Diarrhoea due to staphylococcus,read_v2,DIARR,61519,A074012
+Viral diarrhoea,read_v2,DIARR,5536,A076.00
+Viral diarrhoea,read_v2,DIARR,15289,A076.11
+Viral diarrhoea,read_v2,DIARR,15933,A076.12
+Infectious diarrhoea,read_v2,DIARR,4542,A082.00
+Infectious diarrhoea,read_v2,DIARR,11155,A082.11
+Dysenteric diarrhoea,read_v2,DIARR,2133,A082000
+Infectious diarrhoea NOS,read_v2,DIARR,48313,A082z00
+Diarrhoea of presumed infectious origin,read_v2,DIARR,5090,A083.00
+Diarrhoea of presumed infectious origin,read_v2,DIARR,14665,A083.11
+Diarrhoea of presumed infectious origin,read_v2,DIARR,16595,A083.12
+[X]Diarrhoea and gastroenteritis of presumed infectious origin,read_v2,DIARR,52750,Ayu0H00
+Psychogenic diarrhoea,read_v2,DIARR,10158,E264311
+Psychogenic diarrhoea,read_v2,DIARR,15371,E264300
+Noninfective diarrhoea,read_v2,DIARR,1561,J4...11
+Noninfective diarrhoea,read_v2,DIARR,1796,J4...12
+Noninfective diarrhoea,read_v2,DIARR,5473,J4...00
+Noninfective diarrhoea,read_v2,DIARR,6016,J4...13
+Chronic diarrhoea,read_v2,DIARR,6685,J43z.11
+Chronic diarrhoea,read_v2,DIARR,20343,J43z.00
+Presumed noninfectious diarrhoea,read_v2,DIARR,30321,J4z..11
+Presumed noninfectious diarrhoea,read_v2,DIARR,42477,J4z..00
+Diarrhoea - presumed non-infectious,read_v2,DIARR,12377,J4zz.00
+Diarrhoea - presumed non-infectious,read_v2,DIARR,17017,J4zz.11
+Irritable bowel syndrome with diarrhoea,read_v2,DIARR,29835,J521000
+Functional diarrhoea,read_v2,DIARR,5036,J525.00
+[D] Stools loose,read_v2,DIARR,14881,R077100
+Diarrhoea symptom NOS,read_v2,DIARR,2182,19FZ.11
+Diarrhoea symptom NOS,read_v2,DIARR,14695,19FZ.00
+Viral gastroenteritis,read_v2,DIARR,3107,A07y000
+Gastric flu,read_v2,DIARR,6046,A08..11
+Gastric flu,read_v2,DIARR,25675,A08..00
+Infectious gastroenteritis,read_v2,DIARR,10294,A080300
+Viral gastroenteritis,read_v2,DIARR,20569,A082111
+Viral gastroenteritis,read_v2,DIARR,36613,A082100
+[X]Other specified noninfective gastroenteritis+colitis,read_v2,DIARR,103290,Jyu4200
+Diverticulitis,read_v2,DIV,347,J511.00
+Diverticulosis of the colon,read_v2,DIV,1101,J510500
+Bleeding diverticulosis,read_v2,DIV,2044,J510900
+Diverticulosis of the large intestine NOS,read_v2,DIV,2536,J510700
+Diverticulosis of the duodenum,read_v2,DIV,3538,J510000
+Diverticulosis,read_v2,DIV,3593,J510.00
+Diverticular abscess,read_v2,DIV,5686,J513.00
+Diverticular disease,read_v2,DIV,5857,J51..11
+Diverticular disease,read_v2,DIV,8322,J51..00
+Diverticulosis NOS,read_v2,DIV,7662,J510z00
+Diverticula of the intestine NOS,read_v2,DIV,9511,J51z.00
+Diverticulitis NOS,read_v2,DIV,10437,J511z00
+Diverticulitis of the colon,read_v2,DIV,10483,J511500
+Diverticulitis of the duodenum,read_v2,DIV,12345,J511000
+Perforated diverticulum,read_v2,DIV,14942,J512.00
+Divertic dis/both sml+lge intestin without perfor or abscess,read_v2,DIV,17105,J510800
+Diverticulitis unspecified,read_v2,DIV,19935,J511y00
+Diverticulosis of the jejunum,read_v2,DIV,27444,J510100
+Diverticulitis of the small intestine unspecified,read_v2,DIV,31365,J511300
+Perforated diverticulum of duodenum,read_v2,DIV,37588,J512000
+Perforated diverticulum of colon,read_v2,DIV,37813,J512500
+Divertic disease/both sml+lge intestin with perforat+abscess,read_v2,DIV,38941,J512800
+Perforated diverticulum of ileum,read_v2,DIV,42866,J512200
+Diverticulosis of the ileum,read_v2,DIV,44647,J510200
+Diverticulosis of the small intestine unspecified,read_v2,DIV,47924,J510300
+Perforated diverticulum of jejunum,read_v2,DIV,48173,J512100
+Perforated diverticulum of large intestine unspecified,read_v2,DIV,48589,J512600
+Perforated diverticulum unspecified,read_v2,DIV,49066,J512y00
+Diverticulosis unspecified,read_v2,DIV,49084,J510y00
+Perforated diverticulum of large intestine NOS,read_v2,DIV,50313,J512700
+Diverticulitis of the large intestine unspecified,read_v2,DIV,51511,J511600
+Diverticulosis of the large intestine unspecified,read_v2,DIV,53092,J510600
+Diverticulitis of the ileum,read_v2,DIV,61664,J511200
+Diverticulitis of the jejunum,read_v2,DIV,61722,J511100
+Diverticulitis of the large intestine NOS,read_v2,DIV,62979,J511700
+Perforated diverticulum of intestine NOS,read_v2,DIV,69918,J512z00
+Perforated diverticulum of small intestine unspecified,read_v2,DIV,71130,J512300
+Diverticulitis of the small intestine NOS,read_v2,DIV,72590,J511400
+Diverticulosis of the small intestine NOS,read_v2,DIV,73334,J510400
+Perforated diverticulum of small intestine NOS,read_v2,DIV,106340,J512400
+"c/o """"""""muzzy head""""""""",read_v2,FATIGUE,1816,168..13
+"c/o """"""""muzzy head""""""""",read_v2,FATIGUE,5418,168..14
+"c/o """"""""muzzy head""""""""",read_v2,FATIGUE,5583,168..12
+"c/o """"""""muzzy head""""""""",read_v2,FATIGUE,5794,168..00
+"c/o """"""""muzzy head""""""""",read_v2,FATIGUE,6242,168..11
+fatigue,read_v2,FATIGUE,1404,1682
+tired all the time,read_v2,FATIGUE,5751,1683
+tired all the time,read_v2,FATIGUE,15516,1683.11
+c/o - overwork,read_v2,FATIGUE,9823,1684.11
+c/o - overwork,read_v2,FATIGUE,16790,1684.12
+c/o - overwork,read_v2,FATIGUE,17736,1684
+c/o - overwork,read_v2,FATIGUE,20414,1684.13
+exhaustion,read_v2,FATIGUE,9220,1688
+tiredness symptom nos,read_v2,FATIGUE,29292,168Z.00
+motor symptoms,read_v2,FATIGUE,6029,1B3..12
+motor symptoms,read_v2,FATIGUE,11534,1B3..00
+motor symptoms,read_v2,FATIGUE,13017,1B3..11
+weakness present,read_v2,FATIGUE,2855,1B32.00
+o/e - paresis,read_v2,FATIGUE,11249,2832.11
+o/e - paresis,read_v2,FATIGUE,16479,2832.12
+o/e - paresis,read_v2,FATIGUE,26016,2832
+referral to chronic fatigue syndrome specialist team,read_v2,FATIGUE,99807,8HkW.00
+referral to chronic fatigue syndrome specialist team,read_v2,FATIGUE,100464,8HkW.11
+referral for chronic fatigue syndrome activity management,read_v2,FATIGUE,100414,8HlL.00
+referral for chronic fatigue syndrome activity management,read_v2,FATIGUE,104407,8HlL.11
+activity management for chronic fatigue syndrome,read_v2,FATIGUE,97140,8Q1..00
+activity management for chronic fatigue syndrome,read_v2,FATIGUE,97528,8Q1..11
+nervous exhaustion,read_v2,FATIGUE,1582,E205.11
+nervous exhaustion,read_v2,FATIGUE,3361,E205.00
+nervous exhaustion,read_v2,FATIGUE,7235,E205.12
+[x]neurasthenia,read_v2,FATIGUE,9656,Eu46011
+[x]neurasthenia,read_v2,FATIGUE,16561,Eu46000
+chronic fatigue syndrome,read_v2,FATIGUE,1040,F286.15
+chronic fatigue syndrome,read_v2,FATIGUE,4546,F286.00
+chronic fatigue syndrome,read_v2,FATIGUE,6190,F286.12
+chronic fatigue syndrome,read_v2,FATIGUE,6552,F286.16
+chronic fatigue syndrome,read_v2,FATIGUE,7529,F286.11
+chronic fatigue syndrome,read_v2,FATIGUE,9127,F286.14
+chronic fatigue syndrome,read_v2,FATIGUE,27877,F286.13
+mild chronic fatigue syndrome,read_v2,FATIGUE,98512,F286000
+moderate chronic fatigue syndrome,read_v2,FATIGUE,97284,F286100
+severe chronic fatigue syndrome,read_v2,FATIGUE,98734,F286200
+[d]malaise and fatigue,read_v2,FATIGUE,44215,R007.00
+[d]malaise,read_v2,FATIGUE,5658,R007000
+[d]fatigue,read_v2,FATIGUE,1688,R007100
+[d]asthenia nos,read_v2,FATIGUE,5049,R007200
+[d]asthenia nos,read_v2,FATIGUE,9889,R007211
+[d]lethargy,read_v2,FATIGUE,1371,R007300
+[d]post viral debility,read_v2,FATIGUE,1042,R007400
+[d]post viral debility,read_v2,FATIGUE,12411,R007411
+[d]tiredness,read_v2,FATIGUE,1147,R007500
+[d]overwork,read_v2,FATIGUE,5814,R007z11
+[d]overwork,read_v2,FATIGUE,7382,R007z14
+[d]overwork,read_v2,FATIGUE,23932,R007z00
+[d]overwork,read_v2,FATIGUE,24354,R007z12
+[d]overwork,read_v2,FATIGUE,29527,R007z13
+[d]senile exhaustion,read_v2,FATIGUE,24382,R204.00
+[d] self neglect,read_v2,FATIGUE,1900,R2y3.00
+[d] self neglect,read_v2,FATIGUE,2777,R2y3.11
+Ill,read_v2,FATIGUE,1746,16E..00
+Ill,read_v2,FATIGUE,11390,16E..12
+Ill,read_v2,FATIGUE,13048,16E..11
+Myalgic encephalomyelitis,read_v2,FATIGUE,4364,F03y.12
+Myalgic encephalomyelitis,read_v2,FATIGUE,53080,F03y.00
+Myalgic encephalomyelitis,read_v2,FATIGUE,61707,F03y.11
+"Heat fatigue, transient",read_v2,FATIGUE,28018,SN26.00
+Excision of haemorrhoid,read_v2,HAEMR,648,7734.12
+Excision of haemorrhoid,read_v2,HAEMR,9578,7734.11
+Excision of haemorrhoid,read_v2,HAEMR,20334,7734
+Haemorrhoidectomy,read_v2,HAEMR,7713,7734000
+Haemorrhoidectomy,read_v2,HAEMR,49152,7734011
+Partial internal sphincterotomy for haemorrhoid,read_v2,HAEMR,21184,7734100
+Stapled haemorrhoidectomy,read_v2,HAEMR,54354,7734200
+Other specified excision of haemorrhoid,read_v2,HAEMR,37528,7734y00
+Excision of haemorrhoid NOS,read_v2,HAEMR,35672,7734z00
+Destruction of haemorrhoid,read_v2,HAEMR,18990,7735.11
+Destruction of haemorrhoid,read_v2,HAEMR,21796,7735
+Infrared photocoagulation of pile,read_v2,HAEMR,27920,7735111
+Infrared photocoagulation of pile,read_v2,HAEMR,39639,7735100
+Injection of sclerosing substance into haemorrhoid,read_v2,HAEMR,647,7735200
+Rubber band ligation of haemorrhoid,read_v2,HAEMR,3199,7735300
+Stapling of haemorrhoid,read_v2,HAEMR,30544,7735400
+Ligation of haemorrhoidal artery,read_v2,HAEMR,96232,7735500
+Other specified destruction of haemorrhoid,read_v2,HAEMR,36793,7735y00
+Destruction of haemorrhoid NOS,read_v2,HAEMR,37535,7735z00
+Other pile operations,read_v2,HAEMR,453,7736
+Other pile operations,read_v2,HAEMR,17306,7736.11
+Evacuation of perianal haematoma,read_v2,HAEMR,3122,7736000
+Evacuation of perianal haematoma,read_v2,HAEMR,10848,7736011
+Forced manual dilation of anus for haemorrhoid,read_v2,HAEMR,34190,7736100
+Manual reduction of prolapsed haemorrhoid,read_v2,HAEMR,37420,7736211
+Manual reduction of prolapsed haemorrhoid,read_v2,HAEMR,38679,7736200
+Other specified other operation on haemorrhoid,read_v2,HAEMR,36973,7736y00
+Other specified other operation on haemorrhoid,read_v2,HAEMR,51896,7736y11
+Other operation on haemorrhoid NOS,read_v2,HAEMR,36122,7736z00
+Haemorrhoids,read_v2,HAEMR,195,G84..00
+Haemorrhoids,read_v2,HAEMR,3833,G84..11
+"Internal haemorrhoids, simple",read_v2,HAEMR,5763,G840.00
+Internal thrombosed haemorrhoids,read_v2,HAEMR,29961,G841.00
+Internal haemorrhoids with other complications,read_v2,HAEMR,30716,G842.00
+Internal bleeding haemorrhoids,read_v2,HAEMR,9761,G842000
+Internal prolapsed haemorrhoids,read_v2,HAEMR,3178,G842100
+Internal strangulated haemorrhoids,read_v2,HAEMR,5593,G842200
+Internal ulcerated haemorrhoids,read_v2,HAEMR,38850,G842300
+First degree internal haemorrhoids,read_v2,HAEMR,102387,G842400
+Second degree internal haemorrhoids,read_v2,HAEMR,102411,G842500
+Third degree internal haemorrhoids,read_v2,HAEMR,102561,G842600
+Fourth degree internal haemorrhoids,read_v2,HAEMR,103433,G842700
+Internal haemorrhoids with other complications NOS,read_v2,HAEMR,55438,G842z00
+"External haemorrhoids, simple",read_v2,HAEMR,1012,G843.00
+External thrombosed haemorrhoids,read_v2,HAEMR,6045,G844.00
+External thrombosed haemorrhoids,read_v2,HAEMR,7096,G844.11
+External haemorrhoids with other complications,read_v2,HAEMR,21811,G845.00
+External bleeding haemorrhoids,read_v2,HAEMR,15257,G845000
+External prolapsed haemorrhoids,read_v2,HAEMR,17626,G845100
+External strangulated haemorrhoids,read_v2,HAEMR,31506,G845200
+External ulcerated haemorrhoids,read_v2,HAEMR,60688,G845300
+External haemorrhoids with other complications NOS,read_v2,HAEMR,36778,G845z00
+Unspecified simple haemorrhoids,read_v2,HAEMR,26884,G846.00
+Thrombosed haemorrhoids NOS,read_v2,HAEMR,3556,G847.00
+Haemorrhoids with other complications NOS,read_v2,HAEMR,37530,G848.00
+Bleeding haemorrhoids NOS,read_v2,HAEMR,2832,G848000
+Prolapsed haemorrhoids NOS,read_v2,HAEMR,17806,G848100
+Strangulated haemorrhoids NOS,read_v2,HAEMR,31198,G848200
+Ulcerated haemorrhoids NOS,read_v2,HAEMR,48770,G848300
+Haemorrhoids with other complications NOS,read_v2,HAEMR,41101,G848z00
+Residual haemorrhoidal skin tags,read_v2,HAEMR,16107,G849.00
+Haemorrhoids NOS,read_v2,HAEMR,2096,G84z.00
+Other specified haemorrhoids,read_v2,HAEMR,112268,G84z000
+[X]Internal haemorrhoids with other complications,read_v2,HAEMR,98413,Gyu8300
+[X]External haemorrhoids with other complications,read_v2,HAEMR,53886,Gyu8400
+[X]Unspecified haemorrhoids with other complications,read_v2,HAEMR,106050,Gyu8500
+Piles - obstetric,read_v2,HAEMR,6560,L416.00
+Piles - obstetric,read_v2,HAEMR,17911,L416.11
+Haemorrhoids in pregnancy and the puerperium unspecified,read_v2,HAEMR,56217,L416000
+Haemorrhoids in pregnancy and the puerperium - delivered,read_v2,HAEMR,63773,L416100
+Haemorrhoids in pregnancy and the puerperium - delivered with postnatal complication,read_v2,HAEMR,68840,L416200
+Haemorrhoids in pregnancy and the puerperium with antenatal complication,read_v2,HAEMR,103144,L416300
+Haemorrhoids in pregnancy and the puerperium with postnatal complication,read_v2,HAEMR,109550,L416400
+Haemorrhoids in the puerperium,read_v2,HAEMR,61573,L416500
+Haemorrhoids in pregnancy,read_v2,HAEMR,29786,L416600
+Haemorrhoids in pregnancy and the puerperium NOS,read_v2,HAEMR,90329,L416z00
+Perianal haematoma,read_v2,HAEMR,3600,SE23111
+Perianal haematoma,read_v2,HAEMR,6998,SE23100
+Perianal haematoma,read_v2,HAEMR,29126,SE23113
+Perianal haematoma,read_v2,HAEMR,30733,SE23112
+Irritable bowel syndrome,read_v2,IBS,451,J521.11
+Irritable bowel syndrome,read_v2,IBS,923,J521.00
+Irritable bowel syndrome,read_v2,IBS,2153,J521.13
+Irritable bowel syndrome,read_v2,IBS,70718,J521.12
+Irritable bowel syndrome with diarrhoea,read_v2,IBS,29835,J521000
+Irritable bowel syndrome characterised by constipation,read_v2,IBS,109116,J521100
+Irritable bowel syndrome characterised by alternating bowel habit,read_v2,IBS,109691,J521200
+Management of IBS (too general?),read_v2,IBS,104591,8Cm..00
+History of irritable bowel syndrome,read_v2,IBS,30630,14CF.00
+Pseudomembranous colitis,read_v2,IBS,29435,J431300
+Pseudomembranous colitis,read_v2,IBS,37022,J431311
+Pseudomembranous colitis,read_v2,IBS,8645,J434.00
+Yellow/jaundiced colour,read_v2,JAUNDICE,6000,1675.11
+Yellow/jaundiced colour,read_v2,JAUNDICE,18019,1675.12
+Yellow/jaundiced colour,read_v2,JAUNDICE,25418,1675
+O/E - jaundiced colour,read_v2,JAUNDICE,5996,2274.11
+O/E - jaundiced colour,read_v2,JAUNDICE,29488,2274
+O/E: blood looks deep yellow,read_v2,JAUNDICE,73695,4223
+Acholuric familial jaundice,read_v2,JAUNDICE,7237,D100.00
+Acholuric familial jaundice,read_v2,JAUNDICE,39682,D100.11
+Acholuric familial jaundice,read_v2,JAUNDICE,64619,D100.12
+Obstructive jaundice NOS,read_v2,JAUNDICE,3121,J66y600
+[D]Jaundice (not of newborn),read_v2,JAUNDICE,355,R024.00
+[D]Cholaemia NOS,read_v2,JAUNDICE,5300,R024000
+[D]Icterus NOS,read_v2,JAUNDICE,2612,R024111
+[D]Icterus NOS,read_v2,JAUNDICE,18574,R024100
+[D]Jaundice (not of newborn) NOS,read_v2,JAUNDICE,38877,R024z00
+C/O perineal pain,read_v2,PELVIC_PAIN,29400,1A5A.00
+Ischiopubic synchondrosis,read_v2,PELVIC_PAIN,23715,N321200
+Bony pelvic pain,read_v2,PELVIC_PAIN,4706,N33A000
+[D] Perineal pain,read_v2,PELVIC_PAIN,7248,R090G12
+[D] Perineal pain,read_v2,PELVIC_PAIN,9811,R090G11
+[D] Perineal pain,read_v2,PELVIC_PAIN,9920,R090G00
+Groin sprain,read_v2,PELVIC_PAIN,3419,S53..11
+Groin sprain,read_v2,PELVIC_PAIN,8392,S53..12
+Groin sprain,read_v2,PELVIC_PAIN,9629,S53..13
+Groin sprain,read_v2,PELVIC_PAIN,10623,S53..14
+Groin sprain,read_v2,PELVIC_PAIN,31665,S53..00
+Painful rectal bleeding,read_v2,RECTAL_BLEED,11718,196B.00
+Painless rectal bleeding,read_v2,RECTAL_BLEED,11698,196C.00
+Blood in faeces,read_v2,RECTAL_BLEED,5462,19E6.00
+Blood in faeces,read_v2,RECTAL_BLEED,6151,19E6.11
+Blood in faeces,read_v2,RECTAL_BLEED,105416,19E6.12
+Blood on toilet paper,read_v2,RECTAL_BLEED,9968,19ED.00
+Blood on pants,read_v2,RECTAL_BLEED,45911,19EG.00
+Faeces: fresh blood present,read_v2,RECTAL_BLEED,14256,4762.11
+Faeces: fresh blood present,read_v2,RECTAL_BLEED,44004,4762
+Faecal occult blood: trace,read_v2,RECTAL_BLEED,40901,4793
+Faecal occult blood: positive,read_v2,RECTAL_BLEED,3053,4794
+Referral to rectal bleeding clinic,read_v2,RECTAL_BLEED,104124,8HTE000
+Bleeding haemorrhoids NOS,read_v2,RECTAL_BLEED,2832,G848000
+Haemorrhage of rectum and anus,read_v2,RECTAL_BLEED,3872,J573.11
+Haemorrhage of rectum and anus,read_v2,RECTAL_BLEED,19271,J573.00
+Rectal haemorrhage,read_v2,RECTAL_BLEED,621,J573011
+Rectal haemorrhage,read_v2,RECTAL_BLEED,6554,J573012
+Rectal haemorrhage,read_v2,RECTAL_BLEED,6574,J573000
+Anal haemorrhage,read_v2,RECTAL_BLEED,32446,J573100
+Haemorrhage of rectum and anus NOS,read_v2,RECTAL_BLEED,46479,J573z00
+Gastrointestinal haemorrhage,read_v2,RECTAL_BLEED,3097,J68..00
+Blood in stool,read_v2,RECTAL_BLEED,397,J681.00
+Blood in stool,read_v2,RECTAL_BLEED,2873,J681.11
+Blood in stool,read_v2,RECTAL_BLEED,20859,J681.13
+Blood in stool,read_v2,RECTAL_BLEED,27862,J681.12
+Gastrointestinal haemorrhage unspecified,read_v2,RECTAL_BLEED,1642,J68z.11
+Gastrointestinal haemorrhage unspecified,read_v2,RECTAL_BLEED,12471,J68z.00
+Intestinal haemorrhage NOS,read_v2,RECTAL_BLEED,2150,J68z100
+Gastrointestinal tract haemorrhage NOS,read_v2,RECTAL_BLEED,4636,J68zz00
+Perinatal rectal haemorrhage,read_v2,RECTAL_BLEED,61761,Q414200
+O/E - PR - rectal mass,read_v2,RECTAL_MASS,1987,25Q3.00
+Open relief of obstruction of colon NEC,read_v2,RECTAL_MASS,50801,771D500
+Ischiorectal hernia with obstruction,read_v2,RECTAL_OBSTRUCT,NA,NA
+Colonic obstruction NOS,read_v2,RECTAL_OBSTRUCT,1221,J50zz15
+Colonic obstruction NOS,read_v2,RECTAL_OBSTRUCT,1347,J50zz13
+Colonic obstruction NOS,read_v2,RECTAL_OBSTRUCT,1544,J50zz00
+Colonic obstruction NOS,read_v2,RECTAL_OBSTRUCT,18789,J50zz11
+Colonic obstruction NOS,read_v2,RECTAL_OBSTRUCT,21568,J50zz12
+Colonic obstruction NOS,read_v2,RECTAL_OBSTRUCT,21648,J50zz14
+Open relief of obstruction of colon NEC,read_v2,RECTAL_OBSTRUCT,50801,771D500
+Appetite symptom,read_v2,STOM_DIS,6099,161..00
+Appetite loss - anorexia,read_v2,STOM_DIS,6607,1612.12
+Appetite loss - anorexia,read_v2,STOM_DIS,7608,1612
+Appetite loss - anorexia,read_v2,STOM_DIS,7744,1612.11
+Reduced appetite,read_v2,STOM_DIS,13081,1615
+Appetite symptom NOS,read_v2,STOM_DIS,14717,161Z.00
+Gastric reflux,read_v2,STOM_DIS,7577,1957
+Upset stomach,read_v2,STOM_DIS,6530,1984
+Upset stomach,read_v2,STOM_DIS,20059,1984.11
+Vomiting,read_v2,STOM_DIS,3992,199..14
+Vomiting,read_v2,STOM_DIS,5881,199..00
+Vomiting,read_v2,STOM_DIS,12772,199..11
+Vomiting,read_v2,STOM_DIS,19913,199..13
+Vomiting,read_v2,STOM_DIS,22161,199..12
+Vomiting,read_v2,STOM_DIS,176,1992
+Vomiting,read_v2,STOM_DIS,20168,1992.12
+Vomiting,read_v2,STOM_DIS,33809,1992.11
+Projectile vomiting,read_v2,STOM_DIS,3380,1993
+Vomiting blood - fresh,read_v2,STOM_DIS,16617,1994.11
+Vomiting blood - fresh,read_v2,STOM_DIS,44489,1994
+Vomiting blood - coffee ground,read_v2,STOM_DIS,44691,1995
+Vomiting - bile stained,read_v2,STOM_DIS,24284,1996
+Vomiting NOS,read_v2,STOM_DIS,37602,199Z.00
+"Diarrhoea & vomiting, symptom",read_v2,STOM_DIS,2182,19FZ.11
+"Diarrhoea & vomiting, symptom",read_v2,STOM_DIS,14695,19FZ.00
+Vomit examination,read_v2,STOM_DIS,16621,4A...00
+"Vomit - O/E, general",read_v2,STOM_DIS,16604,4A1..11
+"Vomit - O/E, general",read_v2,STOM_DIS,57038,4A1..00
+Vomit exam. general NOS,read_v2,STOM_DIS,72676,4A1Z.00
+Vomit appearance,read_v2,STOM_DIS,15951,4A2..00
+Vomit appearance - abnormal,read_v2,STOM_DIS,15964,4A22.00
+Vomit: frank blood present,read_v2,STOM_DIS,43534,4A23.11
+Vomit: frank blood present,read_v2,STOM_DIS,53643,4A23.00
+Vomit: coffee ground,read_v2,STOM_DIS,8344,4A24.11
+Vomit: coffee ground,read_v2,STOM_DIS,43288,4A24.00
+Vomit: bilious,read_v2,STOM_DIS,17600,4A25.11
+Vomit: bilious,read_v2,STOM_DIS,40410,4A25.00
+Vomit: faeculant,read_v2,STOM_DIS,28305,4A26.00
+Vomit: faeculant,read_v2,STOM_DIS,30862,4A26.11
+Vomit: mucous present,read_v2,STOM_DIS,98827,4A27.00
+Vomit: appearance NOS,read_v2,STOM_DIS,72861,4A2Z.00
+Vomit odour,read_v2,STOM_DIS,58105,4A3..00
+Vomit pH NOS,read_v2,STOM_DIS,35626,4A4Z.00
+Vomit occult blood,read_v2,STOM_DIS,40165,4A5..11
+Vomit occult blood,read_v2,STOM_DIS,60151,4A5..00
+Vomit occult blood positive,read_v2,STOM_DIS,63244,4A51.00
+Vomit occult blood NOS,read_v2,STOM_DIS,71101,4A5Z.00
+Vomit toxicology,read_v2,STOM_DIS,49507,4A6..00
+Vomit examination NOS,read_v2,STOM_DIS,71930,4AZ..00
+[SO]Stomach,read_v2,STOM_DIS,9330,7N30100
+Epidemic vomiting syndrome,read_v2,STOM_DIS,12117,A78y111
+Epidemic vomiting syndrome,read_v2,STOM_DIS,41463,A78y100
+Cyclical vomiting - psychogenic,read_v2,STOM_DIS,2871,E264200
+Psychogenic vomiting NOS,read_v2,STOM_DIS,3422,E275400
+Non-organic loss of appetite,read_v2,STOM_DIS,22820,E275600
+[X]Vomiting associated with other psychological disturbances,read_v2,STOM_DIS,6796,Eu50511
+[X]Vomiting associated with other psychological disturbances,read_v2,STOM_DIS,16622,Eu50500
+[X]Psychogenic loss of appetite,read_v2,STOM_DIS,17203,Eu50y12
+[X]Psychogenic loss of appetite,read_v2,STOM_DIS,34995,Eu50y00
+[X]Psychogenic loss of appetite,read_v2,STOM_DIS,62150,Eu50y11
+"Oesophageal, stomach and duodenal diseases",read_v2,STOM_DIS,17954,J1...11
+"Oesophageal, stomach and duodenal diseases",read_v2,STOM_DIS,31473,J1...12
+"Oesophageal, stomach and duodenal diseases",read_v2,STOM_DIS,45503,J1...00
+Disorders of stomach function,read_v2,STOM_DIS,4956,J16..00
+Persistent vomiting,read_v2,STOM_DIS,6752,J162.00
+Persistent vomiting,read_v2,STOM_DIS,52239,J162.11
+Cyclical vomiting NOS,read_v2,STOM_DIS,12383,J162000
+Persistent vomiting NOS,read_v2,STOM_DIS,35707,J162z00
+Other specified stomach function disorders,read_v2,STOM_DIS,45127,J16y.00
+Functional vomiting,read_v2,STOM_DIS,25834,J16y500
+Stomach function disorder NOS,read_v2,STOM_DIS,15521,J16z.00
+Vomiting of blood,read_v2,STOM_DIS,1188,J680.00
+Vomiting of blood,read_v2,STOM_DIS,2712,J680.11
+[D]Appetite loss,read_v2,STOM_DIS,1855,R030000
+[D]Nausea and vomiting,read_v2,STOM_DIS,3416,R070.00
+[D]Vomiting,read_v2,STOM_DIS,5164,R070100
+[D]Vomiting,read_v2,STOM_DIS,15789,R070111
+[D]Drug induced vomiting,read_v2,STOM_DIS,22276,R070300
+[D]Projectile vomiting,read_v2,STOM_DIS,6101,R070400
+[D]Nausea and vomiting NOS,read_v2,STOM_DIS,6936,R070z11
+[D]Nausea and vomiting NOS,read_v2,STOM_DIS,15018,R070z00
+[D]Nausea and vomiting NOS,read_v2,STOM_DIS,20434,R070z12
+Oesopheal reflux without mention of oesophagitis,read_v2,STOM_DIS,984,J10y412
+Oesopheal reflux without mention of oesophagitis,read_v2,STOM_DIS,1327,J10y411
+Oesopheal reflux without mention of oesophagitis,read_v2,STOM_DIS,2281,J10y413
+Oesopheal reflux without mention of oesophagitis,read_v2,STOM_DIS,25610,J10y400
+Weight decreasing,read_v2,WEIGHT_LOSS,654,1623
+Abnormal weight loss,read_v2,WEIGHT_LOSS,4663,1625
+Abnormal weight loss,read_v2,WEIGHT_LOSS,5812,1625.11
+Unintentional weight loss,read_v2,WEIGHT_LOSS,102563,1627
+Complaining of weight loss,read_v2,WEIGHT_LOSS,12398,1D1A.00
+O/E - cachexic,read_v2,WEIGHT_LOSS,22005,2224
+Abnormally thin,read_v2,WEIGHT_LOSS,38995,2287
+O/E - Underweight,read_v2,WEIGHT_LOSS,126,22A6.00
+Weight loss from baseline weight,read_v2,WEIGHT_LOSS,37937,22A8.00
+[D]Abnormal loss of weight,read_v2,WEIGHT_LOSS,3647,R032.00
+[D]Underweight,read_v2,WEIGHT_LOSS,12530,R034800
+[D]Cachexia,read_v2,WEIGHT_LOSS,24068,R2y4.00
+[D]Wasting disease,read_v2,WEIGHT_LOSS,36473,R2y4000
+[D]Cachexia NOS,read_v2,WEIGHT_LOSS,53801,R2y4z00

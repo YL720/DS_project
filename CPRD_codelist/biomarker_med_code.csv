@@ -1,0 +1,68 @@
+Biomarker,medcode,readcode,desc
+Albumin,23,44M4.00,Serum albumin
+Albumin,26892,44M4000,Serum albumin normal
+Albumin,26893,44M4100,Serum albumin low
+Albumin,13708,44MI.00,Plasma albumin level
+CA125,9228,44a1.00,Carbohydrate antigen 125 level
+CA125,14565,44a6.00,CA125 level
+CA125,108230,44a6000,Serum CA 125 (cancer antigen 125) level
+CRP,14067,44CC000,C reactive protein normal
+CRP,19809,44CC100,C reactive protein abnormal
+CRP,14068,44CS.00,Serum C reactive protein level
+CRP,14066,44CC.00,Plasma C reactive protein
+ESR,46,42B6.00,Erythrocyte sedimentation rate
+ESR,25450,42B6000,ESR abnormal
+ESR,57305,42B6100,ESR low
+ESR,27038,42B6200,ESR normal
+ESR,14924,42B6300,ESR raised
+ESR,27037,42B6z00,Erythrocyte sediment rate NOS
+Ferritin,8491,42R4.00,Serum ferritin
+Ferritin,19761,42R4.11,Ferritin - serum
+Ferritin,35548,42R4.12,TIBC - serum
+Ferritin,4566,42R4100,Ferritin level low
+Ferritin,18405,42R4200,Serum ferritin normal
+Ferritin,18698,42R4300,Serum ferritin high
+Ferritin,18384,42d4.00,Plasma ferritin level
+Haematocritperc,99,425..00,Haematocrit - PCV
+Haematocritperc,19836,425..11,Packed cell volume - PCV
+Haematocritperc,27144,4251,Haematocrit - PCV - normal
+Haematocritperc,62347,4252,Haematocrit - borderline high
+Haematocritperc,23476,4253,Haematocrit - PCV - high
+Haematocritperc,27145,4254,Haematocrit - PCV - low
+Haematocritperc,55365,4255,Haematocrit - borderline low
+Haematocritperc,41478,4256,Haematocrit - PCV - abnormal
+Haematocritperc,14240,4257,Packed cell volume
+Haematocritperc,40,4258,Haematocrit
+Haematocritperc,27143,425Z.00,Haematocrit - PCV - NOS
+Haemoglobinconc,4,423..00,Haemoglobin estimation
+Haemoglobinconc,10404,423..11,Hb estimation
+Haemoglobinconc,35749,4234,Haemoglobin very low
+Haemoglobinconc,3942,4235,Haemoglobin low
+Haemoglobinconc,26910,4236,Haemoglobin borderline low
+Haemoglobinconc,26909,4237,Haemoglobin normal
+Haemoglobinconc,26272,4238,Haemoglobin borderline high
+Haemoglobinconc,26913,4239,Haemoglobin high
+Haemoglobinconc,41531,423A.00,Haemoglobin very high
+Haemoglobinconc,26908,423B.00,Haemoglobin abnormal
+Haemoglobinconc,26912,423Z.00,Haemoglobin estimation NOS
+Haemoglobinconc,26911,423C.00,Haemoglobin H inclusion
+MCV,10,42A..00,Mean corpuscular volume (MCV)
+MCV,13774,42A..11,Mean cell volume
+MCV,9933,42C2.00,RBC's - microcytic
+Platelets,7,42P..00,Platelet count
+Platelets,26927,42P1.00,Platelet count normal
+Platelets,4006,42P2.00,Thrombocytopenia
+Platelets,16420,42P2.11,Auto-immune thrombocytopenia
+Platelets,3320,42P3.00,Thrombocythaemia
+Platelets,4415,42P4.00,Platelet count abnormal
+Platelets,26926,42PZ.00,Platelet count NOS
+PV,9539,42B..00,Plasma viscosity
+PV,19808,42B..11,Plasma viscosity - PV
+PV,26829,42B1.00,Plasma viscosity normal
+PV,44367,42B2.00,Plasma visc. borderline raised
+PV,44366,42B3.00,Plasma viscosity raised
+PV,64249,42B4.00,Plasma viscosity low
+PV,71099,42B5.00,Plasma visc. borderline low
+PV,26828,42BZ.00,Plasma viscosity NOS
+PV,99521,5884,Blood/plasma viscosimetry
+PV,44230,R108.00,[D]Abnormal plasma viscosity
